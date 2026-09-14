@@ -1,0 +1,1376 @@
+{
+  "title": "Chem 1 — Exam 1: Atoms, Molecules, and Ions",
+  "description": "Practice set for one chemistry exam, collated from a shared term list and exam review notes.",
+  "image": {
+    "id": "periodic-table",
+    "file": "assets/periodic-table.png",
+    "alt": "Hand-annotated blank periodic table. Purple diagonal slashes mark the non-metals in the upper right (plus hydrogen). Blue diagonal slashes mark the metals across the left and center and the two detached bottom rows. Pink diagonal slashes mark the semimetals along the staircase between them. Solid fills: pink group 1A, orange group 2A, yellow group 7A, green group 8A.",
+    "caption": "Annotated periodic table from the original flashcard set. Colors and slash patterns are the answer key for the group and metal-classification cards.",
+    "legend": [
+      {
+        "marking": "Purple slashes",
+        "means": "Non-metals (upper right, plus H)"
+      },
+      {
+        "marking": "Blue slashes",
+        "means": "Metals"
+      },
+      {
+        "marking": "Pink slashes",
+        "means": "Semimetals / metalloids, along the staircase"
+      },
+      {
+        "marking": "Solid pink",
+        "means": "Group 1A — alkali metals"
+      },
+      {
+        "marking": "Solid orange",
+        "means": "Group 2A — alkaline earth metals"
+      },
+      {
+        "marking": "Solid yellow",
+        "means": "Group 7A — halogens"
+      },
+      {
+        "marking": "Solid green",
+        "means": "Group 8A — noble gases"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "definitions",
+      "name": "Core definitions"
+    },
+    {
+      "id": "periodic-table",
+      "name": "Reading the periodic table"
+    },
+    {
+      "id": "properties-laws",
+      "name": "Properties and chemical laws"
+    },
+    {
+      "id": "atomic-theory",
+      "name": "Atomic theory and discovery"
+    },
+    {
+      "id": "isotopes",
+      "name": "Isotopes and atomic structure"
+    },
+    {
+      "id": "moles-ions",
+      "name": "Moles and ions"
+    },
+    {
+      "id": "bonding",
+      "name": "Bonding and nomenclature"
+    }
+  ],
+  "questions": [
+    {
+      "id": "fc-01",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Atomic mass",
+      "answer": "The average of naturally occurring isotopic masses."
+    },
+    {
+      "id": "fc-02",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Atom",
+      "answer": "The smallest unit of an element."
+    },
+    {
+      "id": "fc-03",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Element",
+      "answer": "The purest form of a substance."
+    },
+    {
+      "id": "fc-04",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Ion",
+      "answer": "A charged atom where electrons and protons are not balanced."
+    },
+    {
+      "id": "fc-05",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Cation",
+      "answer": "A positively charged particle."
+    },
+    {
+      "id": "fc-06",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Anion",
+      "answer": "A negatively charged particle."
+    },
+    {
+      "id": "fc-07",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Atomic number (Z)",
+      "answer": "The number of protons in an atom's nucleus."
+    },
+    {
+      "id": "fc-08",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Mass number (A)",
+      "answer": "The sum of protons and neutrons."
+    },
+    {
+      "id": "fc-09",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Isotope",
+      "answer": "Atoms with identical atomic numbers but different mass numbers."
+    },
+    {
+      "id": "fc-10",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Avogadro's number",
+      "answer": "6.022 × 10^{23} formula units = 1 mole."
+    },
+    {
+      "id": "fc-11",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Molar mass",
+      "answer": "The mass in grams of one mole of any element."
+    },
+    {
+      "id": "fc-12",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Mixture",
+      "answer": "A blend of substances without changing chemically."
+    },
+    {
+      "id": "fc-13",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Aqueous solution",
+      "answer": "A solution with water as the solvent."
+    },
+    {
+      "id": "fc-41",
+      "type": "flashcard",
+      "section": "definitions",
+      "prompt": "Subatomic particles",
+      "answer": "Protons (1+) and neutrons (no charge) sit in the nucleus; electrons (1-) surround it. An electron is about 1/1836 the mass of a proton."
+    },
+    {
+      "id": "fc-14",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Chemical bonds",
+      "answer": "The force that holds atoms together in chemical compounds."
+    },
+    {
+      "id": "fc-15",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Covalent bonds",
+      "answer": "Two atoms share electrons, typically non-metals."
+    },
+    {
+      "id": "fc-16",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Ionic bond",
+      "answer": "Transfer of an electron from a metal to a non-metal, held together by strong electrical attraction."
+    },
+    {
+      "id": "fc-17",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Polyatomic ions",
+      "answer": "Charged, covalently bonded groups of atoms."
+    },
+    {
+      "id": "fc-18",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Oxoanions",
+      "answer": "Polyatomic ions that contain oxygen in combination with one or more other elements."
+    },
+    {
+      "id": "fc-42",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Greek prefixes",
+      "answer": "mono- 1, di- 2, tri- 3, tetra- 4, penta- 5. The first element in a name never takes mono-."
+    },
+    {
+      "id": "fc-43",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Naming two non-metals",
+      "answer": "Greek prefixes for both counts, and an -ide ending on the second element. N_2O_3 is dinitrogen trioxide."
+    },
+    {
+      "id": "fc-44",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Naming a metal with a non-metal",
+      "answer": "Name the metal, then the non-metal with an -ide ending, and use no Greek prefixes. Ca_3N_2 is calcium nitride."
+    },
+    {
+      "id": "fc-45",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Roman numerals in a name",
+      "answer": "Used for metals that can carry more than one charge, and they give that charge. Iron(II) is Fe^{2+}."
+    },
+    {
+      "id": "fc-46",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "-ate and -ite endings",
+      "answer": "Both mark oxoanions, and the -ate form carries one more oxygen than the -ite form. Nitrate is NO_3^-, nitrite is NO_2^-."
+    },
+    {
+      "id": "fc-47",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Common polyatomic ions",
+      "answer": "Carbonate CO_3^{2-}, nitrate NO_3^-, phosphate PO_4^{3-}, cyanide CN^-, peroxide O_2^{2-}."
+    },
+    {
+      "id": "fc-48",
+      "type": "flashcard",
+      "section": "bonding",
+      "prompt": "Peroxide",
+      "answer": "The O_2^{2-} ion — two oxygens sharing one 2- charge. Not the oxide ion O^{2-}."
+    },
+    {
+      "id": "fc-19",
+      "type": "flashcard",
+      "section": "atomic-theory",
+      "prompt": "Dalton's atomic theory",
+      "answer": "Elements are made of atoms. Each element is characterized by the mass of its atoms (Dalton did not know about isotopes). Chemical reactions only rearrange atoms, they do not change them."
+    },
+    {
+      "id": "fc-20",
+      "type": "flashcard",
+      "section": "atomic-theory",
+      "prompt": "Cathode ray tube",
+      "answer": "J.J. Thomson discovered electrons, and that they are negatively charged."
+    },
+    {
+      "id": "fc-21",
+      "type": "flashcard",
+      "section": "atomic-theory",
+      "prompt": "Gold foil experiment",
+      "answer": "Ernest Rutherford discovered there must be mass concentrated at the center of the atom, because some particles were deflected."
+    },
+    {
+      "id": "fc-49",
+      "type": "flashcard",
+      "section": "atomic-theory",
+      "prompt": "Oil drop experiment",
+      "answer": "Robert Millikan measured the charge on a single electron. With Thomson's charge-to-mass ratio, that gives the electron's mass."
+    },
+    {
+      "id": "fc-22",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Periods",
+      "answer": "Horizontal rows in the periodic table.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-23",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Groups",
+      "answer": "Vertical columns in the periodic table, 1A-8A and 1B-8B (US system).",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-24",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Main groups",
+      "answer": "Columns 1A-2A (2 groups) and columns 3A-8A (6 groups).",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-25",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Transition metals",
+      "answer": "3B-2B (the B groups, 10 columns).",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-26",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Inner transition metals",
+      "answer": "14 groups between 3B and 4B, including the lanthanides and actinides.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-27",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Alkali metals",
+      "answer": "Group 1A, very reactive. Solid pink on the annotated table.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-28",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Alkaline earth metals",
+      "answer": "Group 2A, not as reactive as the alkali metals. Solid orange on the annotated table.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-29",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Halogens",
+      "answer": "Group 7A, very reactive, combine with themselves to become less reactive. Solid yellow on the annotated table.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-30",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Noble gases",
+      "answer": "Group 8A, stable. Solid green on the annotated table.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-31",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Metals",
+      "answer": "Blue slashes on the annotated table — the left and center block plus the two detached bottom rows.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-32",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Non-metals",
+      "answer": "Purple slashes on the annotated table — the upper-right block, plus hydrogen.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-33",
+      "type": "flashcard",
+      "section": "periodic-table",
+      "prompt": "Semimetals (metalloids)",
+      "answer": "Pink slashes on the annotated table, along the staircase between the metals and non-metals.",
+      "image": "periodic-table"
+    },
+    {
+      "id": "fc-34",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Intensive properties",
+      "answer": "Properties independent of sample size."
+    },
+    {
+      "id": "fc-35",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Extensive properties",
+      "answer": "Properties dependent on sample size."
+    },
+    {
+      "id": "fc-36",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Physical properties",
+      "answer": "Properties that do not change chemical makeup."
+    },
+    {
+      "id": "fc-37",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Chemical properties",
+      "answer": "Properties that do change chemical makeup."
+    },
+    {
+      "id": "fc-38",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Law of conservation of mass",
+      "answer": "Mass is conserved in chemical reactions."
+    },
+    {
+      "id": "fc-39",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Law of definite proportions",
+      "answer": "Different samples of a pure substance always contain the same proportion of elements by mass."
+    },
+    {
+      "id": "fc-40",
+      "type": "flashcard",
+      "section": "properties-laws",
+      "prompt": "Law of multiple proportions",
+      "answer": "Mass ratios of elements in compounds are multiples of each other."
+    },
+    {
+      "id": "fc-50",
+      "type": "flashcard",
+      "section": "isotopes",
+      "prompt": "Isotope notation",
+      "answer": "The name carries the mass number: boron-9 is boron with mass number 9. The atomic number is fixed by the element."
+    },
+    {
+      "id": "fc-51",
+      "type": "flashcard",
+      "section": "isotopes",
+      "prompt": "Finding the neutron count",
+      "answer": "Neutrons = mass number - atomic number."
+    },
+    {
+      "id": "fc-52",
+      "type": "flashcard",
+      "section": "isotopes",
+      "prompt": "Neutral atom",
+      "answer": "Electrons equal protons. Any charge means that balance has been broken."
+    },
+    {
+      "id": "fc-53",
+      "type": "flashcard",
+      "section": "moles-ions",
+      "prompt": "Moles from mass",
+      "answer": "Moles = grams ÷ molar mass."
+    },
+    {
+      "id": "fc-54",
+      "type": "flashcard",
+      "section": "moles-ions",
+      "prompt": "Atoms from moles",
+      "answer": "Atoms = moles × 6.022 × 10^{23}."
+    },
+    {
+      "id": "fc-55",
+      "type": "flashcard",
+      "section": "moles-ions",
+      "prompt": "Electrons in an ion",
+      "answer": "Start from the proton count and subtract the charge. A 2+ ion has two fewer electrons than protons; a 2- ion has two more."
+    },
+    {
+      "id": "ex-01",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Gaseous elements characterized by low reactivity are found in which group of the periodic table?",
+      "choices": [
+        "Group 1A",
+        "Group 4A",
+        "Group 7A",
+        "Group 8A"
+      ],
+      "answerIndex": 3,
+      "explanation": "Group 8A is the noble gases — stable and unreactive because their valence shells are full. They are solid green on the annotated table."
+    },
+    {
+      "id": "ex-02",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "Which of the following is NOT a postulate of Dalton's atomic theory?",
+      "choices": [
+        "Elements are made of atoms",
+        "Atoms are composed of protons, neutrons, and electrons",
+        "Chemical reactions rearrange atoms rather than changing them",
+        "Each element is characterized by the mass of its atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "Subatomic particles were discovered long after Dalton. His atoms were indivisible."
+    },
+    {
+      "id": "ex-03",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "Which of the following IS part of Dalton's atomic theory?",
+      "choices": [
+        "Atoms are rearranged but not changed during a chemical reaction",
+        "Atoms contain a dense, positively charged nucleus",
+        "Electrons occupy specific orbitals around the nucleus",
+        "Atoms of the same element can have different masses"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rearrangement without change is Dalton's third postulate, and it is why mass is conserved in reactions. The nucleus came from Rutherford."
+    },
+    {
+      "id": "ex-04",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "Which of the following is NOT explained by Dalton's atomic theory?",
+      "choices": [
+        "The law of conservation of mass",
+        "The law of definite proportions",
+        "The existence of more than one isotope of an element",
+        "The law of multiple proportions"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dalton said every atom of an element has the same mass, so isotopes contradict his theory."
+    },
+    {
+      "id": "ex-05",
+      "type": "multiple_choice",
+      "section": "properties-laws",
+      "prompt": "Which of the following does NOT describe a physical property of chlorine?",
+      "choices": [
+        "It is a greenish-yellow gas at room temperature",
+        "It combines with sodium to form table salt",
+        "It has a sharp, irritating odor",
+        "It boils at -34 degrees Celsius"
+      ],
+      "answerIndex": 1,
+      "explanation": "Combining with sodium changes chlorine's chemical makeup, so it is a chemical property."
+    },
+    {
+      "id": "ex-06",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "The existence of electrons in atoms of all elements was demonstrated by:",
+      "choices": [
+        "Rutherford's gold foil experiment",
+        "Millikan's oil drop experiment",
+        "Thomson's cathode ray tube experiment",
+        "Dalton's law of multiple proportions"
+      ],
+      "answerIndex": 2,
+      "explanation": "The cathode ray beam bent toward a positive plate, showing a negatively charged particle present regardless of the electrode material."
+    },
+    {
+      "id": "ex-07",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "The charge-to-mass ratio of an electron was established by:",
+      "choices": [
+        "J.J. Thomson",
+        "Robert Millikan",
+        "Ernest Rutherford",
+        "John Dalton"
+      ],
+      "answerIndex": 0,
+      "explanation": "Thomson measured the ratio with the cathode ray tube. Millikan later measured the charge alone with the oil drop experiment, which let the mass be calculated."
+    },
+    {
+      "id": "ex-08",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "Which subatomic particle has the smallest mass?",
+      "choices": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "They are all equal"
+      ],
+      "answerIndex": 2,
+      "explanation": "An electron is roughly 1/1836 the mass of a proton."
+    },
+    {
+      "id": "ex-09",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "The mass number of an atom is equal to the number of:",
+      "choices": [
+        "Protons only",
+        "Protons plus electrons",
+        "Protons plus neutrons",
+        "Neutrons only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mass number A = protons + neutrons. Electrons are too light to count."
+    },
+    {
+      "id": "ex-10",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "Which of the following two atoms are isotopes of each other?",
+      "choices": [
+        "Carbon-12 and carbon-13",
+        "Carbon-14 and nitrogen-14",
+        "Argon-40 and calcium-40",
+        "Hydrogen-1 and helium-4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isotopes share an atomic number and differ in mass number. Both carbons have 6 protons; the other pairs are different elements."
+    },
+    {
+      "id": "ex-11",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "Boron-9 can be represented as:",
+      "choices": [
+        "Mass number 9, atomic number 5",
+        "Mass number 5, atomic number 9",
+        "Mass number 9, atomic number 4",
+        "Mass number 14, atomic number 5"
+      ],
+      "answerIndex": 0,
+      "explanation": "Boron is always atomic number 5. The name boron-9 gives the mass number."
+    },
+    {
+      "id": "ex-12",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "How many protons and neutrons are in an atom with mass number 90 and atomic number 38?",
+      "choices": [
+        "Sr: p = 38, n = 90",
+        "Sr: p = 38, n = 52",
+        "Zr: p = 40, n = 50",
+        "Sr: p = 52, n = 38"
+      ],
+      "answerIndex": 1,
+      "explanation": "Neutrons = mass number minus atomic number = 90 - 38 = 52. Atomic number 38 is strontium."
+    },
+    {
+      "id": "ex-13",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "How many protons and neutrons are in an atom of calcium-46?",
+      "choices": [
+        "p = 20, n = 46",
+        "p = 46, n = 20",
+        "p = 20, n = 26",
+        "p = 26, n = 20"
+      ],
+      "answerIndex": 2,
+      "explanation": "Calcium is atomic number 20, so neutrons = 46 - 20 = 26."
+    },
+    {
+      "id": "ex-14",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "What is the chemical symbol for an atom that has 29 protons and 36 neutrons?",
+      "choices": [
+        "Zn",
+        "Cu",
+        "Ge",
+        "Br"
+      ],
+      "answerIndex": 1,
+      "explanation": "The proton count alone fixes the identity: 29 protons is copper. The neutrons make it copper-65."
+    },
+    {
+      "id": "ex-15",
+      "type": "multiple_choice",
+      "section": "isotopes",
+      "prompt": "How many protons, neutrons, and electrons are in one neutral atom of magnesium-23 (atomic number 12)?",
+      "choices": [
+        "p = 12, n = 11, e = 12",
+        "p = 12, n = 23, e = 12",
+        "p = 11, n = 12, e = 11",
+        "p = 12, n = 11, e = 10"
+      ],
+      "answerIndex": 0,
+      "explanation": "Protons = 12, neutrons = 23 - 12 = 11, and a neutral atom has electrons equal to protons."
+    },
+    {
+      "id": "ex-16",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "How many moles and how many atoms of zinc are in a sample weighing 34.9 g? (Molar mass of Zn = 65.38 g/mol)",
+      "choices": [
+        "0.534 mol and 3.21 × 10^{23} atoms",
+        "0.534 mol and 8.86 × 10^{-25} atoms",
+        "1.87 mol and 1.13 × 10^{24} atoms",
+        "2282 mol and 1.37 × 10^{27} atoms"
+      ],
+      "answerIndex": 0,
+      "explanation": "Divide grams by molar mass for moles: 34.9 / 65.38 = 0.534 mol. Multiply moles by Avogadro's number for atoms: 0.534 × 6.022 × 10^{23} = 3.21 × 10^{23}. A negative exponent means you divided by Avogadro's number instead of multiplying."
+    },
+    {
+      "id": "ex-17",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "How many electrons are in the ion Zn^{2+}?",
+      "choices": [
+        "32",
+        "30",
+        "28",
+        "34"
+      ],
+      "answerIndex": 2,
+      "explanation": "Zinc has 30 protons. A 2+ charge means two electrons were lost: 30 - 2 = 28."
+    },
+    {
+      "id": "ex-18",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "What is the identity of element Q if the ion Q^{2+} contains 10 electrons?",
+      "choices": [
+        "Neon",
+        "Sodium",
+        "Magnesium",
+        "Calcium"
+      ],
+      "answerIndex": 2,
+      "explanation": "A 2+ ion lost two electrons, so the neutral atom had 12 electrons and therefore 12 protons — magnesium. Neon is the trap: it has 10 electrons, but only as a neutral atom."
+    },
+    {
+      "id": "ex-19",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "What type of bonding is found in the compound PCl_5?",
+      "choices": [
+        "Ionic",
+        "Covalent",
+        "Metallic",
+        "Hydrogen bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Phosphorus and chlorine are both non-metals, so they share electrons."
+    },
+    {
+      "id": "ex-20",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "The solid compound Na_2CO_3 contains which ions?",
+      "choices": [
+        "Na^+ ions and CO_3^{2-} ions",
+        "Na^{2+} ions and CO_3^- ions",
+        "Na^+, C^{4+}, and O^{2-} ions",
+        "Na^+ ions and NaCO_3^- ions"
+      ],
+      "answerIndex": 0,
+      "explanation": "Carbonate is a polyatomic ion that stays intact, carrying a 2- charge, balanced by two sodium ions at 1+ each."
+    },
+    {
+      "id": "ex-21",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "The formula for dinitrogen trioxide is:",
+      "choices": [
+        "NO_3",
+        "N_2O_3",
+        "N_3O_2",
+        "N_2O"
+      ],
+      "answerIndex": 1,
+      "explanation": "Greek prefixes give the counts directly: di- = 2 nitrogen, tri- = 3 oxygen."
+    },
+    {
+      "id": "ex-22",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "The chemical formula for potassium peroxide is:",
+      "choices": [
+        "K_2O",
+        "KO_2",
+        "K_2O_2",
+        "KO"
+      ],
+      "answerIndex": 2,
+      "explanation": "Peroxide is O_2^{2-}, not O^{2-}. Two potassium ions at 1+ each balance it."
+    },
+    {
+      "id": "ex-23",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "The compound NO_2 is named:",
+      "choices": [
+        "Nitrous oxide",
+        "Dinitrogen oxide",
+        "Nitrogen dioxide",
+        "Nitrogen(II) oxide"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two non-metals, so use Greek prefixes: one nitrogen needs no prefix, two oxygens gives di-."
+    },
+    {
+      "id": "ex-24",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "KH_2PO_4 is named:",
+      "choices": [
+        "Potassium phosphate",
+        "Potassium dihydrogen phosphate",
+        "Potassium hydrogen phosphate",
+        "Dipotassium hydrogen phosphite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Phosphate is PO_4^{3-}. Two hydrogens neutralize two of those charges, leaving 1- to pair with one potassium."
+    },
+    {
+      "id": "ex-25",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "What is the name of the compound formed between Ca and N?",
+      "choices": [
+        "Calcium nitrate",
+        "Calcium nitrite",
+        "Calcium nitride",
+        "Calcium(II) nitride"
+      ],
+      "answerIndex": 2,
+      "explanation": "A metal with a lone non-metal takes the -ide ending. Ca^{2+} and N^{3-} cross over to Ca_3N_2. Nitrate and nitrite are oxygen-containing polyatomic ions."
+    },
+    {
+      "id": "ex-26a",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "PCl_5 is named:",
+      "choices": [
+        "Phosphorus pentachloride",
+        "Potassium pentachloride",
+        "Phosphorus chloride",
+        "Monophosphorus pentachloride"
+      ],
+      "answerIndex": 0,
+      "explanation": "P is phosphorus; potassium is K. Two non-metals take Greek prefixes, so five chlorines give penta-, and the first element never takes mono-."
+    },
+    {
+      "id": "ex-26b",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "NaCN is named:",
+      "choices": [
+        "Sodium cyanide",
+        "Sodium cyanate",
+        "Sodium nitride",
+        "Sodium carbide"
+      ],
+      "answerIndex": 0,
+      "explanation": "CN^- is cyanide, a polyatomic ion that stays intact. Cyanate is OCN^-, the same ion with an oxygen added."
+    },
+    {
+      "id": "ex-26c",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "KrF_4 is named:",
+      "choices": [
+        "Krypton tetrafluoride",
+        "Krypton(IV) fluoride",
+        "Potassium tetrafluoride",
+        "Krypton fluoride"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kr is krypton and F is a non-metal, so Greek prefixes apply: four fluorines give tetra-. Roman numerals are for metals with more than one possible charge. Potassium is K."
+    },
+    {
+      "id": "ex-26d",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "Fe(NO_3)_2 is named:",
+      "choices": [
+        "Iron(II) nitrate",
+        "Iron(II) nitride",
+        "Iron(III) nitrate",
+        "Iron(II) nitrite"
+      ],
+      "answerIndex": 0,
+      "explanation": "NO_3^- is nitrate; nitride is N^{3-} and nitrite is NO_2^-. Two nitrates at 1- each mean the iron carries 2+, written iron(II)."
+    },
+    {
+      "id": "ex-27",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "Atomic mass is best described as:",
+      "choices": [
+        "The average of naturally occurring isotopic masses",
+        "The number of protons in the nucleus",
+        "The combined mass of the protons and neutrons in one atom",
+        "The mass of the most abundant isotope"
+      ],
+      "answerIndex": 0,
+      "explanation": "Atomic mass is a weighted average across the isotopes as they occur in nature, which is why the values on the periodic table are rarely whole numbers. Protons alone give the atomic number; protons plus neutrons give the mass number of one particular isotope."
+    },
+    {
+      "id": "ex-28",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "A neutral atom that loses two electrons becomes:",
+      "choices": [
+        "A cation with a 2+ charge",
+        "An anion with a 2- charge",
+        "A cation with a 2- charge",
+        "An isotope with a 2+ charge"
+      ],
+      "answerIndex": 0,
+      "explanation": "Electrons are negative, so losing two leaves two more protons than electrons and a 2+ charge. Positive ions are cations, negative ions are anions. Gaining or losing electrons never changes the number of neutrons, so the isotope is unaffected."
+    },
+    {
+      "id": "ex-29",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "The molar mass of an element is:",
+      "choices": [
+        "The mass in grams of one mole of that element",
+        "The mass in grams of one atom of that element",
+        "The number of atoms in one gram of that element",
+        "The number of moles in one gram of that element"
+      ],
+      "answerIndex": 0,
+      "explanation": "One mole is 6.022 × 10^{23} formula units, so molar mass is what that many units weigh in grams — the figure read straight off the periodic table, in g/mol."
+    },
+    {
+      "id": "ex-30",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "A solution is described as aqueous when:",
+      "choices": [
+        "Water is the solvent",
+        "Water is the solute",
+        "It contains no water",
+        "It is a blend of two liquids"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aqueous means dissolved in water. The solvent is the substance doing the dissolving, and whatever dissolves into it is the solute."
+    },
+    {
+      "id": "ex-31",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "What distinguishes a mixture from a compound?",
+      "choices": [
+        "Its components are blended without changing chemically",
+        "Its components are always present in a fixed proportion",
+        "Its components are held together by covalent bonds",
+        "It contains only one element"
+      ],
+      "answerIndex": 0,
+      "explanation": "In a mixture each substance keeps its own identity and any proportion is possible. A compound has its elements chemically bonded in a fixed proportion — that is the law of definite proportions."
+    },
+    {
+      "id": "ex-32",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Horizontal rows in the periodic table are called:",
+      "choices": [
+        "Periods",
+        "Groups",
+        "Families",
+        "Blocks"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rows run across and are periods. Columns run down and are groups, also called families."
+    },
+    {
+      "id": "ex-33",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Group 2A elements are known as the:",
+      "choices": [
+        "Alkaline earth metals",
+        "Alkali metals",
+        "Halogens",
+        "Noble gases"
+      ],
+      "answerIndex": 0,
+      "explanation": "Group 2A is solid orange on the annotated table. Group 1A immediately to its left is the alkali metals, which are the more reactive of the two."
+    },
+    {
+      "id": "ex-34",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Which group holds the very reactive non-metals that combine with themselves to become less reactive?",
+      "choices": [
+        "Group 7A",
+        "Group 8A",
+        "Group 1A",
+        "Group 6A"
+      ],
+      "answerIndex": 0,
+      "explanation": "The halogens, solid yellow on the annotated table. They are one electron short of a full shell, so they are highly reactive and pair up with each other — chlorine exists as Cl_2. Group 8A is already full and unreactive."
+    },
+    {
+      "id": "ex-35",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "The semimetals, or metalloids, are found:",
+      "choices": [
+        "Along the staircase between the metals and non-metals",
+        "In the two detached rows at the bottom",
+        "In the leftmost column",
+        "Scattered among the transition metals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pink slashes trace the staircase on the annotated table. Semimetals sit on the boundary and show properties of both sides."
+    },
+    {
+      "id": "ex-36",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "The transition metals occupy:",
+      "choices": [
+        "The B groups — ten columns through the middle",
+        "The two detached rows at the bottom",
+        "Groups 1A and 2A",
+        "The upper-right block"
+      ],
+      "answerIndex": 0,
+      "explanation": "Groups 3B through 2B, ten columns between the main groups. The two detached rows at the bottom are the inner transition metals: the lanthanides and actinides."
+    },
+    {
+      "id": "ex-37",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "prompt": "How many main groups does the periodic table have?",
+      "choices": [
+        "Eight",
+        "Ten",
+        "Fourteen",
+        "Eighteen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Columns 1A-2A give two and columns 3A-8A give six, so eight main groups. Ten is the number of transition metal columns and fourteen the inner transition metals."
+    },
+    {
+      "id": "ex-38",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Where are the metals found on the periodic table?",
+      "choices": [
+        "Across the left and centre, plus the two detached bottom rows",
+        "Only in the upper-right block",
+        "Only along the staircase",
+        "Only in the B groups"
+      ],
+      "answerIndex": 0,
+      "explanation": "Blue slashes cover the metals on the annotated table — the left and centre block together with the lanthanides and actinides. The purple-slashed upper right is the non-metals."
+    },
+    {
+      "id": "ex-39",
+      "type": "multiple_choice",
+      "section": "properties-laws",
+      "prompt": "Which of the following is an intensive property?",
+      "choices": [
+        "Density",
+        "Mass",
+        "Volume",
+        "Total energy content"
+      ],
+      "answerIndex": 0,
+      "explanation": "Intensive properties do not depend on how much of the substance you have: a drop of water and a litre of it have the same density. Mass, volume and total energy all scale with the size of the sample, so they are extensive."
+    },
+    {
+      "id": "ex-40",
+      "type": "multiple_choice",
+      "section": "properties-laws",
+      "prompt": "Water from two different sources is found to contain the same mass ratio of hydrogen to oxygen. This illustrates:",
+      "choices": [
+        "The law of definite proportions",
+        "The law of multiple proportions",
+        "The law of conservation of mass",
+        "Dalton's third postulate"
+      ],
+      "answerIndex": 0,
+      "explanation": "Different samples of one pure substance always contain the same proportion of elements by mass. Multiple proportions is about two different compounds made from the same pair of elements."
+    },
+    {
+      "id": "ex-41",
+      "type": "multiple_choice",
+      "section": "properties-laws",
+      "prompt": "Carbon and oxygen form both CO and CO_2. For a fixed mass of carbon, the two oxygen masses stand in a simple 1:2 ratio. This illustrates:",
+      "choices": [
+        "The law of multiple proportions",
+        "The law of definite proportions",
+        "The law of conservation of mass",
+        "Avogadro's number"
+      ],
+      "answerIndex": 0,
+      "explanation": "When the same two elements form more than one compound, the mass ratios are small whole-number multiples of each other. Definite proportions applies within a single compound, not across two."
+    },
+    {
+      "id": "ex-42",
+      "type": "multiple_choice",
+      "section": "properties-laws",
+      "prompt": "A reaction runs inside a sealed container and the total mass is unchanged afterwards. This is:",
+      "choices": [
+        "The law of conservation of mass",
+        "The law of definite proportions",
+        "The law of multiple proportions",
+        "An intensive property"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mass is conserved because a reaction only rearranges atoms — Dalton's third postulate — and a sealed container lets none in or out."
+    },
+    {
+      "id": "ex-43",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "The charge on a single electron was measured by:",
+      "choices": [
+        "Millikan's oil drop experiment",
+        "Thomson's cathode ray tube",
+        "Rutherford's gold foil experiment",
+        "Dalton's law of multiple proportions"
+      ],
+      "answerIndex": 0,
+      "explanation": "Thomson's tube gave the charge-to-mass ratio, not the charge. Millikan measured the charge on its own, and the two results together give the electron's mass."
+    },
+    {
+      "id": "ex-44",
+      "type": "multiple_choice",
+      "section": "atomic-theory",
+      "prompt": "Rutherford's gold foil experiment demonstrated that:",
+      "choices": [
+        "An atom has its mass concentrated at the centre",
+        "Electrons carry a negative charge",
+        "Every atom of an element has the same mass",
+        "Mass is conserved during a reaction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Most particles passed straight through the foil, but a few were deflected sharply. That only makes sense if a small, dense region holds the atom’s mass."
+    },
+    {
+      "id": "ex-45",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "How many moles are in 27.0 g of aluminium? (Molar mass of Al = 26.98 g/mol)",
+      "choices": [
+        "1.00 mol",
+        "26.98 mol",
+        "728 mol",
+        "1.63 × 10^{25} mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "Moles = grams ÷ molar mass = 27.0 / 26.98 = 1.00 mol. Multiplying instead of dividing gives 728, and Avogadro's number belongs in the next step, converting moles to atoms."
+    },
+    {
+      "id": "ex-46",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "How many electrons are in the ion S^{2-}? (Sulfur is atomic number 16)",
+      "choices": [
+        "18",
+        "16",
+        "14",
+        "32"
+      ],
+      "answerIndex": 0,
+      "explanation": "A 2- charge means two electrons were gained: 16 + 2 = 18. Losing two instead would give 14 and a positive cation."
+    },
+    {
+      "id": "ex-47",
+      "type": "multiple_choice",
+      "section": "moles-ions",
+      "prompt": "How many atoms are in 2.00 moles of helium?",
+      "choices": [
+        "1.20 × 10^{24}",
+        "6.02 × 10^{23}",
+        "3.01 × 10^{23}",
+        "1.20 × 10^{23}"
+      ],
+      "answerIndex": 0,
+      "explanation": "Multiply moles by Avogadro's number: 2.00 × 6.022 × 10^{23} = 1.20 × 10^{24}. One mole on its own would be 6.02 × 10^{23}."
+    },
+    {
+      "id": "ex-48",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "The smallest unit of an element is:",
+      "choices": [
+        "An atom",
+        "A molecule",
+        "An ion",
+        "A proton"
+      ],
+      "answerIndex": 0,
+      "explanation": "An atom is the smallest piece that is still that element. Break it further and you get subatomic particles, which are identical from one element to the next."
+    },
+    {
+      "id": "ex-49",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "A substance in its purest form, built from only one kind of atom, is:",
+      "choices": [
+        "An element",
+        "A compound",
+        "A mixture",
+        "An aqueous solution"
+      ],
+      "answerIndex": 0,
+      "explanation": "An element cannot be broken into simpler substances chemically. A compound holds two or more elements bonded together; a mixture blends substances without bonding them."
+    },
+    {
+      "id": "ex-50",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "An atom becomes an ion when:",
+      "choices": [
+        "Its protons and electrons are no longer balanced",
+        "It gains or loses neutrons",
+        "It bonds to another atom",
+        "Its mass number changes"
+      ],
+      "answerIndex": 0,
+      "explanation": "An ion is a charged atom, so the proton and electron counts no longer match. Changing the neutron count gives an isotope instead, and that carries no charge."
+    },
+    {
+      "id": "ex-51",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "A negatively charged ion is called:",
+      "choices": [
+        "An anion",
+        "A cation",
+        "An isotope",
+        "An oxoanion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anions are negative and form by gaining electrons; cations are positive and form by losing them. An oxoanion is one particular kind of anion, one containing oxygen."
+    },
+    {
+      "id": "ex-52",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "An element's atomic number tells you:",
+      "choices": [
+        "The number of protons in the nucleus",
+        "The number of protons plus neutrons",
+        "The average of its isotopic masses",
+        "The number of neutrons in the nucleus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Atomic number Z is the proton count, and it is what fixes the identity of the element. Protons plus neutrons is the mass number A."
+    },
+    {
+      "id": "ex-53",
+      "type": "multiple_choice",
+      "section": "definitions",
+      "prompt": "6.022 × 10^{23} formula units of a substance is:",
+      "choices": [
+        "One mole",
+        "One gram",
+        "One molar mass",
+        "One atomic mass unit"
+      ],
+      "answerIndex": 0,
+      "explanation": "Avogadro's number defines the mole. It is a count, like a dozen, just vastly larger. Molar mass is what one mole weighs."
+    },
+    {
+      "id": "ex-54",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "A chemical bond is:",
+      "choices": [
+        "The force holding atoms together in a compound",
+        "A transfer of neutrons between atoms",
+        "A blend of two elements that stay chemically unchanged",
+        "The force holding a nucleus together"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bonds are electrical attractions between atoms, made by sharing or transferring electrons. The nucleus is not involved, and a blend without chemical change is a mixture."
+    },
+    {
+      "id": "ex-55",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "An ionic bond forms when:",
+      "choices": [
+        "An electron transfers from a metal to a non-metal",
+        "Two non-metals share a pair of electrons",
+        "Two atoms exchange neutrons",
+        "A polyatomic ion splits apart"
+      ],
+      "answerIndex": 0,
+      "explanation": "The metal loses an electron and becomes a cation, the non-metal gains it and becomes an anion, and the opposite charges attract strongly. Sharing between two non-metals is a covalent bond instead."
+    },
+    {
+      "id": "ex-56",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "A polyatomic ion is:",
+      "choices": [
+        "A covalently bonded group of atoms carrying one overall charge",
+        "A single atom carrying a charge",
+        "Two ions joined by an ionic bond",
+        "An atom with extra neutrons"
+      ],
+      "answerIndex": 0,
+      "explanation": "The atoms inside are bonded to each other and the group carries a single charge, which is why carbonate CO_3^{2-} passes through a reaction intact rather than breaking up."
+    },
+    {
+      "id": "ex-57",
+      "type": "multiple_choice",
+      "section": "bonding",
+      "prompt": "An oxoanion is a polyatomic ion that:",
+      "choices": [
+        "Contains oxygen combined with one or more other elements",
+        "Contains only one element",
+        "Always carries a 1- charge",
+        "Always contains hydrogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nitrate NO_3^-, carbonate CO_3^{2-} and phosphate PO_4^{3-} are all oxoanions, and the -ate and -ite endings are how you spot them."
+    },
+    {
+      "id": "ex-58",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "In the US system, the columns of the periodic table are numbered:",
+      "choices": [
+        "1A-8A and 1B-8B",
+        "1 through 7 only",
+        "By period number",
+        "A through Z"
+      ],
+      "answerIndex": 0,
+      "explanation": "Columns are groups, also called families. The A groups are the main groups and the B groups are the transition metals."
+    },
+    {
+      "id": "ex-59",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "The lanthanides and actinides are:",
+      "choices": [
+        "The inner transition metals, the two detached rows at the bottom",
+        "The alkali metals",
+        "The halogens",
+        "The semimetals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fourteen groups that belong between 3B and 4B, pulled out below the table to keep it narrow. Blue slashes mark them as metals on the annotated table."
+    },
+    {
+      "id": "ex-60",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "Group 1A elements are called the:",
+      "choices": [
+        "Alkali metals",
+        "Alkaline earth metals",
+        "Halogens",
+        "Transition metals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Solid pink on the annotated table, and very reactive. Group 2A beside them is the alkaline earth metals, which are less reactive."
+    },
+    {
+      "id": "ex-61",
+      "type": "multiple_choice",
+      "section": "periodic-table",
+      "image": "periodic-table",
+      "prompt": "The non-metals are found:",
+      "choices": [
+        "In the upper-right block, plus hydrogen",
+        "In the two leftmost columns",
+        "In the two detached rows at the bottom",
+        "Only along the staircase"
+      ],
+      "answerIndex": 0,
+      "explanation": "Purple slashes on the annotated table cover the upper-right block, and hydrogen as well, even though it sits above group 1A."
+    }
+  ]
+}
