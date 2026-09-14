@@ -22,6 +22,7 @@ export function home(ctx) {
     el(
       'div',
       { className: 'masthead' },
+      el('span', { className: 'superHeader' }, set.superTitle),
       el('h1', {}, set.title),
       set.description ? el('p', { className: 'muted' }, set.description) : null,
     ),
