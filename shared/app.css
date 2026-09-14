@@ -219,6 +219,7 @@ select {
 
 .masthead { display: grid; gap: 0.5rem; padding-bottom: 0.5rem; }
 .masthead h1 { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+.masthead .superHeader { font-family: var(--mono); font-size: 1.75rem; font-weight: 500; line-height: 1; }
 
 .tiles { display: grid; gap: 0.75rem; list-style: none; margin: 0; padding: 0; }
 @media (min-width: 40rem) { .tiles { grid-template-columns: repeat(3, 1fr); } }
@@ -238,7 +239,7 @@ select {
   background: var(--surface);
   border: 2px solid var(--ink);
 }
-.tile .sym { font-family: var(--mono); font-size: 2rem; font-weight: 500; line-height: 1; }
+.tile .sym { font-family: var(--mono); font-size: 1.75rem; font-weight: 500; line-height: 1; }
 .tile .name { font-weight: 600; }
 .tile .meta { font-size: 0.85rem; color: var(--muted); }
 .tile .num {
