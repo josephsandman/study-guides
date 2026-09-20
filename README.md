@@ -9,7 +9,7 @@ Live site: <https://josephsandman.github.io/study-guides/>
 
 | Guide | Path | URL |
 | --- | --- | --- |
-| Chem 1 — Exam 1: Atoms, Molecules, and Ions | `chemistry/exam1/` | `/study-guides/chemistry/exam1/` |
+| Chem 1401 — Exam 1: Atoms, Molecules, and Ions | `chem1401/exam1/` | `/study-guides/chem1401/exam1/` |
 
 ## Layout
 
@@ -17,7 +17,7 @@ Live site: <https://josephsandman.github.io/study-guides/>
 index.html              list of guides
 shared/app.css          all styling
 shared/js/              the practice app, shared by every guide
-chemistry/exam1/
+class/exam#/
   index.html            page for one guide; names its data file
   data/questions.json   the questions — the only file you edit to change content
   assets/               images referenced by that guide's questions
@@ -45,7 +45,7 @@ is stored in `localStorage`, so it stays on the device and is never shared.
 
 ## Editing questions
 
-Edit `chemistry/exam1/data/questions.json`. It is loaded at runtime, so no code
+Edit `class/exam#/data/questions.json`. It is loaded at runtime, so no code
 changes are needed.
 
 ```jsonc
@@ -53,11 +53,11 @@ changes are needed.
   "title": "...",
   "description": "...",
   "image": {                    // optional; one annotated image per guide
-    "id": "periodic-table",
-    "file": "assets/periodic-table.png",   // relative to the guide folder
+    "id": "...",
+    "file": "assets/image.png",   // relative to the guide folder
     "alt": "...",
     "caption": "...",
-    "legend": [{ "marking": "Purple slashes", "means": "Non-metals" }]
+    "legend": [{ "marking": "...", "means": "..." }]
   },
   "sections": [{ "id": "definitions", "name": "Core definitions" }],
   "questions": [
@@ -65,16 +65,16 @@ changes are needed.
       "id": "fc-01",
       "type": "flashcard",
       "section": "definitions",  // must match a section id
-      "prompt": "Atomic mass",
-      "answer": "The average of naturally occurring isotopic masses."
+      "prompt": "Question",
+      "answer": "Answer"
     },
     {
       "id": "ex-01",
       "type": "multiple_choice",
-      "section": "periodic-table",
-      "image": "periodic-table", // optional; matches image.id, shown with the answer only
+      "section": "sectionId",
+      "image": "imageId", // optional; matches image.id, shown with the answer only
       "prompt": "...",
-      "choices": ["Group 1A", "Group 4A", "Group 7A", "Group 8A"],
+      "choices": ["A", "B", "C", "D"],
       "answerIndex": 3,          // zero-based
       "explanation": "..."
     }
@@ -113,7 +113,7 @@ Screen readers are given the text with the markers stripped out.
 
 ## Adding a guide
 
-1. Copy `chemistry/exam1/` to a new folder, for example `biology/exam2/`.
+1. Copy `class/exam#/` to a new folder, for example `biology/exam2/`.
 2. Replace `data/questions.json` and anything in `assets/`.
 3. In the new `index.html`, update the `<title>`, the description, and the
    `start()` call — `id` must be unique across the site (it namespaces saved
@@ -134,7 +134,7 @@ filesystem will not work.
 
 ```sh
 python3 -m http.server 8000
-# then open http://localhost:8000/chemistry/exam1/
+# then open http://localhost:8000/chem1401/exam1/
 ```
 
 ## Deploying

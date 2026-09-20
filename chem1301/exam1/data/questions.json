@@ -1,7 +1,7 @@
 {
-  "superTitle" : "Chem 1301 — Exam 1",
+  "superTitle" : "Chem 1401 — Exam 1",
   "title": "Atoms, Molecules, and Ions",
-  "description": "Practice set for chemistry 1301 exam one.",
+  "description": "Practice set for chemistry 1401 exam one.",
   "image": {
     "id": "periodic-table",
     "file": "assets/periodic-table.png",
