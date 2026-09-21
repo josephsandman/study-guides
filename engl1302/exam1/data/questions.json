@@ -483,8 +483,8 @@
       "id": "fc-63",
       "type": "flashcard",
       "section": "poems-contemporary",
-      "prompt": "What is uncommon about Persimmons?",
-      "answer": "It has multiple situations and settings, which is uncommon."
+      "prompt": "What is uncommon about \"Persimmons\"?",
+      "answer": "It has multiple situations and settings."
     },
     {
       "id": "fc-64",
@@ -630,7 +630,7 @@
       "id": "ex-006",
       "type": "multiple_choice",
       "section": "poems-contemporary",
-      "prompt": "What feature of \"Persimmons\" does the review describe as uncommon?",
+      "prompt": "What feature of \"Persimmons\" is considered uncommon?",
       "choices": [
         "Its reliance on a single extended simile",
         "Its use of a strict rhyme scheme",
@@ -672,12 +672,12 @@
       "id": "ex-009",
       "type": "multiple_choice",
       "section": "poems-modern",
-      "prompt": "What time period and event are associated with \"Lana Turner Has Collapsed\"?",
+      "prompt": "When was \"Lana Turner Has Collapsed\" written?",
       "choices": [
-        "January 1993, a presidential inauguration",
-        "November 2008, a national election",
-        "February 1962, Lana Turner's collapse",
-        "June 1934, the release of a Hollywood film"
+        "January 1993",
+        "November 2008",
+        "February 1962",
+        "June 1934"
       ],
       "answerIndex": 2,
       "explanation": "February 1962. The 1993 inauguration is Angelou, the 2008 election is Espada, and 1934 is the year of Williams's \"This Is Just to Say.\""
