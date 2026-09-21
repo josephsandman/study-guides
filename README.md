@@ -50,7 +50,8 @@ changes are needed.
 
 ```jsonc
 {
-  "title": "...",
+  "superTitle": "header",
+  "title": "subheader",
   "description": "...",
   "image": {                    // optional; one annotated image per guide
     "id": "...",

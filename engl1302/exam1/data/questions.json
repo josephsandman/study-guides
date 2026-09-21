@@ -1,0 +1,2506 @@
+{
+  "superTitle": "English 1302 — Exam 1",
+  "title": "Poetry",
+  "description": "Practice set for English 1302 exam one.",
+  "sections": [
+    {
+      "id": "intro",
+      "name": "Introduction to poetry"
+    },
+    {
+      "id": "speaker-theme-tone",
+      "name": "Speaker, theme, and tone"
+    },
+    {
+      "id": "language-imagery",
+      "name": "Diction, syntax, and imagery"
+    },
+    {
+      "id": "situation-setting",
+      "name": "Situation and setting"
+    },
+    {
+      "id": "figurative-symbols",
+      "name": "Figurative language and symbols"
+    },
+    {
+      "id": "sonnet-form",
+      "name": "Structure of a sonnet"
+    },
+    {
+      "id": "poems-early",
+      "name": "The poems: antiquity through the 19th century"
+    },
+    {
+      "id": "poems-modern",
+      "name": "The poems: modernist and midcentury"
+    },
+    {
+      "id": "poems-contemporary",
+      "name": "The poems: late 20th century"
+    },
+    {
+      "id": "poems-occasional",
+      "name": "Occasional poems: Espada and Angelou"
+    }
+  ],
+  "questions": [
+    {
+      "id": "fc-01",
+      "type": "flashcard",
+      "section": "intro",
+      "prompt": "Poetry itself isn't all one thing",
+      "answer": "Poetry is a distinct form of writing, but it does not follow one fixed set of rules."
+    },
+    {
+      "id": "fc-02",
+      "type": "flashcard",
+      "section": "intro",
+      "prompt": "A good poem is not a secret message",
+      "answer": "A poem is not a code to be cracked. The techniques used to study poetry will apply to other forms of writing as well."
+    },
+    {
+      "id": "fc-03",
+      "type": "flashcard",
+      "section": "intro",
+      "prompt": "Can a poem be over-analyzed?",
+      "answer": "No. We can't \"over-analyze\" a poem."
+    },
+    {
+      "id": "fc-04",
+      "type": "flashcard",
+      "section": "intro",
+      "prompt": "Defining poetry",
+      "answer": "A patterned arrangement of language. Rhythmic language, meant to evoke emotion, concentrated and intense."
+    },
+    {
+      "id": "fc-05",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Speaker",
+      "answer": "May speak the feelings of the poet, or may express ideas different from those of the poet. Can be viewed as a character, just like a character in drama or fiction, and often acts as a narrator."
+    },
+    {
+      "id": "fc-06",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Persona",
+      "answer": "A construction made by the speaker/narrator of the poem. When reading a poem, never assume the speaker/narrator is the author."
+    },
+    {
+      "id": "fc-07",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Questions for identifying the speaker",
+      "answer": "Who is speaking? What do we know about him or her? What kind of person is she or he?"
+    },
+    {
+      "id": "fc-08",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Theme",
+      "answer": "What a poem says."
+    },
+    {
+      "id": "fc-09",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Theme is not the same as subject",
+      "answer": "A theme is not simply \"love\" — it is a statement about that topic, such as love is fleeting, love is precious, or love is eternal."
+    },
+    {
+      "id": "fc-10",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Can a poem have more than one theme?",
+      "answer": "Yes. A poem could be both about the pain of heartbreak and the joy of new experiences."
+    },
+    {
+      "id": "fc-11",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "Tone",
+      "answer": "How the poem says it. The term is borrowed from acoustics and music."
+    },
+    {
+      "id": "fc-12",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "What tone refers to",
+      "answer": "The qualities of the language a speaker uses in social situations or in a poem, and the speaker's intended affect."
+    },
+    {
+      "id": "fc-13",
+      "type": "flashcard",
+      "section": "speaker-theme-tone",
+      "prompt": "What theme and tone build upon",
+      "answer": "Speaker, situation, and settings."
+    },
+    {
+      "id": "fc-14",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Diction",
+      "answer": "The poet's word choice. It determines not only meaning but also the effect of the poem, and it allows for both precision and ambiguity."
+    },
+    {
+      "id": "fc-15",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Word order and placement",
+      "answer": "Very important in poetry. Unlike prose, the number and placement of words in a line and the spacing of the words and lines stays the same in every printed version."
+    },
+    {
+      "id": "fc-16",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Syntax",
+      "answer": "The way words are put together to form phrases, clauses, and sentences."
+    },
+    {
+      "id": "fc-17",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Conflict",
+      "answer": "The central struggle, tension, or opposition between competing forces that drives the poem's emotional and thematic momentum."
+    },
+    {
+      "id": "fc-18",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Visual imagery",
+      "answer": "The language of poetry. It can come from word choice and order, and from the ambiguity or specificity of words."
+    },
+    {
+      "id": "fc-19",
+      "type": "flashcard",
+      "section": "language-imagery",
+      "prompt": "Figure of speech",
+      "answer": "An intentional departure from literal language or normal word patterns, used to create a striking stylistic, emotional, or auditory effect."
+    },
+    {
+      "id": "fc-20",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Situation",
+      "answer": "After identifying the speaker, it becomes important to identify situation and setting. To whom is the speaker speaking? Is anyone else present or referred to? What is happening, and why is this communication occurring?"
+    },
+    {
+      "id": "fc-21",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Auditor",
+      "answer": "An imaginary listener in the poem."
+    },
+    {
+      "id": "fc-22",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Carpe diem poem",
+      "answer": "A tradition of poem in which the speaker encourages the auditor to seize the day."
+    },
+    {
+      "id": "fc-23",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Setting",
+      "answer": "Situation entails setting: when and where the action or communication takes place."
+    },
+    {
+      "id": "fc-24",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Spatial setting",
+      "answer": "The place of the poem."
+    },
+    {
+      "id": "fc-25",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Temporal setting",
+      "answer": "The time of the poem."
+    },
+    {
+      "id": "fc-26",
+      "type": "flashcard",
+      "section": "situation-setting",
+      "prompt": "Occasional poem",
+      "answer": "A poem that refers to a specific historic time or event."
+    },
+    {
+      "id": "fc-27",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Personification",
+      "answer": "Treating an abstraction as if it were a person."
+    },
+    {
+      "id": "fc-28",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Metaphor",
+      "answer": "An implicit comparison, and a form of figurative language: \"Death is a sunset.\""
+    },
+    {
+      "id": "fc-29",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Simile",
+      "answer": "An explicit comparison, using \"like\" or \"as\": \"Death is like a sunset.\""
+    },
+    {
+      "id": "fc-30",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Analogy",
+      "answer": "A comparison of two things to make a point. Both similes and metaphors are analogies."
+    },
+    {
+      "id": "fc-31",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Symbol",
+      "answer": "Something that stands for something else. A flag, a logo, and a trademark are all examples of symbols we see daily."
+    },
+    {
+      "id": "fc-32",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Invented symbol",
+      "answer": "A symbol a poem creates out of a thing, action, or event that has no previously agreed-upon symbolic significance."
+    },
+    {
+      "id": "fc-33",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Traditional symbol",
+      "answer": "A literary symbol with an agreed-upon significance because of past use in literature or cultural texts. Birds symbolize flight, roses symbolize fleeting beauty. Used to invoke predictable responses."
+    },
+    {
+      "id": "fc-34",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Denotation",
+      "answer": "The dictionary definition of a word."
+    },
+    {
+      "id": "fc-35",
+      "type": "flashcard",
+      "section": "figurative-symbols",
+      "prompt": "Connotation",
+      "answer": "What is suggested by a word."
+    },
+    {
+      "id": "fc-36",
+      "type": "flashcard",
+      "section": "sonnet-form",
+      "prompt": "Sonnet",
+      "answer": "14 lines, typically in iambic pentameter."
+    },
+    {
+      "id": "fc-37",
+      "type": "flashcard",
+      "section": "sonnet-form",
+      "prompt": "Iambic pentameter",
+      "answer": "Generally 10 syllables per line in an alternating unstressed/stressed pattern — five iambic feet per line."
+    },
+    {
+      "id": "fc-38",
+      "type": "flashcard",
+      "section": "sonnet-form",
+      "prompt": "The volta (the turn)",
+      "answer": "A pivotal shift in tone, thought, or argument near the end of the poem."
+    },
+    {
+      "id": "fc-39",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Psalm 23 — author, form, time period",
+      "answer": "Attributed to King David. Hebrew biblical poetry (parallelism; lyric hymn). Antiquity — Ancient Israel, 10th-6th BCE."
+    },
+    {
+      "id": "fc-40",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Psalm 23 — strategies and significance",
+      "answer": "Extended pastoral metaphor, metaphor, vivid imagery. One of the most widely recited and influential texts in Judeo-Christian history."
+    },
+    {
+      "id": "fc-41",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Shall I Compare Thee to a Summer's Day (Sonnet 18) — author, form, time period",
+      "answer": "William Shakespeare. Shakespearean (English) sonnet in iambic pentameter. 1609."
+    },
+    {
+      "id": "fc-42",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Sonnet 18 — strategies and significance",
+      "answer": "Metaphor, personification, repetitive parallel structures. The quintessential English sonnet, showing the power of art, and therefore poetry, to grant \"immortality.\""
+    },
+    {
+      "id": "fc-43",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Batter My Heart, Three-Person'd God (Holy Sonnet 14) — author, form, time period",
+      "answer": "John Donne. A Holy Sonnet, a variation of the Italian/Petrarchan sonnet, in iambic pentameter. 1633."
+    },
+    {
+      "id": "fc-44",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Holy Sonnet 14 — strategies and significance",
+      "answer": "Metaphysical conceits (God as a metalsmith/tinker; the soul as a captive town/bride), paradox, aggressive imperative verbs. Uses startling, erotic, and violent imagery to express profound spiritual struggle and a desire for divine intervention."
+    },
+    {
+      "id": "fc-45",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Because I Could Not Stop for Death — author, form, time period",
+      "answer": "Emily Dickinson. Common meter — alternating iambic tetrameter and iambic trimeter with an ABCB slant rhyme scheme. Written 1863, published posthumously 1890."
+    },
+    {
+      "id": "fc-46",
+      "type": "flashcard",
+      "section": "poems-early",
+      "prompt": "Because I Could Not Stop for Death — strategies and significance",
+      "answer": "Personification, allegory, characteristic use of dashes and capitalization, extended metaphor. One of the most celebrated works on mortality, reframing death not as a terrifying end but as a calm, inevitable transition into eternity."
+    },
+    {
+      "id": "fc-47",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "What Lips My Lips Have Kissed — author, form, time period",
+      "answer": "Edna St. Vincent Millay. An Italian (Petrarchan) sonnet in iambic pentameter. 1923."
+    },
+    {
+      "id": "fc-48",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "What Lips My Lips Have Kissed — strategies and significance",
+      "answer": "Extended metaphor, nostalgia, melancholy tone. A high mark of early 20th-century feminist poems, capturing heartbreak, sexual liberation, and the inevitable passage of youth with classical elegance."
+    },
+    {
+      "id": "fc-49",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "This Is Just to Say — author, form, time period",
+      "answer": "William Carlos Williams. Free verse (imagist) in three quatrains with short, sparse lines. 1934."
+    },
+    {
+      "id": "fc-50",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "This Is Just to Say — strategies and significance",
+      "answer": "Extreme economy of language, absence of punctuation, enjambment, vivid sensory details. A foundational piece of American Modernism and Imagism, showing that ordinary, everyday objects and domestic notes can be art."
+    },
+    {
+      "id": "fc-51",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "Do Not Go Gentle into that Good Night — author, form, time period",
+      "answer": "Dylan Thomas. A villanelle — five tercets and one concluding quatrain with strict repeating refrains and an ABA rhyme scheme. 1951."
+    },
+    {
+      "id": "fc-52",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "Do Not Go Gentle into that Good Night — strategies and significance",
+      "answer": "Refrain repetition, contrastive metaphors. One of the most famous villanelles in world literature, transforming a highly rigid poetic structure into a passionate plea for life and resistance against death."
+    },
+    {
+      "id": "fc-53",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "Lana Turner Has Collapsed — author, form, time period",
+      "answer": "Frank O'Hara. Free verse. February 1962, Lana Turner's collapse — an occasional poem."
+    },
+    {
+      "id": "fc-54",
+      "type": "flashcard",
+      "section": "poems-modern",
+      "prompt": "Lana Turner Has Collapsed — strategies and significance",
+      "answer": "Conversational diction, repetition, juxtapositions of the mundane with pop-culture sensationalism. O'Hara's Personism: it blended high art with low pop-culture gossip and captured the spontaneous, distracted feel of modern urban life."
+    },
+    {
+      "id": "fc-55",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Wedding Ring — author, form, time period",
+      "answer": "Denise Levertov. Free verse. 1978."
+    },
+    {
+      "id": "fc-56",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Wedding Ring — strategies and significance",
+      "answer": "Symbolism, tactile imagery, understatement, structural pauses. A pivotal text in 20th-century feminist and post-confessional poetry, exploring the physical reality and emotional aftermath of divorce."
+    },
+    {
+      "id": "fc-57",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Sex Without Love — author, form, time period",
+      "answer": "Sharon Olds. Free verse in a single stanza with sharp, irregular line breaks. 1981."
+    },
+    {
+      "id": "fc-58",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Sex Without Love — strategies and significance",
+      "answer": "Extended metaphors, rhetorical questions, vivid sensory imagery, paradoxical tone. A central text in modern feminist and confessional poetry, interrogating physical intimacy detached from emotions without taking a moralizing stance."
+    },
+    {
+      "id": "fc-59",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Locking Yourself Out, Then Trying to Get Back In — author, form, time period",
+      "answer": "Raymond Carver. Free verse — a narrative poem with short, irregular line breaks. 1985."
+    },
+    {
+      "id": "fc-60",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Locking Yourself Out, Then Trying to Get Back In — strategies and significance",
+      "answer": "Narrative diction, plain language, allegory of everyday life, spatial/psychological juxtaposition, emotional shift from frustration to reflection. \"Dirty Realism\" and minimalist poetry, deriving profound philosophical insights about identity, detachment, and regret from a mundane accident."
+    },
+    {
+      "id": "fc-61",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Persimmons — author, form, time period",
+      "answer": "Li-Young Lee. Free verse. 1986."
+    },
+    {
+      "id": "fc-62",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "Persimmons — strategies and significance",
+      "answer": "Dual meaning, homophones, flashback, narrative framing, sensory symbolism, juxtaposition, recurring motifs. It explores the complexities of the immigrant experience, the duality of cultural identity, and how language can both connect and alienate us."
+    },
+    {
+      "id": "fc-63",
+      "type": "flashcard",
+      "section": "poems-contemporary",
+      "prompt": "What is uncommon about Persimmons?",
+      "answer": "It has multiple situations and settings, which is uncommon."
+    },
+    {
+      "id": "fc-64",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "Litany at the Tomb of Frederick Douglass — author, form, time period",
+      "answer": "Martin Espada. Free verse (litany/anaphora); an occasional poem. 2008, days after Obama won the election."
+    },
+    {
+      "id": "fc-65",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "Litany at the Tomb of Frederick Douglass — strategies and significance",
+      "answer": "Anaphora, historical juxtaposition, tactile imagery, honorific praise, invented symbols. A vital piece of political and Afro-Latino social poetry, connecting historic Civil Rights struggles to contemporary political milestones."
+    },
+    {
+      "id": "fc-66",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "The invented symbols in Litany at the Tomb of Frederick Douglass",
+      "answer": "The items found on the tomb. They show the connection between Douglass and Obama, and they are specific to this poem — the poem juxtaposes the life of Frederick Douglass with the election of Barack Obama."
+    },
+    {
+      "id": "fc-67",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "On the Pulse of Morning — author, form, time period",
+      "answer": "Maya Angelou. Free verse. 1993, delivered at President Bill Clinton's first inauguration."
+    },
+    {
+      "id": "fc-68",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "On the Pulse of Morning — strategies and significance",
+      "answer": "Personification, natural imagery, unifying public rhetoric, direct address. One of the most famous public inaugural poems in American history, calling for multi-ethnic unity, environmental mindfulness, and national renewal."
+    },
+    {
+      "id": "fc-69",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "The three traditional symbols in On the Pulse of Morning",
+      "answer": "The rock, the river, and the tree — used to convey unity to the listener. Inauguration poems are examples of occasional poems."
+    },
+    {
+      "id": "fc-70",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "What the Angelou and Espada poems share",
+      "answer": "Both occasional poems draw on aspects of shared American identity."
+    },
+    {
+      "id": "fc-71",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "How the Angelou and Espada poems differ from Carver's",
+      "answer": "They are not focused on the poet/speaker. They are focused on a moment in history."
+    },
+    {
+      "id": "fc-72",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "Why an occasional poet must find common ground",
+      "answer": "Occasional poems, especially inaugural poems, are written for large audiences that may not be familiar with or enjoy poetry, so the poet must appeal to them by finding common ground."
+    },
+    {
+      "id": "fc-73",
+      "type": "flashcard",
+      "section": "poems-occasional",
+      "prompt": "The key elements of an occasional poem",
+      "answer": "Setting and situation."
+    },
+    {
+      "id": "ex-001",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Who is the author of \"Persimmons\"?",
+      "choices": [
+        "Li-Young Lee",
+        "Frank O'Hara",
+        "Denise Levertov",
+        "Raymond Carver"
+      ],
+      "answerIndex": 0,
+      "explanation": "Li-Young Lee. O'Hara wrote \"Lana Turner Has Collapsed,\" Levertov \"Wedding Ring,\" and Carver \"Locking Yourself Out, Then Trying to Get Back In.\""
+    },
+    {
+      "id": "ex-002",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "What form is \"Persimmons\" written in?",
+      "choices": [
+        "Free verse",
+        "Petrarchan sonnet",
+        "Common meter",
+        "Villanelle"
+      ],
+      "answerIndex": 0,
+      "explanation": "Free verse. The Petrarchan sonnet belongs to Millay and Donne, common meter to Dickinson, and the villanelle to Thomas."
+    },
+    {
+      "id": "ex-003",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "\"Persimmons\" dates from what year?",
+      "choices": [
+        "1986",
+        "1993",
+        "1962",
+        "1978"
+      ],
+      "answerIndex": 0,
+      "explanation": "1986, the latest of the poems on the review except Espada's 2008 litany. 1993 is Angelou, 1962 is O'Hara, and 1978 is Levertov."
+    },
+    {
+      "id": "ex-004",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Which of the following is NOT listed as a literary strategy used in \"Persimmons\"?",
+      "choices": [
+        "Flashback and narrative framing",
+        "Sensory symbolism and juxtaposition",
+        "Strict repeating refrains",
+        "Dual meaning and homophones"
+      ],
+      "answerIndex": 2,
+      "explanation": "Strict repeating refrains belong to the villanelle, which is Dylan Thomas. Lee's listed strategies are dual meaning, homophones, flashback, narrative framing, sensory symbolism, juxtaposition, and recurring motifs."
+    },
+    {
+      "id": "ex-005",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Why is \"Persimmons\" significant?",
+      "choices": [
+        "It established the rules of the English sonnet",
+        "It was the first poem delivered at a presidential inauguration",
+        "It introduced the villanelle form to American poetry",
+        "It explores the complexities of the immigrant experience, the duality of cultural identity, and how language can both connect and alienate us"
+      ],
+      "answerIndex": 3,
+      "explanation": "The immigrant experience, the duality of cultural identity, and language as something that both connects and alienates. The homophones in the poem are that duality working at the level of single words."
+    },
+    {
+      "id": "ex-006",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "What feature of \"Persimmons\" does the review describe as uncommon?",
+      "choices": [
+        "Its reliance on a single extended simile",
+        "Its use of a strict rhyme scheme",
+        "Its multiple situations and settings",
+        "Its complete absence of imagery"
+      ],
+      "answerIndex": 2,
+      "explanation": "Most poems hold one situation and setting; \"Persimmons\" has several, which is why the flashback and narrative framing are needed to move between them."
+    },
+    {
+      "id": "ex-007",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Who wrote \"Lana Turner Has Collapsed\"?",
+      "choices": [
+        "Sharon Olds",
+        "Frank O'Hara",
+        "Martin Espada",
+        "William Carlos Williams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Frank O'Hara, whose poetic philosophy is Personism."
+    },
+    {
+      "id": "ex-008",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "What form is \"Lana Turner Has Collapsed\" written in?",
+      "choices": [
+        "Villanelle",
+        "Hebrew biblical poetry",
+        "Free verse",
+        "Holy sonnet"
+      ],
+      "answerIndex": 2,
+      "explanation": "Free verse, which suits the conversational diction. Hebrew biblical poetry is Psalm 23 and the Holy Sonnet is Donne."
+    },
+    {
+      "id": "ex-009",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "What time period and event are associated with \"Lana Turner Has Collapsed\"?",
+      "choices": [
+        "January 1993, a presidential inauguration",
+        "November 2008, a national election",
+        "February 1962, Lana Turner's collapse",
+        "June 1934, the release of a Hollywood film"
+      ],
+      "answerIndex": 2,
+      "explanation": "February 1962. The 1993 inauguration is Angelou, the 2008 election is Espada, and 1934 is the year of Williams's \"This Is Just to Say.\""
+    },
+    {
+      "id": "ex-010",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Because it refers to a specific historic time or event, \"Lana Turner Has Collapsed\" is identified as what kind of poem?",
+      "choices": [
+        "A confessional poem",
+        "A carpe diem poem",
+        "An occasional poem",
+        "A pastoral poem"
+      ],
+      "answerIndex": 2,
+      "explanation": "An occasional poem refers to a specific historic time or event — here, the collapse of a film star in February 1962. A carpe diem poem urges the auditor to seize the day instead."
+    },
+    {
+      "id": "ex-011",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Which set of literary strategies is listed for \"Lana Turner Has Collapsed\"?",
+      "choices": [
+        "Parallelism, extended pastoral metaphor, and vivid imagery",
+        "Metaphysical conceits, paradox, and aggressive imperative verbs",
+        "Anaphora, honorific praise, and invented symbols",
+        "Conversational diction, repetition, and juxtapositions of the mundane with pop-culture sensationalism"
+      ],
+      "answerIndex": 3,
+      "explanation": "Conversational diction, repetition, and the mundane set against pop-culture sensationalism. The other three lists belong to Psalm 23, Donne's Holy Sonnet 14, and Espada's litany."
+    },
+    {
+      "id": "ex-012",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Which poetic philosophy is associated with the significance of \"Lana Turner Has Collapsed\"?",
+      "choices": [
+        "O'Hara's Personism",
+        "Dirty Realism",
+        "Imagism",
+        "Transcendentalism"
+      ],
+      "answerIndex": 0,
+      "explanation": "Personism is O'Hara's own. Dirty Realism is Carver and Imagism is Williams."
+    },
+    {
+      "id": "ex-013",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "What does the review say \"Lana Turner Has Collapsed\" accomplished?",
+      "choices": [
+        "It was the first poem to describe a celebrity in verse",
+        "It rejected all references to popular culture in favor of classical allusion",
+        "It blended high art with low pop-culture gossip and captured the spontaneous, distracted feel of modern urban life",
+        "It restored strict metrical form to American poetry"
+      ],
+      "answerIndex": 2,
+      "explanation": "High art blended with low pop-culture gossip, and the spontaneous, distracted feel of modern urban life. That blend is the juxtaposition listed among its strategies."
+    },
+    {
+      "id": "ex-014",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Who wrote \"Sex Without Love\"?",
+      "choices": [
+        "Sharon Olds",
+        "Denise Levertov",
+        "Emily Dickinson",
+        "Edna St. Vincent Millay"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sharon Olds. Levertov, Dickinson, and Millay each have their own poem on the review."
+    },
+    {
+      "id": "ex-015",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "How is the form of \"Sex Without Love\" described?",
+      "choices": [
+        "Three quatrains of short, sparse lines",
+        "Five tercets and a concluding quatrain",
+        "Fourteen lines of iambic pentameter",
+        "Free verse in a single stanza with sharp, irregular line breaks"
+      ],
+      "answerIndex": 3,
+      "explanation": "A single stanza of free verse with sharp, irregular line breaks. Three quatrains is Williams, five tercets and a quatrain is the villanelle, and fourteen lines of iambic pentameter is a sonnet."
+    },
+    {
+      "id": "ex-016",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "\"Sex Without Love\" dates from what year?",
+      "choices": [
+        "1985",
+        "1934",
+        "1951",
+        "1981"
+      ],
+      "answerIndex": 3,
+      "explanation": "1981. 1985 is Carver, 1934 is Williams, and 1951 is Thomas."
+    },
+    {
+      "id": "ex-017",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Which strategies are listed for \"Sex Without Love\"?",
+      "choices": [
+        "Refrain repetition and contrastive metaphors",
+        "Extended metaphors, rhetorical questions, vivid sensory imagery, and a paradoxical tone",
+        "Anaphora and historical juxtaposition",
+        "Dashes, capitalization, and allegory"
+      ],
+      "answerIndex": 1,
+      "explanation": "Extended metaphors, rhetorical questions, vivid sensory imagery, and a paradoxical tone. Refrains belong to Thomas, anaphora to Espada, and dashes and capitalization to Dickinson."
+    },
+    {
+      "id": "ex-018",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Why is \"Sex Without Love\" significant?",
+      "choices": [
+        "It is a central text in modern feminist and confessional poetry that interrogates physical intimacy detached from emotions, without taking a moralizing stance",
+        "It is the quintessential English sonnet",
+        "It is the most famous villanelle in world literature",
+        "It is one of the most widely recited texts in Judeo-Christian history"
+      ],
+      "answerIndex": 0,
+      "explanation": "A central text in modern feminist and confessional poetry, and it interrogates rather than moralizes. The other three describe Sonnet 18, \"Do Not Go Gentle,\" and Psalm 23."
+    },
+    {
+      "id": "ex-019",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Who wrote \"This Is Just to Say\"?",
+      "choices": [
+        "John Donne",
+        "William Carlos Williams",
+        "Dylan Thomas",
+        "William Shakespeare"
+      ],
+      "answerIndex": 1,
+      "explanation": "William Carlos Williams, the Imagist on the review."
+    },
+    {
+      "id": "ex-020",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "How is the form of \"This Is Just to Say\" described?",
+      "choices": [
+        "Common meter with a slant rhyme scheme",
+        "Free verse (imagist) in three quatrains with short, sparse lines",
+        "A Shakespearean sonnet in iambic pentameter",
+        "A villanelle with an ABA rhyme scheme"
+      ],
+      "answerIndex": 1,
+      "explanation": "Imagist free verse in three quatrains of short, sparse lines. Common meter with slant rhyme is Dickinson."
+    },
+    {
+      "id": "ex-021",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "\"This Is Just to Say\" dates from what year?",
+      "choices": [
+        "1934",
+        "1609",
+        "1633",
+        "1923"
+      ],
+      "answerIndex": 0,
+      "explanation": "1934. 1609 is Sonnet 18, 1633 is Holy Sonnet 14, and 1923 is Millay."
+    },
+    {
+      "id": "ex-022",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Which of the following is listed as a literary strategy in \"This Is Just to Say\"?",
+      "choices": [
+        "Strict parallelism",
+        "Metaphysical conceit",
+        "Extreme economy of language and absence of punctuation",
+        "Anaphora"
+      ],
+      "answerIndex": 2,
+      "explanation": "Extreme economy of language and absence of punctuation, along with enjambment and vivid sensory details. Parallelism is Psalm 23, the metaphysical conceit is Donne, and anaphora is Espada."
+    },
+    {
+      "id": "ex-023",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Why is \"This Is Just to Say\" significant?",
+      "choices": [
+        "It granted immortality to its subject through art",
+        "It is a pivotal text in post-confessional poetry about divorce",
+        "It connected Civil Rights struggles to contemporary political milestones",
+        "It is a foundational piece of American Modernism and Imagism that showed ordinary, everyday objects and domestic notes can be art"
+      ],
+      "answerIndex": 3,
+      "explanation": "A foundational piece of American Modernism and Imagism: a domestic note about eaten plums is art. Immortality through art is Sonnet 18, divorce is \"Wedding Ring,\" and Civil Rights is Espada."
+    },
+    {
+      "id": "ex-024",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Who wrote \"Because I Could Not Stop for Death\"?",
+      "choices": [
+        "Sharon Olds",
+        "Emily Dickinson",
+        "Edna St. Vincent Millay",
+        "Maya Angelou"
+      ],
+      "answerIndex": 1,
+      "explanation": "Emily Dickinson, whose dashes and capitalization are listed among the poem's strategies."
+    },
+    {
+      "id": "ex-025",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "What is the form of \"Because I Could Not Stop for Death\"?",
+      "choices": [
+        "Common meter, alternating iambic tetrameter and iambic trimeter, with an ABCB slant rhyme scheme",
+        "A Petrarchan sonnet in iambic pentameter",
+        "A villanelle of five tercets and a quatrain",
+        "Free verse with irregular line breaks"
+      ],
+      "answerIndex": 0,
+      "explanation": "Common meter: iambic tetrameter alternating with iambic trimeter, rhymed ABCB with slant rhymes. It is the only poem on the review in common meter."
+    },
+    {
+      "id": "ex-026",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "When was \"Because I Could Not Stop for Death\" written and published?",
+      "choices": [
+        "Written 1609, published 1633",
+        "Written 1863, published posthumously 1890",
+        "Written and published in 1863",
+        "Written 1890, published 1923"
+      ],
+      "answerIndex": 1,
+      "explanation": "Written in 1863 and published posthumously in 1890 — the only poem on the review with two dates."
+    },
+    {
+      "id": "ex-027",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Which strategies are listed for \"Because I Could Not Stop for Death\"?",
+      "choices": [
+        "Personification, allegory, characteristic use of dashes and capitalization, and extended metaphor",
+        "Anaphora and honorific praise",
+        "Understatement and structural pauses",
+        "Conversational diction and pop-culture juxtaposition"
+      ],
+      "answerIndex": 0,
+      "explanation": "Personification, allegory, the dashes and capitalization Dickinson is known for, and extended metaphor. Understatement and structural pauses are Levertov's; conversational diction is O'Hara's."
+    },
+    {
+      "id": "ex-028",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "How does \"Because I Could Not Stop for Death\" reframe death?",
+      "choices": [
+        "As a calm, inevitable transition into eternity",
+        "As an illusion that does not truly occur",
+        "As a terrifying and violent end",
+        "As a punishment for a life poorly lived"
+      ],
+      "answerIndex": 0,
+      "explanation": "One of the most celebrated works on mortality: not a terrifying end, but a calm, inevitable transition into eternity. Personifying death is what makes that calm possible."
+    },
+    {
+      "id": "ex-029",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Who wrote \"Shall I Compare Thee to a Summer's Day\" (Sonnet 18)?",
+      "choices": [
+        "William Carlos Williams",
+        "John Donne",
+        "William Shakespeare",
+        "Edna St. Vincent Millay"
+      ],
+      "answerIndex": 2,
+      "explanation": "William Shakespeare. Donne is the other sonneteer of the period on the review, with Holy Sonnet 14."
+    },
+    {
+      "id": "ex-030",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "What is the form of Sonnet 18?",
+      "choices": [
+        "Holy sonnet in free verse",
+        "Lyric hymn built on parallelism",
+        "Shakespearean (English) sonnet in iambic pentameter",
+        "Italian (Petrarchan) sonnet in iambic tetrameter"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Shakespearean, or English, sonnet in iambic pentameter. The Italian/Petrarchan sonnet is Millay's and Donne's, and it is also in pentameter, not tetrameter."
+    },
+    {
+      "id": "ex-031",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Sonnet 18 dates from what year?",
+      "choices": [
+        "1590",
+        "1609",
+        "1633",
+        "1651"
+      ],
+      "answerIndex": 1,
+      "explanation": "1609. 1633 is Donne's Holy Sonnet 14, the other 17th-century poem on the review."
+    },
+    {
+      "id": "ex-032",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Which strategies are listed for Sonnet 18?",
+      "choices": [
+        "Flashback and narrative framing",
+        "Enjambment and absence of punctuation",
+        "Anaphora and invented symbols",
+        "Metaphor, personification, and repetitive parallel structures"
+      ],
+      "answerIndex": 3,
+      "explanation": "Metaphor, personification, and repetitive parallel structures. Flashback is Lee, absence of punctuation is Williams, and anaphora with invented symbols is Espada."
+    },
+    {
+      "id": "ex-033",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Why is Sonnet 18 significant?",
+      "choices": [
+        "It was the first sonnet ever written in English",
+        "It is the quintessential English sonnet and showed the power of art, and therefore poetry, to grant \"immortality\"",
+        "It was written for a public state occasion",
+        "It introduced the volta to poetry"
+      ],
+      "answerIndex": 1,
+      "explanation": "The quintessential English sonnet, and a demonstration that art can grant immortality — the beloved outlasts the summer's day because the poem keeps them."
+    },
+    {
+      "id": "ex-034",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Who wrote \"Batter My Heart, Three-Person'd God\" (Holy Sonnet 14)?",
+      "choices": [
+        "George Herbert",
+        "John Donne",
+        "William Shakespeare",
+        "Dylan Thomas"
+      ],
+      "answerIndex": 1,
+      "explanation": "John Donne, the metaphysical poet on the review."
+    },
+    {
+      "id": "ex-035",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "How is the form of Holy Sonnet 14 described?",
+      "choices": [
+        "A villanelle with repeating refrains",
+        "A Holy Sonnet, a variation of the Italian/Petrarchan sonnet, in iambic pentameter",
+        "A Shakespearean sonnet in common meter",
+        "Free verse with irregular line breaks"
+      ],
+      "answerIndex": 1,
+      "explanation": "A Holy Sonnet — a variation of the Italian, or Petrarchan, sonnet — in iambic pentameter. Shakespeare's is the English sonnet, and sonnets are not in common meter."
+    },
+    {
+      "id": "ex-036",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Holy Sonnet 14 dates from what year?",
+      "choices": [
+        "1863",
+        "1923",
+        "1609",
+        "1633"
+      ],
+      "answerIndex": 3,
+      "explanation": "1633, a generation after Shakespeare's 1609 sonnets. 1863 is when Dickinson wrote and 1923 is Millay."
+    },
+    {
+      "id": "ex-037",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Which metaphysical conceits are identified in Holy Sonnet 14?",
+      "choices": [
+        "Death as a courteous carriage driver and the grave as a house",
+        "The rock, the river, and the tree",
+        "God as a metalsmith/tinker and the soul as a captive town/bride",
+        "The persimmon as language and memory"
+      ],
+      "answerIndex": 2,
+      "explanation": "God as a metalsmith or tinker, and the soul as a captive town and as a bride. The rock, river, and tree are Angelou's traditional symbols."
+    },
+    {
+      "id": "ex-038",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Besides metaphysical conceits, which strategies are listed for Holy Sonnet 14?",
+      "choices": [
+        "Paradox and aggressive imperative verbs",
+        "Understatement and structural pauses",
+        "Repetition and conversational diction",
+        "Slant rhyme and dashes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Paradox and aggressive imperative verbs — the speaker commands God. Understatement is Levertov's, and slant rhyme with dashes is Dickinson's."
+    },
+    {
+      "id": "ex-039",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Why is Holy Sonnet 14 significant?",
+      "choices": [
+        "It uses startling, erotic, and violent imagery to express profound spiritual struggle and a desire for divine intervention",
+        "It rejects religious subject matter entirely",
+        "It is the earliest known occasional poem",
+        "It demonstrates the extreme economy of Imagist language"
+      ],
+      "answerIndex": 0,
+      "explanation": "Startling, erotic, and violent imagery carrying profound spiritual struggle and a desire for divine intervention. The violence is why the imperative verbs are described as aggressive."
+    },
+    {
+      "id": "ex-040",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Who wrote \"Do Not Go Gentle into that Good Night\"?",
+      "choices": [
+        "Dylan Thomas",
+        "Raymond Carver",
+        "John Donne",
+        "Li-Young Lee"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dylan Thomas, the only villanelle on the review."
+    },
+    {
+      "id": "ex-041",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "What form is \"Do Not Go Gentle into that Good Night\" written in?",
+      "choices": [
+        "Sonnet",
+        "Villanelle",
+        "Free verse",
+        "Common meter"
+      ],
+      "answerIndex": 1,
+      "explanation": "A villanelle. Its rigid structure is exactly what makes the poem's significance — a passionate plea wrung out of a strict form."
+    },
+    {
+      "id": "ex-042",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "How is the structure of a villanelle described in the review?",
+      "choices": [
+        "Alternating iambic tetrameter and trimeter with slant rhyme",
+        "Fourteen lines with a volta near the end",
+        "Three quatrains with sparse lines",
+        "Five tercets and one concluding quatrain with strict repeating refrains and an ABA rhyme scheme"
+      ],
+      "answerIndex": 3,
+      "explanation": "Five tercets and one concluding quatrain, strict repeating refrains, ABA rhyme. Fourteen lines with a volta is the sonnet and alternating tetrameter and trimeter is common meter."
+    },
+    {
+      "id": "ex-043",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "\"Do Not Go Gentle into that Good Night\" dates from what year?",
+      "choices": [
+        "1978",
+        "1985",
+        "1933",
+        "1951"
+      ],
+      "answerIndex": 3,
+      "explanation": "1951. 1978 is Levertov and 1985 is Carver."
+    },
+    {
+      "id": "ex-044",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Which strategies are listed for \"Do Not Go Gentle into that Good Night\"?",
+      "choices": [
+        "Homophones and flashback",
+        "Refrain repetition and contrastive metaphors",
+        "Rhetorical questions and paradoxical tone",
+        "Anaphora and tactile imagery"
+      ],
+      "answerIndex": 1,
+      "explanation": "Refrain repetition, which the villanelle form requires, and contrastive metaphors. Homophones are Lee, rhetorical questions are Olds, and anaphora is Espada."
+    },
+    {
+      "id": "ex-045",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Why is \"Do Not Go Gentle into that Good Night\" significant?",
+      "choices": [
+        "It abandoned poetic structure entirely in favor of free verse",
+        "It is one of the most famous villanelles in world literature, transforming a highly rigid poetic structure into a passionate plea for life and resistance against death",
+        "It was delivered at a presidential inauguration",
+        "It is the earliest example of confessional poetry"
+      ],
+      "answerIndex": 1,
+      "explanation": "One of the most famous villanelles in world literature. The point is the transformation: a highly rigid structure becomes a passionate plea for life."
+    },
+    {
+      "id": "ex-046",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "To whom is Psalm 23 attributed?",
+      "choices": [
+        "Moses",
+        "Isaiah",
+        "King Solomon",
+        "King David"
+      ],
+      "answerIndex": 3,
+      "explanation": "King David. Psalm 23 is the only anonymous or attributed text on the review; every other poem has a named modern author."
+    },
+    {
+      "id": "ex-047",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "What is the form of Psalm 23?",
+      "choices": [
+        "Petrarchan sonnet",
+        "Villanelle",
+        "Imagist free verse",
+        "Hebrew biblical poetry (parallelism; lyric hymn)"
+      ],
+      "answerIndex": 3,
+      "explanation": "Hebrew biblical poetry: a lyric hymn built on parallelism rather than on rhyme or meter."
+    },
+    {
+      "id": "ex-048",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "What time period is given for Psalm 23?",
+      "choices": [
+        "The Romantic period, early 19th century",
+        "Antiquity (Ancient Israel, 10th-6th BCE)",
+        "Late antiquity, 4th century CE",
+        "The Renaissance, 16th century CE"
+      ],
+      "answerIndex": 1,
+      "explanation": "Antiquity — Ancient Israel, 10th to 6th BCE. It is by far the oldest text on the review."
+    },
+    {
+      "id": "ex-049",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Which strategies are listed for Psalm 23?",
+      "choices": [
+        "Extended pastoral metaphor, metaphor, and vivid imagery",
+        "Metaphysical conceit and paradox",
+        "Anaphora and historical juxtaposition",
+        "Enjambment and absence of punctuation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Extended pastoral metaphor, metaphor, and vivid imagery. Pastoral means shepherds and pasture, which is the figure the psalm runs on."
+    },
+    {
+      "id": "ex-050",
+      "type": "multiple_choice",
+      "section": "poems-early",
+      "prompt": "Why is Psalm 23 significant?",
+      "choices": [
+        "It established the sonnet tradition",
+        "It is one of the most widely recited and influential texts in Judeo-Christian history",
+        "It was the first poem to use an invented symbol",
+        "It is the oldest surviving poem in any language"
+      ],
+      "answerIndex": 1,
+      "explanation": "One of the most widely recited and influential texts in Judeo-Christian history. The review claims influence and recitation, not that it is the oldest poem anywhere."
+    },
+    {
+      "id": "ex-051",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Who wrote \"What Lips My Lips Have Kissed\"?",
+      "choices": [
+        "Emily Dickinson",
+        "Denise Levertov",
+        "Edna St. Vincent Millay",
+        "Sharon Olds"
+      ],
+      "answerIndex": 2,
+      "explanation": "Edna St. Vincent Millay, writing a Petrarchan sonnet in 1923, long after the form's Renaissance heyday."
+    },
+    {
+      "id": "ex-052",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "What is the form of \"What Lips My Lips Have Kissed\"?",
+      "choices": [
+        "Free verse in a single stanza",
+        "A villanelle",
+        "An Italian (Petrarchan) sonnet in iambic pentameter",
+        "A Shakespearean sonnet in common meter"
+      ],
+      "answerIndex": 2,
+      "explanation": "An Italian, or Petrarchan, sonnet in iambic pentameter — the same family as Donne's Holy Sonnet, not Shakespeare's English sonnet."
+    },
+    {
+      "id": "ex-053",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "\"What Lips My Lips Have Kissed\" dates from what year?",
+      "choices": [
+        "1923",
+        "1934",
+        "1962",
+        "1890"
+      ],
+      "answerIndex": 0,
+      "explanation": "1923, just before Williams's 1934 \"This Is Just to Say.\" 1890 is the posthumous publication of Dickinson."
+    },
+    {
+      "id": "ex-054",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Which strategies are listed for \"What Lips My Lips Have Kissed\"?",
+      "choices": [
+        "Invented symbols and honorific praise",
+        "Personification and direct address",
+        "Extended metaphor, nostalgia, and a melancholy tone",
+        "Conversational diction and repetition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Extended metaphor, nostalgia, and a melancholy tone. Personification with direct address is Angelou, and invented symbols with honorific praise is Espada."
+    },
+    {
+      "id": "ex-055",
+      "type": "multiple_choice",
+      "section": "poems-modern",
+      "prompt": "Why is \"What Lips My Lips Have Kissed\" significant?",
+      "choices": [
+        "It is a high mark of early 20th-century feminist poems, capturing heartbreak, sexual liberation, and the inevitable passage of youth with classical elegance",
+        "It launched the Dirty Realism movement",
+        "It is the quintessential English sonnet",
+        "It is an occasional poem about a national election"
+      ],
+      "answerIndex": 0,
+      "explanation": "A high mark of early 20th-century feminist poetry. The elegance is classical because Millay puts modern sexual liberation into an old, strict form."
+    },
+    {
+      "id": "ex-056",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Who wrote \"Locking Yourself Out, Then Trying to Get Back In\"?",
+      "choices": [
+        "Raymond Carver",
+        "Frank O'Hara",
+        "Martin Espada",
+        "Dylan Thomas"
+      ],
+      "answerIndex": 0,
+      "explanation": "Raymond Carver, the Dirty Realist on the review."
+    },
+    {
+      "id": "ex-057",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "How is the form of \"Locking Yourself Out, Then Trying to Get Back In\" described?",
+      "choices": [
+        "A lyric hymn built on parallelism",
+        "Three quatrains of sparse lines",
+        "A sonnet with a volta",
+        "Free verse; a narrative poem with short, irregular line breaks"
+      ],
+      "answerIndex": 3,
+      "explanation": "Free verse, and specifically a narrative poem — it tells the story of the accident — with short, irregular line breaks."
+    },
+    {
+      "id": "ex-058",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "\"Locking Yourself Out, Then Trying to Get Back In\" dates from what year?",
+      "choices": [
+        "1981",
+        "1985",
+        "1993",
+        "1978"
+      ],
+      "answerIndex": 1,
+      "explanation": "1985, between Olds's 1981 and Lee's 1986. 1993 is Angelou and 1978 is Levertov."
+    },
+    {
+      "id": "ex-059",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Which of the following is listed as a strategy in \"Locking Yourself Out, Then Trying to Get Back In\"?",
+      "choices": [
+        "Metaphysical conceit",
+        "Rhetorical questions",
+        "Emotional shift from frustration to reflection",
+        "Strict refrain repetition"
+      ],
+      "answerIndex": 2,
+      "explanation": "The emotional shift from frustration to reflection is what turns a mundane accident into insight. Metaphysical conceit is Donne, rhetorical questions are Olds, and refrains are Thomas."
+    },
+    {
+      "id": "ex-060",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Which strategies are also listed for \"Locking Yourself Out, Then Trying to Get Back In\"?",
+      "choices": [
+        "Parallelism and pastoral metaphor",
+        "Anaphora and honorific praise",
+        "Narrative diction, plain language, allegory of everyday life, and spatial/psychological juxtaposition",
+        "Slant rhyme and capitalization"
+      ],
+      "answerIndex": 2,
+      "explanation": "Narrative diction, plain language, allegory of everyday life, and spatial/psychological juxtaposition — being outside the house doubles as being outside his own life."
+    },
+    {
+      "id": "ex-061",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "With which movements is \"Locking Yourself Out, Then Trying to Get Back In\" associated?",
+      "choices": [
+        "Metaphysical poetry",
+        "Imagism and Modernism",
+        "Personism and pop art",
+        "\"Dirty Realism\" and minimalist poetry"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"Dirty Realism\" and minimalist poetry. Imagism is Williams, Personism is O'Hara, and metaphysical poetry is Donne."
+    },
+    {
+      "id": "ex-062",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "What does \"Locking Yourself Out, Then Trying to Get Back In\" derive from a mundane accident?",
+      "choices": [
+        "Profound philosophical insights about identity, detachment, and regret",
+        "A religious plea for divine intervention",
+        "A celebration of national unity",
+        "A political argument about civil rights"
+      ],
+      "answerIndex": 0,
+      "explanation": "Profound philosophical insights about identity, detachment, and regret. Getting locked out is the ordinary event that the allegory of everyday life is built on."
+    },
+    {
+      "id": "ex-063",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Who wrote \"Wedding Ring\"?",
+      "choices": [
+        "Maya Angelou",
+        "Sharon Olds",
+        "Edna St. Vincent Millay",
+        "Denise Levertov"
+      ],
+      "answerIndex": 3,
+      "explanation": "Denise Levertov. Olds is the other feminist and confessional poet on the review, with \"Sex Without Love.\""
+    },
+    {
+      "id": "ex-064",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "What form is \"Wedding Ring\" written in?",
+      "choices": [
+        "Common meter",
+        "Petrarchan sonnet",
+        "Villanelle",
+        "Free verse"
+      ],
+      "answerIndex": 3,
+      "explanation": "Free verse. Its structural pauses come from line and stanza breaks rather than from a metrical pattern."
+    },
+    {
+      "id": "ex-065",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "\"Wedding Ring\" dates from what year?",
+      "choices": [
+        "1962",
+        "1978",
+        "1985",
+        "1986"
+      ],
+      "answerIndex": 1,
+      "explanation": "1978, the earliest of the four late-century poems. 1985 is Carver and 1986 is Lee."
+    },
+    {
+      "id": "ex-066",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Which strategies are listed for \"Wedding Ring\"?",
+      "choices": [
+        "Flashback and homophones",
+        "Symbolism, tactile imagery, understatement, and structural pauses",
+        "Anaphora, direct address, and public rhetoric",
+        "Paradox and imperative verbs"
+      ],
+      "answerIndex": 1,
+      "explanation": "Symbolism, tactile imagery, understatement, and structural pauses. Understatement is the key one: the poem's restraint carries the feeling."
+    },
+    {
+      "id": "ex-067",
+      "type": "multiple_choice",
+      "section": "poems-contemporary",
+      "prompt": "Why is \"Wedding Ring\" significant?",
+      "choices": [
+        "It is a foundational Imagist text",
+        "It is a pivotal text in 20th-century feminist and post-confessional poetry that explored the physical reality and emotional aftermath of divorce",
+        "It is one of the most famous occasional poems in American history",
+        "It reframed mortality as a calm transition into eternity"
+      ],
+      "answerIndex": 1,
+      "explanation": "A pivotal text in 20th-century feminist and post-confessional poetry, about the physical reality and emotional aftermath of divorce — the ring is the object left over."
+    },
+    {
+      "id": "ex-068",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Who wrote \"Litany at the Tomb of Frederick Douglass\"?",
+      "choices": [
+        "Maya Angelou",
+        "Martin Espada",
+        "Li-Young Lee",
+        "Raymond Carver"
+      ],
+      "answerIndex": 1,
+      "explanation": "Martin Espada. Angelou wrote the other occasional poem on the review, \"On the Pulse of Morning.\""
+    },
+    {
+      "id": "ex-069",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "How is the form of \"Litany at the Tomb of Frederick Douglass\" described?",
+      "choices": [
+        "A villanelle with repeating refrains",
+        "Hebrew biblical poetry",
+        "Free verse (litany/anaphora); an occasional poem",
+        "A Holy Sonnet in iambic pentameter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Free verse built as a litany, which is where the anaphora comes from, and an occasional poem because it marks a specific historic event."
+    },
+    {
+      "id": "ex-070",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "What is the time period and occasion of \"Litany at the Tomb of Frederick Douglass\"?",
+      "choices": [
+        "1962, a celebrity's collapse",
+        "2008, days after Obama won the election",
+        "1985, an ordinary day at home",
+        "1993, a presidential inauguration"
+      ],
+      "answerIndex": 1,
+      "explanation": "2008, days after Obama won the election. The 1993 inauguration is Angelou's occasion and 1962 is O'Hara's."
+    },
+    {
+      "id": "ex-071",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Which strategies are listed for \"Litany at the Tomb of Frederick Douglass\"?",
+      "choices": [
+        "Slant rhyme, dashes, and capitalization",
+        "Rhetorical questions and paradoxical tone",
+        "Extreme economy of language and enjambment",
+        "Anaphora, historical juxtaposition, tactile imagery, honorific praise, and invented symbols"
+      ],
+      "answerIndex": 3,
+      "explanation": "Anaphora, historical juxtaposition, tactile imagery, honorific praise, and invented symbols. The historical juxtaposition is Douglass set against Obama."
+    },
+    {
+      "id": "ex-072",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Why is \"Litany at the Tomb of Frederick Douglass\" significant?",
+      "choices": [
+        "It is the quintessential English sonnet",
+        "It established the conventions of confessional poetry",
+        "It introduced Imagism to American readers",
+        "It is a vital piece of political and Afro-Latino social poetry, connecting historic Civil Rights struggles to contemporary political milestones"
+      ],
+      "answerIndex": 3,
+      "explanation": "A vital piece of political and Afro-Latino social poetry, connecting historic Civil Rights struggles to contemporary political milestones."
+    },
+    {
+      "id": "ex-073",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "In \"Litany at the Tomb of Frederick Douglass,\" what do the items found on the tomb function as?",
+      "choices": [
+        "Invented symbols specific to this poem",
+        "Literal historical artifacts with no symbolic role",
+        "Similes comparing Douglass to Obama",
+        "Traditional symbols with agreed-upon significance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Invented symbols: the items have no previously agreed-upon symbolic meaning, and the poem gives them one — the connection between the two men. Angelou's rock, river, and tree are the traditional kind."
+    },
+    {
+      "id": "ex-074",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "What two figures does \"Litany at the Tomb of Frederick Douglass\" juxtapose?",
+      "choices": [
+        "Frederick Douglass and Maya Angelou",
+        "Frederick Douglass and Abraham Lincoln",
+        "Frederick Douglass and Barack Obama",
+        "Barack Obama and Bill Clinton"
+      ],
+      "answerIndex": 2,
+      "explanation": "The life of Frederick Douglass against the election of Barack Obama — the historical juxtaposition listed among its strategies."
+    },
+    {
+      "id": "ex-075",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Who wrote \"On the Pulse of Morning\"?",
+      "choices": [
+        "Martin Espada",
+        "Sharon Olds",
+        "Maya Angelou",
+        "Denise Levertov"
+      ],
+      "answerIndex": 2,
+      "explanation": "Maya Angelou, who delivered it at the 1993 inauguration."
+    },
+    {
+      "id": "ex-076",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "What is the occasion of \"On the Pulse of Morning\"?",
+      "choices": [
+        "The 2008 presidential election",
+        "President Bill Clinton's first inauguration in 1993",
+        "The publication of a 1934 poetry anthology",
+        "A memorial service in 1951"
+      ],
+      "answerIndex": 1,
+      "explanation": "Clinton's first inauguration, 1993. Inauguration poems are examples of occasional poems. The 2008 election is Espada's occasion."
+    },
+    {
+      "id": "ex-077",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "What form is \"On the Pulse of Morning\" written in?",
+      "choices": [
+        "Villanelle",
+        "Common meter",
+        "Free verse",
+        "Shakespearean sonnet"
+      ],
+      "answerIndex": 2,
+      "explanation": "Free verse, like Espada's litany. Neither occasional poem on the review uses a fixed form."
+    },
+    {
+      "id": "ex-078",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Which strategies are listed for \"On the Pulse of Morning\"?",
+      "choices": [
+        "Homophones and dual meaning",
+        "Metaphysical conceit and paradox",
+        "Personification, natural imagery, unifying public rhetoric, and direct address",
+        "Understatement and structural pauses"
+      ],
+      "answerIndex": 2,
+      "explanation": "Personification, natural imagery, unifying public rhetoric, and direct address. The rhetoric is unifying because the poem is written for a national audience."
+    },
+    {
+      "id": "ex-079",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Which three traditional symbols does \"On the Pulse of Morning\" use to convey unity to the listener?",
+      "choices": [
+        "The flag, the eagle, and the bell",
+        "The rock, the river, and the tree",
+        "The road, the bridge, and the gate",
+        "The sun, the moon, and the stars"
+      ],
+      "answerIndex": 1,
+      "explanation": "The rock, the river, and the tree. They are traditional rather than invented symbols, which is why a large audience can follow them immediately."
+    },
+    {
+      "id": "ex-080",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Why is \"On the Pulse of Morning\" significant?",
+      "choices": [
+        "It is a foundational text of Imagism",
+        "It is one of the most famous public inaugural poems in American history, calling for multi-ethnic unity, environmental mindfulness, and national renewal",
+        "It is a central text in confessional poetry",
+        "It is one of the most famous villanelles in world literature"
+      ],
+      "answerIndex": 1,
+      "explanation": "One of the most famous public inaugural poems in American history: multi-ethnic unity, environmental mindfulness, and national renewal."
+    },
+    {
+      "id": "ex-081",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "According to the review, what do the Angelou and Espada occasional poems have in common?",
+      "choices": [
+        "Both use strict metrical forms",
+        "Both were written in the 19th century",
+        "Both focus closely on the private life of the poet",
+        "Both draw on aspects of shared American identity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Both draw on aspects of shared American identity. Both are also free verse, not strict metrical forms, and both are from the last few decades."
+    },
+    {
+      "id": "ex-082",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "How do the Angelou and Espada poems differ from a poem like Carver's?",
+      "choices": [
+        "They avoid all use of symbols",
+        "They are written in strict rhyme",
+        "They are much shorter",
+        "They are not focused on the poet/speaker; they are focused on a moment in history"
+      ],
+      "answerIndex": 3,
+      "explanation": "They point outward at a moment in history rather than inward at the poet/speaker. Carver builds his poem from his own locked door. Both occasional poems rely heavily on symbols, so avoiding symbols is wrong."
+    },
+    {
+      "id": "ex-083",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Why must the poet of an occasional poem, especially an inaugural poem, find common ground?",
+      "choices": [
+        "Because the form forbids personal reference",
+        "Because the poem must be approved by a committee",
+        "Because the poem must be memorized by the audience",
+        "Because such poems are written for large audiences that may not be familiar with or enjoy poetry"
+      ],
+      "answerIndex": 3,
+      "explanation": "The audience is large and may not be familiar with or enjoy poetry, so the poet must appeal to them. It is also why Angelou reaches for traditional symbols rather than invented ones."
+    },
+    {
+      "id": "ex-084",
+      "type": "multiple_choice",
+      "section": "poems-occasional",
+      "prompt": "Which elements are identified as the key elements of an occasional poem?",
+      "choices": [
+        "Diction and syntax",
+        "Rhyme and meter",
+        "Denotation and connotation",
+        "Setting and situation"
+      ],
+      "answerIndex": 3,
+      "explanation": "Setting and situation — the when, where, and why of the poem. That follows from the definition: an occasional poem refers to a specific historic time or event."
+    },
+    {
+      "id": "ex-085",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "Which statement reflects the review's introduction to poetry?",
+      "choices": [
+        "All poetry follows one fixed set of rules",
+        "Poetry is essentially identical to prose",
+        "Only rhymed writing counts as poetry",
+        "Poetry itself isn't all one thing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Poetry isn't all one thing. It is a distinct form of writing, but it does not reduce to one fixed set of rules — the fourteen poems on this review are proof."
+    },
+    {
+      "id": "ex-086",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "According to the review, a good poem is:",
+      "choices": [
+        "Always about a hidden autobiographical event",
+        "Only understandable to trained scholars",
+        "A secret message that must be decoded",
+        "Not a secret message"
+      ],
+      "answerIndex": 3,
+      "explanation": "A good poem is not a secret message. Reading a poem is not code-breaking, and there is no single hidden answer to uncover."
+    },
+    {
+      "id": "ex-087",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "What does the review say about the techniques used to study poetry?",
+      "choices": [
+        "They apply only to poetry and nowhere else",
+        "They will apply to other forms of writing",
+        "They are useful only for rhymed verse",
+        "They replace the need to read closely"
+      ],
+      "answerIndex": 1,
+      "explanation": "They carry over to other forms of writing. Diction, syntax, tone, and imagery are just as useful on prose."
+    },
+    {
+      "id": "ex-088",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "According to the review, is it possible to \"over-analyze\" a poem?",
+      "choices": [
+        "No, we can't \"over-analyze\" a poem",
+        "Only if the poem is written in free verse",
+        "Only when the poet is still living",
+        "Yes, analysis beyond three readings is discouraged"
+      ],
+      "answerIndex": 0,
+      "explanation": "No. Since a poem is not a secret message with one fixed answer, there is no point at which further attention spoils it."
+    },
+    {
+      "id": "ex-089",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "Which of the following is part of the review's definition of poetry?",
+      "choices": [
+        "A strictly factual account of events",
+        "Writing that avoids emotional effect",
+        "Language that must always rhyme",
+        "A patterned arrangement of language"
+      ],
+      "answerIndex": 3,
+      "explanation": "A patterned arrangement of language. Note that the pattern need not be rhyme — most of the poems on this review are free verse."
+    },
+    {
+      "id": "ex-090",
+      "type": "multiple_choice",
+      "section": "intro",
+      "prompt": "Which set of qualities does the review use to define poetry?",
+      "choices": [
+        "Rhymed, metered, and narrative",
+        "Rhythmic language, meant to evoke emotion, concentrated and intense",
+        "Lengthy, plainspoken, and strictly literal",
+        "Unpatterned, spontaneous, and unrevised"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rhythmic language, meant to evoke emotion, concentrated and intense. Concentration is why a twelve-line note about plums can carry so much."
+    },
+    {
+      "id": "ex-091",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "According to the review, what is true of the speaker of a poem?",
+      "choices": [
+        "The speaker can never be treated as a character",
+        "The speaker is always an imaginary listener",
+        "The speaker is always the poet",
+        "The speaker may speak the feelings of the poet, or may express ideas different from those of the poet"
+      ],
+      "answerIndex": 3,
+      "explanation": "Either is possible, which is exactly why you cannot assume the speaker is the poet. The imaginary listener is the auditor, not the speaker."
+    },
+    {
+      "id": "ex-092",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "The speaker of a poem can be viewed as:",
+      "choices": [
+        "The reader of the poem",
+        "A traditional symbol",
+        "A character, just like a character in drama or fiction",
+        "A purely grammatical device with no identity"
+      ],
+      "answerIndex": 2,
+      "explanation": "A character, like one in drama or fiction — which is why it makes sense to ask what kind of person the speaker is."
+    },
+    {
+      "id": "ex-093",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "What role does the speaker often play in a poem?",
+      "choices": [
+        "Editor",
+        "Auditor",
+        "Narrator",
+        "Translator"
+      ],
+      "answerIndex": 2,
+      "explanation": "The speaker often acts as a narrator. The auditor is the opposite role: the imaginary listener being spoken to."
+    },
+    {
+      "id": "ex-094",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "What is a persona?",
+      "choices": [
+        "The dictionary definition of a word",
+        "A construction made by the speaker/narrator of a poem",
+        "The imaginary listener within a poem",
+        "A comparison using \"like\" or \"as\""
+      ],
+      "answerIndex": 1,
+      "explanation": "The speaker/narrator may have constructed a persona. That construction is one more reason never to read the speaker as the author."
+    },
+    {
+      "id": "ex-095",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "According to the review, what should you never assume when reading a poem?",
+      "choices": [
+        "That the poem uses figurative language",
+        "That the poem has a theme",
+        "That the speaker/narrator is the author",
+        "That the poem has a setting"
+      ],
+      "answerIndex": 2,
+      "explanation": "Never assume the speaker/narrator is the author. The speaker is a character and may hold ideas the poet does not."
+    },
+    {
+      "id": "ex-096",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "Which of these is one of the important questions the review lists for identifying the speaker?",
+      "choices": [
+        "Does the poem rhyme?",
+        "What kind of person is she or he?",
+        "What year was the poem published?",
+        "How many lines does the poem have?"
+      ],
+      "answerIndex": 1,
+      "explanation": "The three listed questions are: Who is speaking? What do we know about him or her? What kind of person is she or he?"
+    },
+    {
+      "id": "ex-097",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "According to the review, theme is:",
+      "choices": [
+        "What a poem says",
+        "The poet's word choice",
+        "The place of the poem",
+        "How a poem says it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Theme is what a poem says; tone is how it says it. Word choice is diction and the place of the poem is its spatial setting."
+    },
+    {
+      "id": "ex-098",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "Which best describes a theme?",
+      "choices": [
+        "A statement about a topic, such as \"love is fleeting\"",
+        "The rhyme scheme of the poem",
+        "The historical event behind the poem",
+        "A one-word subject such as \"love\""
+      ],
+      "answerIndex": 0,
+      "explanation": "A theme is not simply a work's subject or topic; it is a statement about that topic. \"Love\" is a topic, \"love is fleeting\" is a theme."
+    },
+    {
+      "id": "ex-099",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "Can a poem have more than one theme?",
+      "choices": [
+        "Yes, a poem could be both about the pain of heartbreak and the joy of new experiences",
+        "Only if the poem is longer than fourteen lines",
+        "Only in free verse poems",
+        "No, each poem has exactly one theme"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yes, and the review's own example is a poem about both the pain of heartbreak and the joy of new experiences."
+    },
+    {
+      "id": "ex-100",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "Theme and tone both build upon which elements?",
+      "choices": [
+        "Symbol, simile, and analogy",
+        "Rhyme, meter, and stanza length",
+        "Speaker, situation, and settings",
+        "Denotation, connotation, and syntax"
+      ],
+      "answerIndex": 2,
+      "explanation": "Speaker, situation, and settings. That is why identifying the speaker comes first, then the situation and setting."
+    },
+    {
+      "id": "ex-101",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "According to the review, tone is:",
+      "choices": [
+        "The dictionary meaning of words",
+        "The number of feet per line",
+        "What a poem says",
+        "How the poem says it"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tone is how the poem says it. What a poem says is its theme, and the dictionary meaning of a word is denotation."
+    },
+    {
+      "id": "ex-102",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "From what field is the term \"tone\" borrowed?",
+      "choices": [
+        "Acoustics and music",
+        "Mathematics",
+        "Architecture",
+        "Painting and sculpture"
+      ],
+      "answerIndex": 0,
+      "explanation": "Acoustics and music. The borrowing fits: tone is about how something sounds, not what it states."
+    },
+    {
+      "id": "ex-103",
+      "type": "multiple_choice",
+      "section": "speaker-theme-tone",
+      "prompt": "Tone refers to:",
+      "choices": [
+        "The qualities of the language a speaker uses in social situations or in a poem, and the speaker's intended affect",
+        "The physical layout of stanzas on a page",
+        "The historical occasion of the poem",
+        "The poem's rhyme scheme"
+      ],
+      "answerIndex": 0,
+      "explanation": "The qualities of the language a speaker uses, in a poem or in ordinary social situations, plus the speaker's intended affect."
+    },
+    {
+      "id": "ex-104",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "Diction is defined as:",
+      "choices": [
+        "The poem's central struggle",
+        "The suggestion carried by a word",
+        "The poet's word choice",
+        "The way words are put together into sentences"
+      ],
+      "answerIndex": 2,
+      "explanation": "Diction is word choice. The central struggle is conflict, the suggestion carried by a word is connotation, and how words are assembled is syntax."
+    },
+    {
+      "id": "ex-105",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "According to the review, what does diction determine?",
+      "choices": [
+        "Only the meaning of the poem",
+        "Not only meaning but also the effect of the poem",
+        "Only the poem's rhyme scheme",
+        "Only the poem's setting"
+      ],
+      "answerIndex": 1,
+      "explanation": "Not only meaning but also effect. Two words can denote the same thing and land very differently on a reader."
+    },
+    {
+      "id": "ex-106",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "What does diction allow for?",
+      "choices": [
+        "Ambiguity only",
+        "Neither precision nor ambiguity",
+        "Both precision and ambiguity",
+        "Precision only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both. A word can be chosen to pin a meaning down or to keep several in play — the homophones in \"Persimmons\" do the second."
+    },
+    {
+      "id": "ex-107",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "How does word order and placement in poetry differ from prose?",
+      "choices": [
+        "In prose, spacing is fixed while in poetry it varies",
+        "In poetry the wording changes freely from edition to edition",
+        "In poetry, the number and placement of words in a line and the spacing of words and lines stays the same in every printed version",
+        "In poetry, word placement carries no meaning"
+      ],
+      "answerIndex": 2,
+      "explanation": "The layout is fixed: line breaks and spacing are reproduced in every printed version, so placement is part of the poem rather than an accident of typesetting."
+    },
+    {
+      "id": "ex-108",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "Syntax is defined as:",
+      "choices": [
+        "The way words are put together to form phrases, clauses, and sentences",
+        "The poet's word choice",
+        "An implicit comparison",
+        "The time of the poem"
+      ],
+      "answerIndex": 0,
+      "explanation": "Syntax is arrangement into phrases, clauses, and sentences; diction is the choice of the words themselves."
+    },
+    {
+      "id": "ex-109",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "Conflict is defined as:",
+      "choices": [
+        "The central struggle, tension, or opposition between competing forces that drives the poem's emotional and thematic momentum",
+        "A break in a line of verse",
+        "A shift in rhyme scheme",
+        "A disagreement between the poet and the reader"
+      ],
+      "answerIndex": 0,
+      "explanation": "The central struggle, tension, or opposition between competing forces, and it is what gives the poem emotional and thematic momentum."
+    },
+    {
+      "id": "ex-110",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "According to the review, visual imagery is:",
+      "choices": [
+        "The language of poetry",
+        "The rhythm of the poem",
+        "A type of rhyme",
+        "The historical occasion of the poem"
+      ],
+      "answerIndex": 0,
+      "explanation": "The review calls visual imagery the language of poetry — images are how poems carry meaning."
+    },
+    {
+      "id": "ex-111",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "Where can visual imagery come from?",
+      "choices": [
+        "The number of stanzas only",
+        "The poet's biography",
+        "Word choice and order, and the ambiguity or specificity of words",
+        "The poem's publication date"
+      ],
+      "answerIndex": 2,
+      "explanation": "From word choice and order, and from how ambiguous or specific the words are. Imagery is built by diction and syntax, not by facts outside the poem."
+    },
+    {
+      "id": "ex-112",
+      "type": "multiple_choice",
+      "section": "language-imagery",
+      "prompt": "A figure of speech is:",
+      "choices": [
+        "An intentional departure from literal language or normal word patterns used to create a striking stylistic, emotional, or auditory effect",
+        "A dictionary definition",
+        "A poem written for a public occasion",
+        "A line of ten syllables"
+      ],
+      "answerIndex": 0,
+      "explanation": "An intentional departure from literal language or normal word patterns, for stylistic, emotional, or auditory effect. Metaphor and simile are the common examples."
+    },
+    {
+      "id": "ex-113",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "According to the review, what becomes important to identify after identifying the speaker?",
+      "choices": [
+        "The publication history",
+        "The poet's other works",
+        "The rhyme scheme and meter",
+        "The situation and setting"
+      ],
+      "answerIndex": 3,
+      "explanation": "Situation and setting come next. Together with the speaker they are what theme and tone build upon."
+    },
+    {
+      "id": "ex-114",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "What is an auditor?",
+      "choices": [
+        "An imaginary listener in the poem",
+        "The poet's editor",
+        "A repeated line in a villanelle",
+        "The subject of a metaphor"
+      ],
+      "answerIndex": 0,
+      "explanation": "An imaginary listener in the poem. Asking whether there is an auditor is part of identifying the situation. A repeated line in a villanelle is a refrain."
+    },
+    {
+      "id": "ex-115",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "Which of these questions belongs to identifying the situation of a poem?",
+      "choices": [
+        "How many syllables are in each line?",
+        "What year did the poet die?",
+        "What is the dictionary definition of the title?",
+        "What is happening, and why is this communication occurring?"
+      ],
+      "answerIndex": 3,
+      "explanation": "The situation questions ask who is being spoken to, whether there is an auditor, who else is present, what is happening, and why the communication is occurring."
+    },
+    {
+      "id": "ex-116",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "A carpe diem poem is one in which:",
+      "choices": [
+        "The speaker mourns a public figure",
+        "The poem refers to a specific historic event",
+        "The poem repeats a refrain in every stanza",
+        "The speaker encourages the auditor to seize the day"
+      ],
+      "answerIndex": 3,
+      "explanation": "The speaker urges the auditor to seize the day. A poem referring to a specific historic event is an occasional poem instead."
+    },
+    {
+      "id": "ex-117",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "What does the review say about the relationship between situation and setting?",
+      "choices": [
+        "Setting and situation are unrelated",
+        "Setting replaces situation in free verse",
+        "Only narrative poems have settings",
+        "Situation entails setting"
+      ],
+      "answerIndex": 3,
+      "explanation": "Situation entails setting: if something is happening, it is happening somewhere and at some time."
+    },
+    {
+      "id": "ex-118",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "The spatial setting of a poem is:",
+      "choices": [
+        "The theme of the poem",
+        "The place of the poem",
+        "The time of the poem",
+        "The speaker of the poem"
+      ],
+      "answerIndex": 1,
+      "explanation": "Spatial setting is place; temporal setting is time."
+    },
+    {
+      "id": "ex-119",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "The temporal setting of a poem is:",
+      "choices": [
+        "The time of the poem",
+        "The auditor of the poem",
+        "The tone of the poem",
+        "The place of the poem"
+      ],
+      "answerIndex": 0,
+      "explanation": "Temporal setting is time; spatial setting is place."
+    },
+    {
+      "id": "ex-120",
+      "type": "multiple_choice",
+      "section": "situation-setting",
+      "prompt": "An occasional poem:",
+      "choices": [
+        "Is written only occasionally by a poet",
+        "Encourages the auditor to seize the day",
+        "Uses only traditional symbols",
+        "Refers to a specific historic time or event"
+      ],
+      "answerIndex": 3,
+      "explanation": "It refers to a specific historic time or event — Espada's 2008 election, Angelou's 1993 inauguration, O'Hara's 1962 collapse. Espada's poem uses invented symbols, so the traditional-symbols option is wrong."
+    },
+    {
+      "id": "ex-121",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Personification is defined as:",
+      "choices": [
+        "Giving a poem a fictional speaker",
+        "Repeating a phrase at the start of lines",
+        "Treating an abstraction as if it were a person",
+        "Comparing two things using \"like\" or \"as\""
+      ],
+      "answerIndex": 2,
+      "explanation": "Treating an abstraction as if it were a person — Dickinson's Death, for instance. Repeating a phrase at the start of lines is anaphora, and a fictional speaker is a persona."
+    },
+    {
+      "id": "ex-122",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "A metaphor is:",
+      "choices": [
+        "The dictionary definition of a word",
+        "A shift in tone near the end of a poem",
+        "An explicit comparison using \"like\" or \"as\"",
+        "An implicit comparison and a form of figurative language"
+      ],
+      "answerIndex": 3,
+      "explanation": "A metaphor compares implicitly. The moment \"like\" or \"as\" appears, the comparison is explicit and it is a simile. A shift near the end of a poem is the volta."
+    },
+    {
+      "id": "ex-123",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Which example does the review give for metaphor?",
+      "choices": [
+        "\"Death is like a sunset\"",
+        "\"Death is a sunset\"",
+        "\"Death is the auditor\"",
+        "\"Death is a traditional symbol\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Death is a sunset\" states the comparison outright without \"like\" or \"as.\" Add \"like\" and the same sentence becomes the review's simile example."
+    },
+    {
+      "id": "ex-124",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "A simile is:",
+      "choices": [
+        "An explicit comparison using \"like\" or \"as\"",
+        "A word's suggested meaning",
+        "A poem written for a public occasion",
+        "An implicit comparison"
+      ],
+      "answerIndex": 0,
+      "explanation": "An explicit comparison, marked by \"like\" or \"as.\" The implicit version is a metaphor."
+    },
+    {
+      "id": "ex-125",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Which example does the review give for simile?",
+      "choices": [
+        "\"Death is a sunset\"",
+        "\"Death is like a sunset\"",
+        "\"Death is eternity\"",
+        "\"Death stopped for me\""
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Death is like a sunset.\" The word \"like\" is the whole difference between this and the metaphor example."
+    },
+    {
+      "id": "ex-126",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "An analogy is:",
+      "choices": [
+        "A comparison that uses only \"like\" or \"as\"",
+        "A symbol with agreed-upon significance",
+        "A departure from normal word order",
+        "A comparison of two things to make a point; both similes and metaphors are analogies"
+      ],
+      "answerIndex": 3,
+      "explanation": "Analogy is the broader category: a comparison of two things to make a point. Similes and metaphors are both kinds of analogy."
+    },
+    {
+      "id": "ex-127",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "A symbol is:",
+      "choices": [
+        "The speaker's intended affect",
+        "Something that stands for something else",
+        "The dictionary definition of a word",
+        "The central tension of a poem"
+      ],
+      "answerIndex": 1,
+      "explanation": "Something that stands for something else. Unlike a metaphor, a symbol need not name the thing it stands for."
+    },
+    {
+      "id": "ex-128",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Which of these does the review give as examples of symbols we see daily?",
+      "choices": [
+        "A flag, a logo, and a trademark",
+        "A sonnet, a villanelle, and a psalm",
+        "A rock, a river, and a tree",
+        "A metaphor, a simile, and an analogy"
+      ],
+      "answerIndex": 0,
+      "explanation": "A flag, a logo, and a trademark — symbols are ordinary, not just literary. The rock, river, and tree are Angelou's traditional symbols in particular."
+    },
+    {
+      "id": "ex-129",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "An invented symbol is created out of:",
+      "choices": [
+        "A word's dictionary definition",
+        "The poem's rhyme scheme",
+        "A thing, action, or event that has no previously agreed-upon symbolic significance",
+        "A symbol used repeatedly across literary tradition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Out of something with no previously agreed-upon symbolic significance — the poem supplies the meaning. Espada's items on the tomb are the review's example."
+    },
+    {
+      "id": "ex-130",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "A traditional symbol is one that:",
+      "choices": [
+        "Appears only once, in a single poem",
+        "Has no meaning beyond the literal",
+        "Is always invented by the poet",
+        "Has an agreed-upon significance because of past use in literature or cultural texts"
+      ],
+      "answerIndex": 3,
+      "explanation": "Its significance is already agreed upon from past use in literature or cultural texts. A symbol that appears in one poem only is an invented symbol."
+    },
+    {
+      "id": "ex-131",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Which examples of traditional symbols does the review give?",
+      "choices": [
+        "A tomb and an election",
+        "A wedding ring and a locked door",
+        "Birds symbolizing flight and roses symbolizing fleeting beauty",
+        "Persimmons symbolizing language and a refrigerator symbolizing apology"
+      ],
+      "answerIndex": 2,
+      "explanation": "Birds for flight and roses for fleeting beauty. The persimmon and the items on Douglass's tomb are invented symbols, made meaningful by their poems."
+    },
+    {
+      "id": "ex-132",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Why are traditional symbols used?",
+      "choices": [
+        "To avoid figurative language",
+        "To fix the poem's meter",
+        "To invoke predictable responses",
+        "To confuse the reader deliberately"
+      ],
+      "answerIndex": 2,
+      "explanation": "To invoke predictable responses. That predictability is why Angelou reaches for them in a poem addressed to a huge public audience."
+    },
+    {
+      "id": "ex-133",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Denotation is:",
+      "choices": [
+        "The speaker's persona",
+        "The dictionary definition of a word",
+        "What is suggested by a word",
+        "The rhythm of a line"
+      ],
+      "answerIndex": 1,
+      "explanation": "Denotation is the dictionary definition; connotation is what the word suggests beyond it."
+    },
+    {
+      "id": "ex-134",
+      "type": "multiple_choice",
+      "section": "figurative-symbols",
+      "prompt": "Connotation is:",
+      "choices": [
+        "What is suggested by a word",
+        "An explicit comparison",
+        "The place of the poem",
+        "The dictionary definition of a word"
+      ],
+      "answerIndex": 0,
+      "explanation": "Connotation is suggestion; denotation is the dictionary definition. Two words with the same denotation can carry very different connotations, which is why diction affects effect and not just meaning."
+    },
+    {
+      "id": "ex-135",
+      "type": "multiple_choice",
+      "section": "sonnet-form",
+      "prompt": "How many lines does a sonnet have?",
+      "choices": [
+        "Eighteen",
+        "Twelve",
+        "Fourteen",
+        "Sixteen"
+      ],
+      "answerIndex": 2,
+      "explanation": "Fourteen. Sonnet 18 is numbered 18 in Shakespeare's sequence; it is still a fourteen-line poem."
+    },
+    {
+      "id": "ex-136",
+      "type": "multiple_choice",
+      "section": "sonnet-form",
+      "prompt": "A sonnet is typically written in:",
+      "choices": [
+        "Free verse",
+        "Trochaic tetrameter",
+        "Iambic pentameter",
+        "Common meter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Iambic pentameter, in the English and the Italian sonnet alike. Common meter is Dickinson's, and it is not a sonnet form."
+    },
+    {
+      "id": "ex-137",
+      "type": "multiple_choice",
+      "section": "sonnet-form",
+      "prompt": "How is iambic pentameter described in the review?",
+      "choices": [
+        "Generally ten syllables per line in an alternating unstressed/stressed pattern, with five iambic feet per line",
+        "Generally eight syllables per line with four stressed feet",
+        "A line with no fixed pattern of stresses",
+        "Alternating tetrameter and trimeter lines"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ten syllables in an alternating unstressed/stressed pattern — five iambic feet. Penta- is the five. Alternating tetrameter and trimeter is common meter."
+    },
+    {
+      "id": "ex-138",
+      "type": "multiple_choice",
+      "section": "sonnet-form",
+      "prompt": "What is the volta in a sonnet?",
+      "choices": [
+        "The opening declaration of the subject",
+        "A pivotal shift in tone, thought, or argument near the end of the poem",
+        "The repeated refrain in the final stanza",
+        "The rhyme scheme of the first quatrain"
+      ],
+      "answerIndex": 1,
+      "explanation": "A pivotal shift in tone, thought, or argument near the end of the poem. Refrains belong to the villanelle, not the sonnet."
+    },
+    {
+      "id": "ex-139",
+      "type": "multiple_choice",
+      "section": "sonnet-form",
+      "prompt": "The volta is also known as:",
+      "choices": [
+        "The conceit",
+        "The litany",
+        "The turn",
+        "The refrain"
+      ],
+      "answerIndex": 2,
+      "explanation": "The turn. A conceit is Donne's extended metaphysical comparison and a litany is the repeating form behind Espada's poem."
+    }
+  ]
+}
