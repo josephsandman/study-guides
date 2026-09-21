@@ -10,6 +10,7 @@ Live site: <https://josephsandman.github.io/study-guides/>
 | Guide | Path | URL |
 | --- | --- | --- |
 | Chem 1401 — Exam 1: Atoms, Molecules, and Ions | `chem1401/exam1/` | `/study-guides/chem1401/exam1/` |
+| Engl 1302 — Exam 1: Poetry | `engl1302/exam1/` | `/study-guides/engl1302/exam1/` |
 
 ## Layout
 
