@@ -728,7 +728,7 @@
       "id": "ex-013",
       "type": "multiple_choice",
       "section": "poems-modern",
-      "prompt": "What does the review say \"Lana Turner Has Collapsed\" accomplished?",
+      "prompt": "What did \"Lana Turner Has Collapsed\" accomplish?",
       "choices": [
         "It was the first poem to describe a celebrity in verse",
         "It rejected all references to popular culture in favor of classical allusion",
@@ -1134,7 +1134,7 @@
       "id": "ex-042",
       "type": "multiple_choice",
       "section": "poems-modern",
-      "prompt": "How is the structure of a villanelle described in the review?",
+      "prompt": "How is the structure of a villanelle described?",
       "choices": [
         "Alternating iambic tetrameter and trimeter with slant rhyme",
         "Fourteen lines with a volta near the end",
@@ -1680,7 +1680,7 @@
       "id": "ex-081",
       "type": "multiple_choice",
       "section": "poems-occasional",
-      "prompt": "According to the review, what do the Angelou and Espada occasional poems have in common?",
+      "prompt": "What do the Angelou and Espada occasional poems have in common?",
       "choices": [
         "Both use strict metrical forms",
         "Both were written in the 19th century",
@@ -1736,7 +1736,7 @@
       "id": "ex-085",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "Which statement reflects the review's introduction to poetry?",
+      "prompt": "Which statement is part of the introduction to poetry?",
       "choices": [
         "All poetry follows one fixed set of rules",
         "Poetry is essentially identical to prose",
@@ -1750,7 +1750,7 @@
       "id": "ex-086",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "According to the review, a good poem is:",
+      "prompt": "A good poem is:",
       "choices": [
         "Always about a hidden autobiographical event",
         "Only understandable to trained scholars",
@@ -1764,7 +1764,7 @@
       "id": "ex-087",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "What does the review say about the techniques used to study poetry?",
+      "prompt": "Which of these apply to the techniques used to study poetry?",
       "choices": [
         "They apply only to poetry and nowhere else",
         "They will apply to other forms of writing",
@@ -1778,7 +1778,7 @@
       "id": "ex-088",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "According to the review, is it possible to \"over-analyze\" a poem?",
+      "prompt": "Is it possible to \"over-analyze\" a poem?",
       "choices": [
         "No, we can't \"over-analyze\" a poem",
         "Only if the poem is written in free verse",
@@ -1792,7 +1792,7 @@
       "id": "ex-089",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "Which of the following is part of the review's definition of poetry?",
+      "prompt": "Which of the following is part of the definition of poetry?",
       "choices": [
         "A strictly factual account of events",
         "Writing that avoids emotional effect",
@@ -1806,7 +1806,7 @@
       "id": "ex-090",
       "type": "multiple_choice",
       "section": "intro",
-      "prompt": "Which set of qualities does the review use to define poetry?",
+      "prompt": "Which set of qualities define poetry?",
       "choices": [
         "Rhymed, metered, and narrative",
         "Rhythmic language, meant to evoke emotion, concentrated and intense",
@@ -1820,7 +1820,7 @@
       "id": "ex-091",
       "type": "multiple_choice",
       "section": "speaker-theme-tone",
-      "prompt": "According to the review, what is true of the speaker of a poem?",
+      "prompt": "What is true of the speaker of a poem?",
       "choices": [
         "The speaker can never be treated as a character",
         "The speaker is always an imaginary listener",
@@ -1876,7 +1876,7 @@
       "id": "ex-095",
       "type": "multiple_choice",
       "section": "speaker-theme-tone",
-      "prompt": "According to the review, what should you never assume when reading a poem?",
+      "prompt": "What should you never assume when reading a poem?",
       "choices": [
         "That the poem uses figurative language",
         "That the poem has a theme",
@@ -1890,7 +1890,7 @@
       "id": "ex-096",
       "type": "multiple_choice",
       "section": "speaker-theme-tone",
-      "prompt": "Which of these is one of the important questions the review lists for identifying the speaker?",
+      "prompt": "Which of these is one of the important questions for identifying the speaker?",
       "choices": [
         "Does the poem rhyme?",
         "What kind of person is she or he?",
@@ -1904,7 +1904,7 @@
       "id": "ex-097",
       "type": "multiple_choice",
       "section": "speaker-theme-tone",
-      "prompt": "According to the review, theme is:",
+      "prompt": "Theme is:",
       "choices": [
         "What a poem says",
         "The poet's word choice",
@@ -1960,7 +1960,7 @@
       "id": "ex-101",
       "type": "multiple_choice",
       "section": "speaker-theme-tone",
-      "prompt": "According to the review, tone is:",
+      "prompt": "Tone is:",
       "choices": [
         "The dictionary meaning of words",
         "The number of feet per line",
@@ -2016,7 +2016,7 @@
       "id": "ex-105",
       "type": "multiple_choice",
       "section": "language-imagery",
-      "prompt": "According to the review, what does diction determine?",
+      "prompt": "What does diction determine?",
       "choices": [
         "Only the meaning of the poem",
         "Not only meaning but also the effect of the poem",
@@ -2086,7 +2086,7 @@
       "id": "ex-110",
       "type": "multiple_choice",
       "section": "language-imagery",
-      "prompt": "According to the review, visual imagery is:",
+      "prompt": "Visual imagery is:",
       "choices": [
         "The language of poetry",
         "The rhythm of the poem",
@@ -2128,7 +2128,7 @@
       "id": "ex-113",
       "type": "multiple_choice",
       "section": "situation-setting",
-      "prompt": "According to the review, what becomes important to identify after identifying the speaker?",
+      "prompt": "What becomes important to identify after identifying the speaker?",
       "choices": [
         "The publication history",
         "The poet's other works",
@@ -2184,7 +2184,7 @@
       "id": "ex-117",
       "type": "multiple_choice",
       "section": "situation-setting",
-      "prompt": "What does the review say about the relationship between situation and setting?",
+      "prompt": "What is the relationship between situation and setting?",
       "choices": [
         "Setting and situation are unrelated",
         "Setting replaces situation in free verse",
@@ -2268,7 +2268,7 @@
       "id": "ex-123",
       "type": "multiple_choice",
       "section": "figurative-symbols",
-      "prompt": "Which example does the review give for metaphor?",
+      "prompt": "Which is an example of a metaphor?",
       "choices": [
         "\"Death is like a sunset\"",
         "\"Death is a sunset\"",
@@ -2276,7 +2276,7 @@
         "\"Death is a traditional symbol\""
       ],
       "answerIndex": 1,
-      "explanation": "\"Death is a sunset\" states the comparison outright without \"like\" or \"as.\" Add \"like\" and the same sentence becomes the review's simile example."
+      "explanation": "\"Death is a sunset\" states the comparison outright without \"like\" or \"as.\" Add \"like\" and the same sentence becomes a simile example."
     },
     {
       "id": "ex-124",
@@ -2296,7 +2296,7 @@
       "id": "ex-125",
       "type": "multiple_choice",
       "section": "figurative-symbols",
-      "prompt": "Which example does the review give for simile?",
+      "prompt": "Which is an example of a simile?",
       "choices": [
         "\"Death is a sunset\"",
         "\"Death is like a sunset\"",
@@ -2338,7 +2338,7 @@
       "id": "ex-128",
       "type": "multiple_choice",
       "section": "figurative-symbols",
-      "prompt": "Which of these does the review give as examples of symbols we see daily?",
+      "prompt": "Which of these are examples of symbols we see daily?",
       "choices": [
         "A flag, a logo, and a trademark",
         "A sonnet, a villanelle, and a psalm",
@@ -2380,7 +2380,7 @@
       "id": "ex-131",
       "type": "multiple_choice",
       "section": "figurative-symbols",
-      "prompt": "Which examples of traditional symbols does the review give?",
+      "prompt": "Which of these are examples of traditional symbols?",
       "choices": [
         "A tomb and an election",
         "A wedding ring and a locked door",
@@ -2464,7 +2464,7 @@
       "id": "ex-137",
       "type": "multiple_choice",
       "section": "sonnet-form",
-      "prompt": "How is iambic pentameter described in the review?",
+      "prompt": "How is iambic pentameter described?",
       "choices": [
         "Generally ten syllables per line in an alternating unstressed/stressed pattern, with five iambic feet per line",
         "Generally eight syllables per line with four stressed feet",
