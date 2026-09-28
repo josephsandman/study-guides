@@ -1,0 +1,531 @@
+{
+  "superTitle": "Chem 1401",
+  "title": "Polyatomic Ions",
+  "description": "Names, formulas, and charges for the 23 polyatomic ions in Table 2.5.",
+  "sections": [
+    {
+      "id": "polyatomic-ions",
+      "name": "Polyatomic ions"
+    }
+  ],
+  "questions": [
+    {
+      "id": "fc-01",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "-ate vs. -ite",
+      "answer": "The -ate ion has one more oxygen than the -ite ion, and the charge is the same. \"I ate more\" (more oxygen)."
+    },
+    {
+      "id": "fc-02",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "per- and hypo-",
+      "answer": "per-…-ate has one more O than -ate; hypo-…-ite has one fewer O than -ite. ClO^- hypochlorite, ClO_2^- chlorite, ClO_3^- chlorate, ClO_4^- perchlorate, all 1−."
+    },
+    {
+      "id": "fc-03",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "Adding hydrogen to an ion",
+      "answer": "Each H^+ added raises the charge by one: PO_4^{3-} → HPO_4^{2-} → H_2PO_4^-. \"Bi-\" is an older word for hydrogen (bicarbonate = hydrogen carbonate)."
+    },
+    {
+      "id": "fc-04",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "Nick the Camel ate a Clam for Supper in Phoenix",
+      "answer": "Consonants = number of oxygens, vowels = negative charge: NO_3^- nitrate, CO_3^{2-} carbonate, ClO_3^- chlorate, SO_4^{2-} sulfate, PO_4^{3-} phosphate."
+    },
+    {
+      "id": "fc-05",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "-ide exceptions",
+      "answer": "-ide usually means a single-atom anion (Cl^- chloride), but hydroxide (OH^-), cyanide (CN^-) and peroxide (O_2^{2-}) are polyatomic ions that also end in -ide."
+    },
+    {
+      "id": "fc-06",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "NH_4^+",
+      "answer": "Ammonium. The \"-ium\" ending matches metal cations like sodium and potassium. Ammonium acts like an \"honorary metal\" and forms salts such as NH_4Cl."
+    },
+    {
+      "id": "fc-07",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "CH_3CO_2^-",
+      "answer": "Acetate. Acetic acid is vinegar. Picture a CH_3 \"tail\" stuck to a CO_2 \"head\" that carries the charge. You may also see it written C_2H_3O_2^-."
+    },
+    {
+      "id": "fc-08",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "CN^-",
+      "answer": "Cyanide. Cyanide is one of the three \"-ide rebels\" in this table, along with hydroxide and peroxide. \"Cyan\" comes from the blue pigment (Prussian blue) it was first made from."
+    },
+    {
+      "id": "fc-09",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "ClO^-",
+      "answer": "Hypochlorite. \"Hypo\" means under, as in hypodermic (under the skin). Household bleach is sodium hypochlorite, NaClO."
+    },
+    {
+      "id": "fc-10",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "ClO_2^-",
+      "answer": "Chlorite. Count up the chlorine ladder: hypochlorite 1 O, chlorite 2 O, chlorate 3 O, perchlorate 4 O."
+    },
+    {
+      "id": "fc-11",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "ClO_3^-",
+      "answer": "Chlorate. It is the \"Clam\" in Nick the Camel ate a Clam…: 3 consonants (3 O), 1 vowel (1− charge)."
+    },
+    {
+      "id": "fc-12",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "ClO_4^-",
+      "answer": "Perchlorate. \"Per\" sounds like \"super\": the most oxygen. Perchlorate and permanganate are both per- ions with 4 oxygens and a 1− charge."
+    },
+    {
+      "id": "fc-13",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "H_2PO_4^-",
+      "answer": "Dihydrogen phosphate. Each hydrogen cancels one negative charge: 3 − 2 = 1−."
+    },
+    {
+      "id": "fc-14",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "HCO_3^-",
+      "answer": "Hydrogen carbonate (bicarbonate). Baking soda is sodium bicarbonate, NaHCO_3. In these names \"bi-\" means one hydrogen, not two."
+    },
+    {
+      "id": "fc-15",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "HSO_4^-",
+      "answer": "Hydrogen sulfate (bisulfate). Same pattern as bicarbonate: \"bi-\" or \"hydrogen\" = one H added, charge goes up by one."
+    },
+    {
+      "id": "fc-16",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "OH^-",
+      "answer": "Hydroxide. Read it as \"hydro + oxide.\" It is the ion in bases like NaOH, and another \"-ide rebel.\""
+    },
+    {
+      "id": "fc-17",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "MnO_4^-",
+      "answer": "Permanganate. It is shaped like perchlorate: XO_4^- with \"per-\" in front. Potassium permanganate, KMnO_4, is a deep purple solid."
+    },
+    {
+      "id": "fc-18",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "NO_2^-",
+      "answer": "Nitrite. \"-ite\" is always the lighter one: nitrite has fewer oxygens than nitrate. Nitrites are used to cure meats like bacon."
+    },
+    {
+      "id": "fc-19",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "NO_3^-",
+      "answer": "Nitrate. \"Nick\" in Nick the Camel…: 3 consonants (3 O), 1 vowel (1− charge)."
+    },
+    {
+      "id": "fc-20",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "CO_3^{2-}",
+      "answer": "Carbonate. \"Camel\" in Nick the Camel…: 3 consonants (3 O), 2 vowels (2− charge). Limestone and chalk are calcium carbonate, CaCO_3."
+    },
+    {
+      "id": "fc-21",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "CrO_4^{2-}",
+      "answer": "Chromate. Chromate is sulfate's twin: CrO_4^{2-} looks just like SO_4^{2-}. Swap S for Cr and you have it. Chromate compounds are often yellow."
+    },
+    {
+      "id": "fc-22",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "Cr_2O_7^{2-}",
+      "answer": "Dichromate. Two chromates (Cr_2O_8^{4-}) minus one O^{2-} gives Cr_2O_7^{2-}. Dichromate compounds are bright orange."
+    },
+    {
+      "id": "fc-23",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "O_2^{2-}",
+      "answer": "Peroxide. Hydrogen peroxide is H_2O_2: two H^+ balance the O_2^{2-}. It is the third \"-ide rebel.\""
+    },
+    {
+      "id": "fc-24",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "HPO_4^{2-}",
+      "answer": "Hydrogen phosphate. The phosphate staircase: PO_4^{3-} → HPO_4^{2-} → H_2PO_4^-. Each H added drops the charge by one step."
+    },
+    {
+      "id": "fc-25",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "SO_3^{2-}",
+      "answer": "Sulfite. Learn sulfate first (\"Supper\"), then take away one O for sulfite. Sulfites are the preservatives listed on wine labels."
+    },
+    {
+      "id": "fc-26",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "SO_4^{2-}",
+      "answer": "Sulfate. \"Supper\" in …a Clam for Supper…: 4 consonants (4 O), 2 vowels (2− charge)."
+    },
+    {
+      "id": "fc-27",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "S_2O_3^{2-}",
+      "answer": "Thiosulfate. \"Thio\" comes from the Greek word for sulfur. Think \"sulfate with a sulfur swap.\""
+    },
+    {
+      "id": "fc-28",
+      "type": "flashcard",
+      "section": "polyatomic-ions",
+      "prompt": "PO_4^{3-}",
+      "answer": "Phosphate. \"Phoenix\" in …for Supper in Phoenix: 4 consonants (4 O), 3 vowels (3− charge)."
+    },
+    {
+      "id": "pi-01",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of NH_4^+?",
+      "choices": [
+        "Ammonia",
+        "Ammonium",
+        "Amide",
+        "Nitride"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ammonia is the neutral molecule NH_3. When it picks up an H^+, it becomes the NH_4^+ ion, ammonium. It is the only common polyatomic ion with a positive charge. Memory tip: The \"-ium\" ending matches metal cations like sodium and potassium. Ammonium acts like an \"honorary metal\" and forms salts such as NH_4Cl."
+    },
+    {
+      "id": "pi-02",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for acetate?",
+      "choices": [
+        "CH_3CO_2^-",
+        "CO_3^{2-}",
+        "CH_3CO_2^{2-}",
+        "HCO_3^-"
+      ],
+      "answerIndex": 0,
+      "explanation": "Acetate is acetic acid (CH_3COOH) with its acidic H removed, leaving a 1− charge. CO_3^{2-} is carbonate and HCO_3^- is hydrogen carbonate. Memory tip: Acetic acid is vinegar. Picture a CH_3 \"tail\" stuck to a CO_2 \"head\" that carries the charge. You may also see it written C_2H_3O_2^-."
+    },
+    {
+      "id": "pi-03",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of CN^-?",
+      "choices": [
+        "Carbide",
+        "Cyanate",
+        "Cyanide",
+        "Carbonite"
+      ],
+      "answerIndex": 2,
+      "explanation": "CN^- is one carbon and one nitrogen with a 1− charge. Its name ends in -ide even though it has two atoms. Memory tip: Cyanide is one of the three \"-ide rebels\" in this table, along with hydroxide and peroxide. \"Cyan\" comes from the blue pigment (Prussian blue) it was first made from."
+    },
+    {
+      "id": "pi-04",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of ClO^-?",
+      "choices": [
+        "Chlorite",
+        "Hypochlorite",
+        "Chloride",
+        "Chlorate"
+      ],
+      "answerIndex": 1,
+      "explanation": "ClO^- has the fewest oxygens (one) in the chlorine family. The lowest one gets the \"hypo-…-ite\" name. Chloride is Cl^-, with no oxygen at all. Memory tip: \"Hypo\" means under, as in hypodermic (under the skin). Household bleach is sodium hypochlorite, NaClO."
+    },
+    {
+      "id": "pi-05",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for chlorite?",
+      "choices": [
+        "ClO^-",
+        "ClO_3^-",
+        "ClO_4^-",
+        "ClO_2^-"
+      ],
+      "answerIndex": 3,
+      "explanation": "Chlorite is the -ite form, so it has one fewer oxygen than chlorate (ClO_3^-). The charge stays 1−. Memory tip: Count up the chlorine ladder: hypochlorite 1 O, chlorite 2 O, chlorate 3 O, perchlorate 4 O."
+    },
+    {
+      "id": "pi-06",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of ClO_3^-?",
+      "choices": [
+        "Chlorate",
+        "Perchlorate",
+        "Chlorite",
+        "Hypochlorite"
+      ],
+      "answerIndex": 0,
+      "explanation": "ClO_3^- is the reference -ate ion for chlorine. The other three chlorine ions are named relative to it. Memory tip: It is the \"Clam\" in Nick the Camel ate a Clam…: 3 consonants (3 O), 1 vowel (1− charge)."
+    },
+    {
+      "id": "pi-07",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for perchlorate?",
+      "choices": [
+        "ClO_3^-",
+        "ClO_4^{2-}",
+        "ClO_4^-",
+        "Cl_2O_7^-"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"Per-\" means one more oxygen than the -ate ion. Chlorate is ClO_3^-, so perchlorate is ClO_4^-. Adding oxygen does not change the charge. Memory tip: \"Per\" sounds like \"super\": the most oxygen. Perchlorate and permanganate are both per- ions with 4 oxygens and a 1− charge."
+    },
+    {
+      "id": "pi-08",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of H_2PO_4^-?",
+      "choices": [
+        "Dihydrogen phosphate",
+        "Hydrogen phosphate",
+        "Phosphite",
+        "Dihydrogen phosphite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Start from phosphate, PO_4^{3-}. Two H^+ ions raise the charge from 3− to 1−, and \"di\" names the two hydrogens. It still has 4 oxygens, so it stays \"phosphate,\" not \"phosphite.\" Memory tip: Each hydrogen cancels one negative charge: 3 − 2 = 1−."
+    },
+    {
+      "id": "pi-09",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of HCO_3^-?",
+      "choices": [
+        "Carbonate",
+        "Hydrogen carbonite",
+        "Hydroxycarbonate",
+        "Hydrogen carbonate (bicarbonate)"
+      ],
+      "answerIndex": 3,
+      "explanation": "Carbonate is CO_3^{2-}. Adding one H^+ lowers the charge to 1− and adds \"hydrogen\" to the name. It still has 3 oxygens, so it stays \"carbonate.\" Memory tip: Baking soda is sodium bicarbonate, NaHCO_3. In these names \"bi-\" means one hydrogen, not two."
+    },
+    {
+      "id": "pi-10",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for hydrogen sulfate (bisulfate)?",
+      "choices": [
+        "HSO_3^-",
+        "H_2SO_4",
+        "HSO_4^-",
+        "HSO_4^{2-}"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sulfate is SO_4^{2-}. One H^+ brings the charge to 1−. HSO_3^- would be hydrogen sulfite, and H_2SO_4 is neutral sulfuric acid. Memory tip: Same pattern as bicarbonate: \"bi-\" or \"hydrogen\" = one H added, charge goes up by one."
+    },
+    {
+      "id": "pi-11",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of OH^-?",
+      "choices": [
+        "Hydroxide",
+        "Oxide",
+        "Hydride",
+        "Peroxide"
+      ],
+      "answerIndex": 0,
+      "explanation": "OH^- is one oxygen and one hydrogen with a 1− charge. Oxide is O^{2-} alone, and hydride is H^- alone. Memory tip: Read it as \"hydro + oxide.\" It is the ion in bases like NaOH, and another \"-ide rebel.\""
+    },
+    {
+      "id": "pi-12",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of MnO_4^-?",
+      "choices": [
+        "Manganate",
+        "Manganite",
+        "Magnesate",
+        "Permanganate"
+      ],
+      "answerIndex": 3,
+      "explanation": "MnO_4^- is the per- ion of manganese (Mn). Watch out: Mg is magnesium, a different element. Memory tip: It is shaped like perchlorate: XO_4^- with \"per-\" in front. Potassium permanganate, KMnO_4, is a deep purple solid."
+    },
+    {
+      "id": "pi-13",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of NO_2^-?",
+      "choices": [
+        "Nitrate",
+        "Nitride",
+        "Nitrite",
+        "Nitrogen dioxide"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nitrate is NO_3^-, so the ion with one fewer oxygen is nitrite. The charge stays 1−. Nitrogen dioxide (NO_2) is a neutral molecule with no charge. Memory tip: \"-ite\" is always the lighter one: nitrite has fewer oxygens than nitrate. Nitrites are used to cure meats like bacon."
+    },
+    {
+      "id": "pi-14",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for nitrate?",
+      "choices": [
+        "NO_3^-",
+        "NO_2^-",
+        "NO_3^{2-}",
+        "N_3^-"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nitrate has 3 oxygens and a 1− charge. NO_2^- is nitrite, and N_3^- is azide. Memory tip: \"Nick\" in Nick the Camel…: 3 consonants (3 O), 1 vowel (1− charge)."
+    },
+    {
+      "id": "pi-15",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of CO_3^{2-}?",
+      "choices": [
+        "Carbonite",
+        "Hydrogen carbonate",
+        "Carbonate",
+        "Carbide"
+      ],
+      "answerIndex": 2,
+      "explanation": "CO_3^{2-} is the -ate ion of carbon, with 3 oxygens and a 2− charge. Hydrogen carbonate is HCO_3^-, with a 1− charge. Memory tip: \"Camel\" in Nick the Camel…: 3 consonants (3 O), 2 vowels (2− charge). Limestone and chalk are calcium carbonate, CaCO_3."
+    },
+    {
+      "id": "pi-16",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for chromate?",
+      "choices": [
+        "Cr_2O_7^{2-}",
+        "CrO_4^-",
+        "CrO_3^{2-}",
+        "CrO_4^{2-}"
+      ],
+      "answerIndex": 3,
+      "explanation": "Chromate has one chromium, 4 oxygens and a 2− charge. Cr_2O_7^{2-} is dichromate. Memory tip: Chromate is sulfate's twin: CrO_4^{2-} looks just like SO_4^{2-}. Swap S for Cr and you have it. Chromate compounds are often yellow."
+    },
+    {
+      "id": "pi-17",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of Cr_2O_7^{2-}?",
+      "choices": [
+        "Chromate",
+        "Dichromate",
+        "Chromite",
+        "Dichromite"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Di\" means two chromium atoms. The charge is still 2−, the same as chromate. Memory tip: Two chromates (Cr_2O_8^{4-}) minus one O^{2-} gives Cr_2O_7^{2-}. Dichromate compounds are bright orange."
+    },
+    {
+      "id": "pi-18",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of O_2^{2-}?",
+      "choices": [
+        "Oxide",
+        "Superoxide",
+        "Peroxide",
+        "Dioxide"
+      ],
+      "answerIndex": 2,
+      "explanation": "O_2^{2-} is two oxygen atoms bonded together with a 2− charge overall. Oxide is a single O^{2-}. Superoxide is O_2^-, with only a 1− charge. Memory tip: Hydrogen peroxide is H_2O_2: two H^+ balance the O_2^{2-}. It is the third \"-ide rebel.\""
+    },
+    {
+      "id": "pi-19",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of HPO_4^{2-}?",
+      "choices": [
+        "Hydrogen phosphate",
+        "Dihydrogen phosphate",
+        "Phosphate",
+        "Hydrogen phosphite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Phosphate (PO_4^{3-}) plus one H^+ gives HPO_4^{2-}. One hydrogen means no \"di.\" It still has 4 oxygens, so it stays \"phosphate.\" Memory tip: The phosphate staircase: PO_4^{3-} → HPO_4^{2-} → H_2PO_4^-. Each H added drops the charge by one step."
+    },
+    {
+      "id": "pi-20",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the formula for sulfite?",
+      "choices": [
+        "SO_4^{2-}",
+        "S_2O_3^{2-}",
+        "SO_3^-",
+        "SO_3^{2-}"
+      ],
+      "answerIndex": 3,
+      "explanation": "Sulfite is the -ite form, so it has one fewer oxygen than sulfate (SO_4^{2-}). The 2− charge does not change. Memory tip: Learn sulfate first (\"Supper\"), then take away one O for sulfite. Sulfites are the preservatives listed on wine labels."
+    },
+    {
+      "id": "pi-21",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of SO_4^{2-}?",
+      "choices": [
+        "Sulfite",
+        "Sulfide",
+        "Thiosulfate",
+        "Sulfate"
+      ],
+      "answerIndex": 3,
+      "explanation": "SO_4^{2-} is the -ate ion of sulfur, with 4 oxygens and a 2− charge. Sulfide is S^{2-}, with no oxygen. Memory tip: \"Supper\" in …a Clam for Supper…: 4 consonants (4 O), 2 vowels (2− charge)."
+    },
+    {
+      "id": "pi-22",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of S_2O_3^{2-}?",
+      "choices": [
+        "Disulfite",
+        "Thiosulfate",
+        "Sulfate",
+        "Persulfate"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"Thio\" means one oxygen has been replaced by a sulfur. Take sulfate (SO_4^{2-}), swap one O for S, and you get S_2O_3^{2-}. The charge stays 2−. Memory tip: \"Thio\" comes from the Greek word for sulfur. Think \"sulfate with a sulfur swap.\""
+    },
+    {
+      "id": "pi-23",
+      "type": "multiple_choice",
+      "section": "polyatomic-ions",
+      "prompt": "What is the name of PO_4^{3-}?",
+      "choices": [
+        "Phosphite",
+        "Phosphate",
+        "Phosphide",
+        "Hydrogen phosphate"
+      ],
+      "answerIndex": 1,
+      "explanation": "PO_4^{3-} is the -ate ion of phosphorus, with 4 oxygens and a 3− charge. It is the only 3− ion in the table. Phosphide is P^{3-}, with no oxygen. Memory tip: \"Phoenix\" in …for Supper in Phoenix: 4 consonants (4 O), 3 vowels (3− charge)."
+    }
+  ]
+}
