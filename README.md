@@ -12,6 +12,7 @@ Live site: <https://josephsandman.github.io/study-guides/>
 | Chem 1401: Polyatomic Ions | `chem1401/polyatomic-ions/` | `/study-guides/chem1401/polyatomic-ions/` |
 | Chem 1401 — Exam 1: Atoms, Molecules, and Ions | `chem1401/exam1/` | `/study-guides/chem1401/exam1/` |
 | Chem 1401 — Exam 2: Stoichiometry, Aqueous Reactions, and Redox | `chem1401/exam2/` | `/study-guides/chem1401/exam2/` |
+| Chem 1401 — Exam 2: Official Review Questions | `chem1401/exam2-official/` | `/study-guides/chem1401/exam2-official/` |
 | Engl 1302 — Exam 1: Poetry | `engl1302/exam1/` | `/study-guides/engl1302/exam1/` |
 
 ## Layout

@@ -72,750 +72,603 @@
       "id": "fc-006",
       "type": "flashcard",
       "section": "equations",
-      "prompt": "Balancing a combustion equation",
-      "answer": "Balance C with CO_2, then H with H_2O, then count the O on the right and supply what is missing with O_2: C_2H_6O + 3O_2 → 2CO_2 + 3H_2O."
-    },
-    {
-      "id": "fc-007",
-      "type": "flashcard",
-      "section": "equations",
       "prompt": "Molecular mass",
       "answer": "The sum of the atomic masses of all atoms in a molecule."
     },
     {
-      "id": "fc-008",
+      "id": "fc-007",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Formula mass",
       "answer": "The sum of the atomic masses in one formula unit of any compound, molecular or ionic. C_2H_4 = 2(12.0) + 4(1.0) = 28.0 amu."
     },
     {
-      "id": "fc-009",
+      "id": "fc-008",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Molar mass",
       "answer": "The mass in grams of one mole (6.022 × 10^{23} units). HCl = 1.0 + 35.5 = 36.5 g/mol. Diatomic F_2 counts both atoms: 2 × 19.0 = 38.0 g/mol."
     },
     {
-      "id": "fc-010",
+      "id": "fc-009",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Grams, moles, and molecules",
       "answer": "Moles = grams ÷ molar mass (0.500 g aspirin ÷ 180.0 g/mol = 2.78 × 10^{-3} mol). Moles = molecules ÷ 6.022 × 10^{23}."
     },
     {
-      "id": "fc-011",
+      "id": "fc-010",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Stoichiometry",
       "answer": "The chemical arithmetic needed for mole–mass conversions."
     },
     {
-      "id": "fc-012",
+      "id": "fc-011",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Mole ratio",
       "answer": "Comes from the coefficients of the balanced equation, not from the subscripts or the molar masses."
     },
     {
-      "id": "fc-013",
+      "id": "fc-012",
       "type": "flashcard",
       "section": "equations",
       "prompt": "Grams of A to grams of B",
       "answer": "Grams A → moles A (molar mass of A) → moles B (mole ratio) → grams B (molar mass of B). \"Grams-to-moles-to-moles-to-grams.\""
     },
     {
-      "id": "fc-014",
+      "id": "fc-013",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Theoretical yield",
       "answer": "The amount of product predicted by calculations."
     },
     {
-      "id": "fc-015",
+      "id": "fc-014",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Actual yield",
       "answer": "The amount of product actually formed."
     },
     {
-      "id": "fc-016",
+      "id": "fc-015",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Percent yield",
       "answer": "(actual yield ÷ theoretical yield) × 100%. With no side reactions and complete conversion, the maximum is 100%."
     },
     {
-      "id": "fc-017",
-      "type": "flashcard",
-      "section": "yields-formulas",
-      "prompt": "Reactant needed below 100% yield",
-      "answer": "Find the mass needed at 100% yield, then divide by the percent yield: 81.7 g KClO_3 ÷ 0.650 = 126 g."
-    },
-    {
-      "id": "fc-018",
+      "id": "fc-016",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Limiting reactant",
       "answer": "The reactant present in limiting amount. It runs out first and determines the extent of the reaction."
     },
     {
-      "id": "fc-019",
+      "id": "fc-017",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Excess reactant",
       "answer": "Any other reactant still present after the limiting reactant is determined. Cheap, abundant water is used in excess so all of the expensive ethylene oxide is consumed."
     },
     {
-      "id": "fc-020",
+      "id": "fc-018",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Finding the limiting reactant",
       "answer": "Convert each reactant to moles and divide by its coefficient. The smallest value runs out first, and the product amount is based on it."
     },
     {
-      "id": "fc-021",
+      "id": "fc-019",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Leftover excess reactant",
       "answer": "Mass of excess reactant used = limiting moles × mole ratio × molar mass. Leftover = starting mass − mass used (80.0 g − 39.1 g = 40.9 g H_2O)."
     },
     {
-      "id": "fc-022",
+      "id": "fc-020",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Percent composition",
       "answer": "Identifies the elements present and gives the mass percent of each. CH_3F: 12.01 ÷ 34.03 = 35.3% carbon."
     },
     {
-      "id": "fc-023",
+      "id": "fc-021",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Empirical formula",
       "answer": "The smallest whole-number ratios of the atoms in a compound."
     },
     {
-      "id": "fc-024",
+      "id": "fc-022",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Molecular formula",
       "answer": "The actual numbers of atoms in a molecule. It is the empirical formula or a whole-number multiple of it."
     },
     {
-      "id": "fc-025",
+      "id": "fc-023",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Empirical to molecular formula",
       "answer": "Multiple = molecular mass ÷ empirical formula mass. 114.2 ÷ 57.0 = 2, so C_4H_9 becomes C_8H_{18}."
     },
     {
-      "id": "fc-026",
+      "id": "fc-024",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Empirical formula from mass percents",
       "answer": "Assume a 100.0 g sample so each percent becomes grams, convert grams to moles, divide by the smallest mole value, and multiply to clear fractions (C_1H_{2.27} × 4 ≈ C_4H_9)."
     },
     {
-      "id": "fc-027",
+      "id": "fc-025",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Combustion analysis",
       "answer": "The compound is burned with oxygen; carbon ends up in CO_2 and hydrogen in H_2O, which are separated and measured. Oxygen in the compound = compound mass − mass of C − mass of H."
     },
     {
-      "id": "fc-028",
+      "id": "fc-026",
       "type": "flashcard",
       "section": "yields-formulas",
       "prompt": "Mass spectrometer",
       "answer": "Molecules are ionized by a high-energy electron beam, then a magnet deflects the ions by mass-to-charge ratio through a slit into a detector. Used to find molecular masses: naphthalene's tallest peak is at 128."
     },
     {
-      "id": "fc-029",
+      "id": "fc-027",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Solution",
       "answer": "A homogeneous mixture."
     },
     {
-      "id": "fc-030",
+      "id": "fc-028",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Solute and solvent",
       "answer": "Solute: the dissolved substance. Solvent: the major component."
     },
     {
-      "id": "fc-031",
+      "id": "fc-029",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Molarity (M)",
       "answer": "Moles of solute per liter of solution. The volume of the whole solution matters, not just the volume of water."
     },
     {
-      "id": "fc-032",
+      "id": "fc-030",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Preparing a solution of known molarity",
       "answer": "Put the solute in a volumetric flask and add solvent up to the calibration mark, then mix until uniform. 1.00 mol NaCl in enough water to make 1.00 L of solution is 1.00 M."
     },
     {
-      "id": "fc-033",
+      "id": "fc-031",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Molarity calculations",
       "answer": "Moles = M × L; grams = moles × molar mass; M = moles ÷ L. 10.0 g FeCl_3 = 0.0617 mol ÷ 0.275 L = 0.224 M."
     },
     {
-      "id": "fc-034",
+      "id": "fc-032",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Dilution",
       "answer": "Adding solvent changes only the volume; the moles of solute stay constant, so M_i × V_i = M_f × V_f. A diluted solution is always less concentrated."
     },
     {
-      "id": "fc-035",
+      "id": "fc-033",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Diluting acid safely",
       "answer": "Add acid to water."
     },
     {
-      "id": "fc-036",
+      "id": "fc-034",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Electrolytes",
       "answer": "Substances that dissolve in water to produce conducting solutions of ions. Nonelectrolytes produce no ions in aqueous solution."
     },
     {
-      "id": "fc-037",
+      "id": "fc-035",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Strong vs. weak electrolytes",
       "answer": "Strong electrolytes dissociate to a large extent (0.10 M KCl, about 98%); weak electrolytes to a small extent (0.10 M acetic acid, a little more than 1%)."
     },
     {
-      "id": "fc-038",
+      "id": "fc-036",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Strong electrolytes",
       "answer": "Strong acids, strong bases, and soluble ionic compounds such as KBr, NaCl, NaOH and KOH."
     },
     {
-      "id": "fc-039",
+      "id": "fc-037",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Weak electrolytes",
       "answer": "Weak acids (CH_3CO_2H, HCO_2H, HF, HCN) and weak bases (NH_3, CH_3NH_2)."
     },
     {
-      "id": "fc-040",
+      "id": "fc-038",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "Nonelectrolytes",
       "answer": "Compounds that dissolve as whole molecules: most organic compounds, such as CH_3OH, C_2H_5OH, ethylene glycol and sucrose (C_{12}H_{22}O_{11}). Water itself is treated as a nonelectrolyte."
     },
     {
-      "id": "fc-041",
+      "id": "fc-039",
       "type": "flashcard",
       "section": "solutions",
       "prompt": "The six strong acids",
       "answer": "HCl, HBr, HI, HClO_4, HNO_3 and H_2SO_4. Any acid that is not a strong acid is a weak acid."
     },
     {
-      "id": "fc-042",
-      "type": "flashcard",
-      "section": "solutions",
-      "prompt": "Total ion concentration",
-      "answer": "Multiply the compound's molarity by the ions per formula unit. K_3PO_4 gives 4 ions (3 K^+ and 1 PO_4^{3-}): 4 × 0.0404 M = 0.162 M."
-    },
-    {
-      "id": "fc-043",
+      "id": "fc-040",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Precipitation reaction",
       "answer": "Soluble reactants yield an insoluble solid product, marked (s), that falls out of solution: Pb(NO_3)_2(aq) + 2KI(aq) → 2KNO_3(aq) + PbI_2(s)."
     },
     {
-      "id": "fc-044",
+      "id": "fc-041",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Acid–base neutralization",
       "answer": "An acid reacts with a base to yield water plus an ionic compound called a salt: HA(aq) + MOH(aq) → MA(aq) + H_2O(l)."
     },
     {
-      "id": "fc-045",
+      "id": "fc-042",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Double replacement",
       "answer": "AB + CD → CB + AD: the ions swap partners. Precipitation and acid–base neutralization reactions follow this pattern."
     },
     {
-      "id": "fc-046",
+      "id": "fc-043",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Writing precipitation products",
       "answer": "Swap the cations and write each formula with proper ionic charges. AgNO_3 + Na_2CO_3 gives Ag_2CO_3 + NaNO_3; Na_3PO_4 + AlF_3 gives AlPO_4 + NaF."
     },
     {
-      "id": "fc-047",
+      "id": "fc-044",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Molecular equation",
       "answer": "Every substance is written with its complete formula, as if it were a molecule."
     },
     {
-      "id": "fc-048",
+      "id": "fc-045",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Ionic equation",
       "answer": "All strong electrolytes are written as ions. Solids, weak electrolytes such as HF, and nonelectrolytes stay intact."
     },
     {
-      "id": "fc-049",
+      "id": "fc-046",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Spectator ions",
       "answer": "Ions that undergo no change and appear on both sides of the arrow. They are dropped from the net ionic equation."
     },
     {
-      "id": "fc-050",
+      "id": "fc-047",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Net ionic equation",
       "answer": "Shows only the ions undergoing change: Pb^{2+}(aq) + 2I^-(aq) → PbI_2(s). A reactant given as a solid stays intact: Na_2CO_3(s) + 2H^+(aq) → 2Na^+(aq) + H_2O(l) + CO_2(g)."
     },
     {
-      "id": "fc-051",
+      "id": "fc-048",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Always soluble",
       "answer": "Compounds of group 1A cations (Li^+, Na^+, K^+, Rb^+, Cs^+) and ammonium (NH_4^+), with no common exceptions. All nitrates are soluble too."
     },
     {
-      "id": "fc-052",
+      "id": "fc-049",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Halide solubility",
       "answer": "Compounds of Cl^-, Br^- and I^- are usually soluble, except with Ag^+, Hg_2^{2+} and Pb^{2+}."
     },
     {
-      "id": "fc-053",
+      "id": "fc-050",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Sulfate solubility",
       "answer": "Sulfates are usually soluble, except with Sr^{2+}, Ba^{2+}, Hg_2^{2+} and Pb^{2+}."
     },
     {
-      "id": "fc-054",
+      "id": "fc-051",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Carbonate and phosphate solubility",
       "answer": "Generally insoluble, except with group 1A cations and NH_4^+. Na_2CO_3 dissolves; CaCO_3, Ag_2CO_3 and Pb_3(PO_4)_2 do not."
     },
     {
-      "id": "fc-055",
+      "id": "fc-052",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Hydroxide solubility",
       "answer": "Generally insoluble, except with group 1A cations, NH_4^+, Ca^{2+}, Sr^{2+} and Ba^{2+}."
     },
     {
-      "id": "fc-056",
-      "type": "flashcard",
-      "section": "reactions",
-      "prompt": "Sulfide solubility",
-      "answer": "CdS and CuS are insoluble. Na_2S and (NH_4)_2S dissolve because of their group 1A or ammonium cation."
-    },
-    {
-      "id": "fc-057",
-      "type": "flashcard",
-      "section": "reactions",
-      "prompt": "Separating ions by precipitation",
-      "answer": "Add a reagent that precipitates only one ion: SO_4^{2-} precipitates Ba^{2+} but not Hg^{2+}; Ag^+ precipitates Br^- as AgBr while NO_3^- stays dissolved. Ag^+ and CrO_4^{2-} give red Ag_2CrO_4."
-    },
-    {
-      "id": "fc-058",
-      "type": "flashcard",
-      "section": "reactions",
-      "prompt": "Ionic form and solubility",
-      "answer": "The more ionic the form, the better it dissolves in water. Phthalic acid with both –CO_2H groups converted to –CO_2^- salts (NaO_2CC_6H_4CO_2K) is the most soluble."
-    },
-    {
-      "id": "fc-059",
+      "id": "fc-053",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Arrhenius acid",
       "answer": "A substance that dissociates in water to produce hydrogen ions, H^+. In water the H^+ actually exists as hydronium, H_3O^+: HCl + H_2O → H_3O^+ + Cl^-."
     },
     {
-      "id": "fc-060",
+      "id": "fc-054",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Arrhenius base",
       "answer": "A substance that dissociates in water to produce hydroxide ions, OH^-: NaOH(aq) → Na^+(aq) + OH^-(aq). Amines such as CH_3CH_2NH_2 accept H^+ and act as bases."
     },
     {
-      "id": "fc-061",
+      "id": "fc-055",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Strong bases",
       "answer": "KOH, NaOH, Ba(OH)_2 and Ca(OH)_2."
     },
     {
-      "id": "fc-062",
+      "id": "fc-056",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Ammonia as a base",
       "answer": "NH_3 reacts to a small extent with water to yield NH_4^+ and OH^-, so it is weakly basic. It is not proper to call aqueous ammonia \"ammonium hydroxide.\""
     },
     {
-      "id": "fc-063",
+      "id": "fc-057",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Naming binary acids",
       "answer": "hydro- + root + -ic acid: HCl hydrochloric, HBr hydrobromic, HF hydrofluoric."
     },
     {
-      "id": "fc-064",
+      "id": "fc-058",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Naming oxoacids",
       "answer": "An -ic acid gives an -ate anion (H_2SO_4 sulfuric → SO_4^{2-} sulfate); an -ous acid gives an -ite anion (HClO_2 chlorous → chlorite). Oxoacids never begin with hydro-: HNO_3 nitric, HNO_2 nitrous, HClO_3 chloric, HClO_4 perchloric."
     },
     {
-      "id": "fc-065",
+      "id": "fc-059",
       "type": "flashcard",
       "section": "reactions",
       "prompt": "Neutralization net ionic equations",
       "answer": "Strong acid + strong base: the salt ions are spectators, leaving H^+(aq) + OH^-(aq) → H_2O(l). A weak acid stays intact: HF(aq) + OH^-(aq) → H_2O(l) + F^-(aq)."
     },
     {
-      "id": "fc-066",
+      "id": "fc-060",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Solution stoichiometry",
       "answer": "Moles of the known = M × L, convert with the mole ratio from the balanced equation, then volume = moles ÷ M (or mass = moles × molar mass)."
     },
     {
-      "id": "fc-067",
+      "id": "fc-061",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Diprotic acid neutralization",
       "answer": "H_2SO_4 supplies two H^+, so it reacts 1 : 2 with NaOH or KOH: H_2SO_4 + 2NaOH → Na_2SO_4 + 2H_2O."
     },
     {
-      "id": "fc-068",
+      "id": "fc-062",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Titration",
       "answer": "Determining a solution's concentration by reacting a measured volume of it with a standard solution of known concentration."
     },
     {
-      "id": "fc-069",
+      "id": "fc-063",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Acid–base titration endpoint",
       "answer": "Base is added from a buret until the indicator changes color. Phenolphthalein turns pink in slightly basic solution."
     },
     {
-      "id": "fc-070",
+      "id": "fc-064",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Permanganate titration endpoint",
       "answer": "MnO_4^- is dark purple but forms nearly colorless Mn^{2+} while oxalic acid remains. The endpoint is a faint purple color from a slight excess of permanganate."
     },
     {
-      "id": "fc-071",
+      "id": "fc-065",
       "type": "flashcard",
       "section": "solution-stoich",
       "prompt": "Oxalic acid–permanganate ratio",
       "answer": "5H_2C_2O_4 + 2MnO_4^- + 6H^+ → 10CO_2 + 2Mn^{2+} + 8H_2O, so MnO_4^- : H_2C_2O_4 = 2 : 5."
     },
     {
-      "id": "fc-072",
+      "id": "fc-066",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation",
       "answer": "The loss of one or more electrons by a substance, whether element, compound or ion. The oxidation number increases."
     },
     {
-      "id": "fc-073",
+      "id": "fc-067",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Reduction",
       "answer": "The gain of one or more electrons by a substance. The oxidation number decreases."
     },
     {
-      "id": "fc-074",
+      "id": "fc-068",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation–reduction (redox) reaction",
       "answer": "Any process in which electrons are transferred from one substance to another, such as Mg(s) + 2HCl(aq) → MgCl_2(aq) + H_2(g). Combustion and single replacement reactions are redox."
     },
     {
-      "id": "fc-075",
+      "id": "fc-069",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation number",
       "answer": "Shows whether an atom is neutral, electron-rich, or electron-poor."
     },
     {
-      "id": "fc-076",
+      "id": "fc-070",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation numbers of elements and monatomic ions",
       "answer": "An atom in its elemental state (Na, H_2, Br_2, S, Ne) is 0. A monatomic ion equals its charge: Al^{3+} is +3."
     },
     {
-      "id": "fc-077",
+      "id": "fc-071",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation number of hydrogen",
       "answer": "+1 when bonded to a nonmetal; −1 when bonded to a metal, as in NaH and CaH_2."
     },
     {
-      "id": "fc-078",
+      "id": "fc-072",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation number of oxygen",
       "answer": "Usually −2; −1 in peroxides (O_2^{2-}) such as H_2O_2 and Na_2O_2."
     },
     {
-      "id": "fc-079",
+      "id": "fc-073",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation number of halogens",
       "answer": "Usually −1, except when bonded to oxygen."
     },
     {
-      "id": "fc-080",
+      "id": "fc-074",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Sum of oxidation numbers",
       "answer": "0 for a neutral compound; the net charge for a polyatomic ion. H_2SO_4: 2(+1) + S + 4(−2) = 0, so S = +6. Cr_2O_7^{2-}: 2Cr + 7(−2) = −2, so Cr = +6."
     },
     {
-      "id": "fc-081",
+      "id": "fc-075",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidation number change",
       "answer": "Final − initial. Mn in MnO_4^- (+7) → Mn^{2+} (+2) is a change of −5, a gain of 5 electrons."
     },
     {
-      "id": "fc-082",
+      "id": "fc-076",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Oxidizing agent",
       "answer": "Causes oxidation, gains electrons, undergoes reduction; its oxidation number decreases. In Zn + Cu^{2+} → Cu + Zn^{2+}, Cu^{2+} is the oxidizing agent."
     },
     {
-      "id": "fc-083",
+      "id": "fc-077",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Reducing agent",
       "answer": "Causes reduction, loses electrons, undergoes oxidation; its oxidation number increases. In Zn + Cu^{2+} → Cu + Zn^{2+}, Zn is the reducing agent."
     },
     {
-      "id": "fc-084",
+      "id": "fc-078",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Rusting vs. manufacture of iron",
       "answer": "Rusting, 4Fe + 3O_2 → 2Fe_2O_3, oxidizes Fe (0 → +3), with O_2 as the oxidizing agent. Manufacture, 2Fe_2O_3 + 3C → 4Fe + 3CO_2, reduces Fe_2O_3 (Fe +3 → 0), with C (0 → +4) as the reducing agent."
     },
     {
-      "id": "fc-085",
+      "id": "fc-079",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Activity series",
       "answer": "Elements higher in the series are more likely to be oxidized, and any element higher in the series will reduce the ion of any element lower. Cu + 2Ag^+ → Cu^{2+} + 2Ag occurs; Ag cannot reduce Cu^{2+}."
     },
     {
-      "id": "fc-086",
+      "id": "fc-080",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Metals that don't react with acid",
       "answer": "Cu, Ag, Hg, Pt and Au sit below H_2 in the activity series, so they do not release H_2 from aqueous H^+."
     },
     {
-      "id": "fc-087",
+      "id": "fc-081",
       "type": "flashcard",
       "section": "redox",
       "prompt": "Metals that react with water",
       "answer": "Li, K, Ba, Ca and Na are at the top of the activity series (strongly reducing) and react rapidly with liquid water to release H_2."
     },
     {
-      "id": "fc-088",
+      "id": "fc-082",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Half-reaction method: steps 1–3",
       "answer": "1. Write the unbalanced net ionic equation. 2. Decide which atoms are oxidized and which are reduced, and write the two unbalanced half-reactions. 3. Balance all atoms except O and H."
     },
     {
-      "id": "fc-089",
+      "id": "fc-083",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Half-reaction method: balancing O, H and charge",
       "answer": "In acidic solution, add H_2O to the side with less O, then H^+ to the side with less H. Balance charge by adding electrons to the side with greater positive charge."
     },
     {
-      "id": "fc-090",
+      "id": "fc-084",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Half-reaction method: final steps",
       "answer": "Multiply the half-reactions so the electron counts are the same, add them, cancel electrons and species on both sides, then check that atoms and charge are balanced."
     },
     {
-      "id": "fc-091",
-      "type": "flashcard",
-      "section": "half-reactions",
-      "prompt": "Balancing in basic solution",
-      "answer": "O and H are balanced with H_2O and OH^- instead of H^+: ClO_3^- + H_2O + e^- → ClO_2 + 2OH^-."
-    },
-    {
-      "id": "fc-092",
+      "id": "fc-085",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Oxidation vs. reduction half-reactions",
       "answer": "Oxidation: electrons on the product side (Zn → Zn^{2+} + 2e^-). Reduction: electrons on the reactant side (Cu^{2+} + 2e^- → Cu)."
     },
     {
-      "id": "fc-093",
+      "id": "fc-086",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Dichromate half-reaction",
       "answer": "14H^+ + Cr_2O_7^{2-} + 6e^- → 2Cr^{3+} + 7H_2O. 7 H_2O balance the 7 O, 14 H^+ balance their H, and 6e^- bring the left side's +12 down to the right side's +6. It is a reduction."
     },
     {
-      "id": "fc-094",
+      "id": "fc-087",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Dichromate and chloride, overall",
       "answer": "Multiply 2Cl^- → Cl_2 + 2e^- by 3 to match 6e^-: 14H^+ + Cr_2O_7^{2-} + 6Cl^- → 2Cr^{3+} + 7H_2O + 3Cl_2."
     },
     {
-      "id": "fc-095",
+      "id": "fc-088",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Electrochemistry",
       "answer": "The area of chemistry concerned with the interconversion of chemical and electrical energy."
     },
     {
-      "id": "fc-096",
+      "id": "fc-089",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Galvanic (voltaic) cell",
       "answer": "A spontaneous chemical reaction that generates an electric current."
     },
     {
-      "id": "fc-097",
+      "id": "fc-090",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Electrolytic cell",
       "answer": "An electric current drives a nonspontaneous reaction."
     },
     {
-      "id": "fc-098",
+      "id": "fc-091",
       "type": "flashcard",
       "section": "half-reactions",
       "prompt": "Zinc in copper sulfate",
       "answer": "Zn atoms transfer 2 electrons to Cu^{2+} ions. A dark deposit of copper metal forms on the zinc, and the blue color of Cu^{2+} fades as Zn^{2+} replaces it."
-    },
-    {
-      "id": "pt-47",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "What is the stoichiometric coefficient for oxygen when C_2H_6O(l) + O_2(g) → CO_2(g) + H_2O(l) is balanced using the lowest whole-number coefficients?",
-      "choices": [
-        "9",
-        "7",
-        "5",
-        "3"
-      ],
-      "answerIndex": 3,
-      "explanation": "Balanced: C_2H_6O + 3 O_2 → 2 CO_2 + 3 H_2O. Balancing C gives 2 CO_2 and H gives 3 H_2O, for 7 O on the right. Ethanol supplies 1 O, so the other 6 O come from 3 O_2."
-    },
-    {
-      "id": "pt-48",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "What is the molar mass of fluorine gas?",
-      "choices": [
-        "19.0 g/mol",
-        "38.0 g/mol",
-        "6.02 × 10^{23} g/mol",
-        "1.20 × 10^{23} g/mol"
-      ],
-      "answerIndex": 1,
-      "explanation": "Fluorine gas is diatomic, F_2, so its molar mass is 2 × 19.0 = 38.0 g/mol. 19.0 g/mol is a single F atom."
-    },
-    {
-      "id": "pt-49",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "How many moles are there in 3.00 g of ethanol, CH_3CH_2OH?",
-      "choices": [
-        "0.00725 mol",
-        "0.0652 mol",
-        "15.3 mol",
-        "138 mol"
-      ],
-      "answerIndex": 1,
-      "explanation": "CH_3CH_2OH = 46.07 g/mol, so 3.00 g ÷ 46.07 g/mol = 0.0651 ≈ 0.0652 mol."
-    },
-    {
-      "id": "pt-50",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "What is the mass of 8.50 × 10^{22} molecules of NH_3?",
-      "choices": [
-        "0.00829 g",
-        "0.417 g",
-        "2.40 g",
-        "121 g"
-      ],
-      "answerIndex": 2,
-      "explanation": "8.50 × 10^{22} molecules ÷ 6.022 × 10^{23} per mol = 0.141 mol. Mass = 0.141 mol × 17.03 g/mol = 2.40 g."
-    },
-    {
-      "id": "pt-51",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "How many moles of BCl_3 are needed to produce 10.0 g of HCl(aq) in BCl_3(g) + 3 H_2O(l) → 3 HCl(aq) + B(OH)_3(aq)?",
-      "choices": [
-        "0.0914 mol",
-        "0.274 mol",
-        "0.823 mol",
-        "10.9 mol"
-      ],
-      "answerIndex": 0,
-      "explanation": "HCl = 36.46 g/mol, so 10.0 g = 0.274 mol HCl. The ratio is 1 BCl_3 : 3 HCl, so BCl_3 = 0.274 ÷ 3 = 0.0914 mol. 0.274 mol is the HCl, not the BCl_3."
-    },
-    {
-      "id": "pt-52",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "How many grams of calcium chloride are needed to produce 1.50 g of potassium chloride? CaCl_2(aq) + K_2CO_3(aq) → 2 KCl(aq) + CaCO_3(aq)",
-      "choices": [
-        "0.896 g",
-        "1.12 g",
-        "2.23 g",
-        "4.47 g"
-      ],
-      "answerIndex": 1,
-      "explanation": "KCl = 74.55 g/mol, so 1.50 g = 0.02012 mol. The ratio is 1 CaCl_2 : 2 KCl, so CaCl_2 = 0.01006 mol × 110.98 g/mol = 1.12 g."
-    },
-    {
-      "id": "pt-53",
-      "type": "multiple_choice",
-      "section": "equations",
-      "prompt": "Balance Al(s) + I_2(s) → Al_2I_6(s), and determine the number of moles of iodine that react with 30.0 g of aluminum.",
-      "choices": [
-        "0.741 mol",
-        "1.67 mol",
-        "2.22 mol",
-        "3.33 mol"
-      ],
-      "answerIndex": 1,
-      "explanation": "Balanced: 2 Al + 3 I_2 → Al_2I_6. Al = 30.0 g ÷ 26.98 g/mol = 1.112 mol, and I_2 = 1.112 × 3/2 = 1.67 mol."
     },
     {
       "id": "sg-001",
@@ -1070,144 +923,18 @@
       "explanation": "25.0 g ÷ 70.9 = 0.353 mol Cl_2 × 2 = 0.705 mol NaOH × 40.0 = 28.2 g."
     },
     {
-      "id": "pt-42",
+      "id": "sg-019",
       "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "Which one of the following contains 35% carbon by mass?",
+      "section": "equations",
+      "prompt": "Aspirin is C_9H_8O_4 (180.0 g/mol). How many moles are in a 500 mg tablet?",
       "choices": [
-        "C_2H_2",
-        "CH_4",
-        "CH_3F",
-        "CO_2"
+        "2.78 mol",
+        "2.78 × 10^{-3} mol",
+        "5.56 × 10^{-3} mol",
+        "3.60 × 10^{-1} mol"
       ],
-      "answerIndex": 2,
-      "explanation": "CH_3F = 12.01 + 3(1.008) + 19.00 = 34.03 g/mol, and 12.01 ÷ 34.03 = 35.3% carbon. The others are far off: C_2H_2 is 92%, CH_4 is 75% and CO_2 is 27% carbon."
-    },
-    {
-      "id": "pt-43",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "What is the empirical formula for ethyl fluoride if the compound contains 49.97% carbon, 10.51% hydrogen, and 39.52% fluorine by mass?",
-      "choices": [
-        "C_2H_5F",
-        "C_4H_{10}F_2",
-        "C_4H_{10}F_4",
-        "C_{25}F_2"
-      ],
-      "answerIndex": 0,
-      "explanation": "In 100 g: C = 49.97 ÷ 12.01 = 4.16 mol, H = 10.51 ÷ 1.008 = 10.43 mol, F = 39.52 ÷ 19.00 = 2.08 mol. Dividing each by 2.08 gives 2 : 5 : 1, so the empirical formula is C_2H_5F."
-    },
-    {
-      "id": "pt-46",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "A compound responsible for the odor of garlic has a molecular weight of 146 g/mol. A 0.650 g sample of the compound contains 0.321 g of carbon, 0.044 g of hydrogen, and 0.285 g of sulfur. What is the molecular formula of the compound?",
-      "choices": [
-        "CH_5S",
-        "C_3H_5S",
-        "C_3H_{15}S_3",
-        "C_6H_{10}S_2"
-      ],
-      "answerIndex": 3,
-      "explanation": "C = 0.321 ÷ 12.01 = 0.0267 mol, H = 0.044 ÷ 1.008 = 0.0437 mol, S = 0.285 ÷ 32.07 = 0.00889 mol. The ratio is about 3 : 5 : 1, so the empirical formula is C_3H_5S (73.1 g/mol). Since 146 ÷ 73.1 = 2, the molecular formula is C_6H_{10}S_2."
-    },
-    {
-      "id": "pt-54",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "If the percent yield for 2 KClO_3(s) → 2 KCl(s) + 3 O_2(g) is 65.0%, how many grams of KClO_3 are needed to produce 32.0 g of O_2?",
-      "choices": [
-        "53.1 g",
-        "81.7 g",
-        "126 g",
-        "283 g"
-      ],
-      "answerIndex": 2,
-      "explanation": "O_2 = 32.0 g ÷ 32.00 g/mol = 1.000 mol. KClO_3 = 2/3 × 1.000 = 0.667 mol × 122.55 g/mol = 81.7 g at 100% yield. At 65.0% yield more is needed: 81.7 ÷ 0.650 = 126 g."
-    },
-    {
-      "id": "pt-55",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "7.0 g of nitrogen is reacted with 5.0 g of hydrogen to produce ammonia according to N_2(g) + 3 H_2(g) → 2 NH_3(g). Which one of the following statements is false?",
-      "choices": [
-        "3.5 g of hydrogen are left over",
-        "Hydrogen is the excess reactant",
-        "Nitrogen is the limiting reactant",
-        "The theoretical yield of ammonia is 15 g"
-      ],
-      "answerIndex": 3,
-      "explanation": "N_2 = 7.0 ÷ 28.02 = 0.250 mol and H_2 = 5.0 ÷ 2.016 = 2.48 mol. N_2 needs only 0.75 mol (1.5 g) of H_2, so nitrogen is limiting, hydrogen is in excess, and 3.5 g of H_2 is left over; all three of those statements are true. NH_3 = 2 × 0.250 = 0.500 mol × 17.03 g/mol = 8.5 g, not 15 g."
-    },
-    {
-      "id": "pt-56",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "Which substance is the limiting reactant when 2.0 g of sulfur reacts with 3.0 g of oxygen and 4.0 g of sodium hydroxide according to 2 S(s) + 3 O_2(g) + 4 NaOH(aq) → 2 Na_2SO_4(aq) + 2 H_2O(l)?",
-      "choices": [
-        "S(s)",
-        "O_2(g)",
-        "NaOH(aq)",
-        "None of these substances is the limiting reactant"
-      ],
-      "answerIndex": 2,
-      "explanation": "Divide each reactant's moles by its coefficient. S: 2.0 ÷ 32.07 = 0.0624, ÷ 2 = 0.0312. O_2: 3.0 ÷ 32.00 = 0.0938, ÷ 3 = 0.0313. NaOH: 4.0 ÷ 40.00 = 0.100, ÷ 4 = 0.0250. NaOH has the smallest value, so it runs out first."
-    },
-    {
-      "id": "pt-57",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "When silver nitrate (AgNO_3) reacts with barium chloride (BaCl_2), silver chloride (AgCl) and barium nitrate (Ba(NO_3)_2) are formed. How many grams of silver chloride are formed when 10.0 g of silver nitrate reacts with 15.0 g of barium chloride?",
-      "choices": [
-        "8.44 g",
-        "9.40 g",
-        "11.9 g",
-        "18.8 g"
-      ],
-      "answerIndex": 0,
-      "explanation": "Balanced: 2 AgNO_3 + BaCl_2 → 2 AgCl + Ba(NO_3)_2. AgNO_3 = 10.0 ÷ 169.9 = 0.0589 mol; BaCl_2 = 15.0 ÷ 208.2 = 0.0720 mol, but only 0.0294 mol is needed, so AgNO_3 is limiting. AgCl = 0.0589 mol × 143.3 g/mol = 8.44 g."
-    },
-    {
-      "id": "pt-58",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "In the reaction between glucose and oxygen, C_6H_{12}O_6(s) + 6 O_2(g) → 6 CO_2(g) + 6 H_2O(l), 10.0 g of glucose reacts and 7.50 L of carbon dioxide is formed. What is the percent yield if the density of CO_2 is 1.26 g/L?",
-      "choices": [
-        "26.1%",
-        "40.6%",
-        "43.1%",
-        "64.5%"
-      ],
-      "answerIndex": 3,
-      "explanation": "Glucose = 10.0 ÷ 180.2 = 0.0555 mol, giving 6 × 0.0555 = 0.333 mol CO_2 × 44.01 g/mol = 14.7 g theoretical. Actual = 7.50 L × 1.26 g/L = 9.45 g. Percent yield = 9.45 ÷ 14.7 × 100 = 64.5%."
-    },
-    {
-      "id": "pt-59",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "Limestone reacts with hydrochloric acid according to CaCO_3 + 2HCl → CaCl_2 + H_2O + CO_2. If 1.00 mol CO_2 has a volume of 22.4 L under the reaction conditions, how many liters of gas can be formed by reaction of 2.35 g of CaCO_3 with 2.35 g of HCl?",
-      "choices": [
-        "0.526 L",
-        "0.645 L",
-        "0.400 L",
-        "0.750 L"
-      ],
-      "answerIndex": 0,
-      "explanation": "CaCO_3 = 2.35 ÷ 100.09 = 0.0235 mol; HCl = 2.35 ÷ 36.46 = 0.0645 mol, but only 0.0470 mol is needed, so CaCO_3 is limiting. CO_2 = 0.0235 mol × 22.4 L/mol = 0.526 L."
-    },
-    {
-      "id": "pt-60",
-      "type": "multiple_choice",
-      "section": "yields-formulas",
-      "prompt": "How many grams of the excess reagent are left over when 6.00 g of CS_2 gas react with 10.0 g of Cl_2 gas in CS_2(g) + 3 Cl_2(g) → CCl_4(l) + S_2Cl_2(l)?",
-      "choices": [
-        "2.42 g",
-        "2.77 g",
-        "3.58 g",
-        "4.00 g"
-      ],
-      "answerIndex": 0,
-      "explanation": "CS_2 = 6.00 ÷ 76.14 = 0.0788 mol; Cl_2 = 10.0 ÷ 70.90 = 0.141 mol. Using all the CS_2 would take 0.236 mol Cl_2, so Cl_2 is limiting and CS_2 is in excess. CS_2 used = 0.141 ÷ 3 = 0.0470 mol × 76.14 g/mol = 3.58 g, leaving 6.00 − 3.58 = 2.42 g. 3.58 g is the amount used, not the amount left."
+      "answerIndex": 1,
+      "explanation": "500 mg = 0.500 g; 0.500 ÷ 180.0 = 2.78 × 10^{-3} mol."
     },
     {
       "id": "sg-020",
@@ -1532,158 +1259,18 @@
       "explanation": "The mass spectrum is used to determine molecular masses."
     },
     {
-      "id": "pt-05",
+      "id": "sg-043",
       "type": "multiple_choice",
       "section": "solutions",
-      "prompt": "HBr, HCl, HClO_4, KBr, and NaCl are all classified as:",
+      "prompt": "What is molarity?",
       "choices": [
-        "Acids",
-        "Nonelectrolytes",
-        "Strong electrolytes",
-        "Weak electrolytes"
-      ],
-      "answerIndex": 2,
-      "explanation": "HBr, HCl and HClO_4 are strong acids that ionize completely, and KBr and NaCl are soluble salts that dissociate completely. They are not all acids, because KBr and NaCl are salts."
-    },
-    {
-      "id": "pt-06",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "Acetic acid (CH_3CO_2H), formic acid (HCO_2H), hydrofluoric acid (HF), ammonia (NH_3), and methylamine (CH_3NH_2) are commonly classified as:",
-      "choices": [
-        "Acids",
-        "Nonelectrolytes",
-        "Strong electrolytes",
-        "Weak electrolytes"
-      ],
-      "answerIndex": 3,
-      "explanation": "Acetic, formic and hydrofluoric acid are weak acids, and NH_3 and methylamine are weak bases. All ionize only partially, giving few ions. They are not all acids, because NH_3 and methylamine are bases."
-    },
-    {
-      "id": "pt-07",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "Water (H_2O), methyl alcohol (CH_3OH), ethyl alcohol (CH_3CH_2OH), ethylene glycol (HOCH_2CH_2OH), and sucrose (C_{12}H_{22}O_{11}) are commonly classified as:",
-      "choices": [
-        "Bases",
-        "Nonelectrolytes",
-        "Strong electrolytes",
-        "Weak electrolytes"
-      ],
-      "answerIndex": 1,
-      "explanation": "These molecular compounds dissolve as intact molecules and produce essentially no ions. Water ionizes only to a tiny extent, so it is grouped with them here."
-    },
-    {
-      "id": "pt-08",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "In a solution prepared by mixing CH_3OH with H_2O, the major species present are:",
-      "choices": [
-        "CH_3OH and H_2O",
-        "CH_3OH, H^+, and OH^-",
-        "CH_3^+, OH^-, and H_2O",
-        "CH_3O^-, H^+, and H_2O"
-      ],
-      "answerIndex": 0,
-      "explanation": "Methanol is a nonelectrolyte, so it dissolves as intact CH_3OH molecules, and water ionizes negligibly. No significant amount of ions forms."
-    },
-    {
-      "id": "pt-31",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "Molarity is defined as:",
-      "choices": [
-        "Moles of solute per liter of solution",
         "Moles of solute per liter of solvent",
-        "Moles of solvent per liter of solution",
-        "Moles of solvent per liter of solvent"
-      ],
-      "answerIndex": 0,
-      "explanation": "Molarity (M) is moles of solute divided by liters of the total solution, not liters of solvent."
-    },
-    {
-      "id": "pt-32",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "What is the concentration of FeCl_3 in a solution prepared by dissolving 10.0 g of FeCl_3 in enough water to make 275 mL of solution?",
-      "choices": [
-        "2.24 × 10^{-4} M",
-        "0.224 M",
-        "4.46 M",
-        "4.46 × 10^3 M"
-      ],
-      "answerIndex": 1,
-      "explanation": "FeCl_3 = 162.2 g/mol, so 10.0 g ÷ 162.2 = 0.0617 mol. Then 0.0617 mol ÷ 0.275 L = 0.224 M."
-    },
-    {
-      "id": "pt-33",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "How many grams of AgNO_3 are needed to make 250. mL of a solution that is 0.135 M?",
-      "choices": [
-        "0.0917 g",
-        "0.174 g",
-        "5.73 g",
-        "9.17 g"
+        "Grams of solute per liter of solution",
+        "Moles of solute dissolved in each liter of solution",
+        "Moles of solute per kilogram of solvent"
       ],
       "answerIndex": 2,
-      "explanation": "Moles = 0.135 M × 0.250 L = 0.03375 mol. Mass = 0.03375 mol × 169.9 g/mol (AgNO_3) = 5.73 g."
-    },
-    {
-      "id": "pt-34",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "If the reaction of phosphate ion with water is ignored, what is the total concentration of ions in a solution prepared by dissolving 3.00 g of K_3PO_4 in enough water to make 350. mL of solution?",
-      "choices": [
-        "0.0101 M",
-        "0.0404 M",
-        "0.162 M",
-        "0.323 M"
-      ],
-      "answerIndex": 2,
-      "explanation": "K_3PO_4 = 212.3 g/mol, so 3.00 g = 0.01413 mol, and 0.01413 ÷ 0.350 L = 0.0404 M. Each formula unit gives 4 ions (3 K^+ and 1 PO_4^{3-}), so total ions = 4 × 0.0404 = 0.162 M. 0.0404 M is the K_3PO_4 concentration alone."
-    },
-    {
-      "id": "pt-35",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "What is the concentration of HCl in the final solution when 65 mL of a 12 M HCl solution is diluted with pure water to a total volume of 0.15 L?",
-      "choices": [
-        "2.8 × 10^{-2} M",
-        "5.2 M",
-        "28 M",
-        "5.2 × 10^3 M"
-      ],
-      "answerIndex": 1,
-      "explanation": "Using M_1V_1 = M_2V_2: (12 M)(65 mL) = M_2(150 mL), so M_2 = 780 ÷ 150 = 5.2 M. A diluted solution must be less concentrated than 12 M."
-    },
-    {
-      "id": "pt-36",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "How many milliliters of a 9.0 M H_2SO_4 solution are needed to make 0.25 L of a 3.5 M H_2SO_4 solution?",
-      "choices": [
-        "0.097 mL",
-        "0.64 mL",
-        "97 mL",
-        "640 mL"
-      ],
-      "answerIndex": 2,
-      "explanation": "Using M_1V_1 = M_2V_2: V_1 = (3.5 M × 0.25 L) ÷ 9.0 M = 0.097 L = 97 mL."
-    },
-    {
-      "id": "pt-37",
-      "type": "multiple_choice",
-      "section": "solutions",
-      "prompt": "A student prepared a stock solution by dissolving 20.0 g of KOH in enough water to make 150. mL of solution. She then took 15.0 mL of the stock solution and diluted it with enough water to make 65.0 mL of a final solution. What is the concentration of KOH for the final solution?",
-      "choices": [
-        "0.548 M",
-        "0.713 M",
-        "1.40 M",
-        "1.82 M"
-      ],
-      "answerIndex": 0,
-      "explanation": "KOH = 56.11 g/mol, so 20.0 g = 0.3565 mol, and 0.3565 ÷ 0.150 L = 2.38 M in the stock. Diluting: 2.38 M × 15.0 mL ÷ 65.0 mL = 0.548 M."
+      "explanation": "It is the volume of solution that matters, not simply the volume of water."
     },
     {
       "id": "sg-044",
@@ -1728,6 +1315,20 @@
       "explanation": "In a volumetric flask, solvent is added up to the calibration mark and the solution is mixed until uniform."
     },
     {
+      "id": "sg-047",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "How many grams of glucose (C_6H_{12}O_6, 180.0 g/mol) are needed to prepare 1.50 L of 0.250 M glucose?",
+      "choices": [
+        "0.375 g",
+        "30.0 g",
+        "49.5 g",
+        "67.5 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "1.50 L × 0.250 mol/L = 0.375 mol × 180.0 g/mol = 67.5 g."
+    },
+    {
       "id": "sg-048",
       "type": "multiple_choice",
       "section": "solutions",
@@ -1754,6 +1355,20 @@
       ],
       "answerIndex": 3,
       "explanation": "Dilution keeps the moles of solute constant while the volume changes, so Mi × Vi = Mf × Vf."
+    },
+    {
+      "id": "sg-050",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "What volume of 18.0 M H_2SO_4 is needed to prepare 250.0 mL of 0.500 M H_2SO_4?",
+      "choices": [
+        "9.00 mL",
+        "6.94 mL",
+        "13.9 mL",
+        "125 mL"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vi = (0.500 M × 250.0 mL) ÷ 18.0 M = 6.94 mL, then add to enough water to make 250.0 mL."
     },
     {
       "id": "sg-051",
@@ -1784,6 +1399,20 @@
       "explanation": "Nonelectrolytes do not produce ions in aqueous solution."
     },
     {
+      "id": "sg-053",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "Which is a nonelectrolyte?",
+      "choices": [
+        "NaCl",
+        "KBr",
+        "HCl",
+        "C_{12}H_{22}O_{11} (sucrose)"
+      ],
+      "answerIndex": 3,
+      "explanation": "Sucrose dissolves as whole molecules, not ions."
+    },
+    {
       "id": "sg-054",
       "type": "multiple_choice",
       "section": "solutions",
@@ -1812,6 +1441,20 @@
       "explanation": "KCl is a strong electrolyte; acetic acid is a weak electrolyte."
     },
     {
+      "id": "sg-056",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "Which substance is a weak electrolyte?",
+      "choices": [
+        "HF",
+        "HCl",
+        "NaOH",
+        "CH_3OH"
+      ],
+      "answerIndex": 0,
+      "explanation": "The weak electrolytes listed are CH_3CO_2H, HF and HCN."
+    },
+    {
       "id": "sg-057",
       "type": "multiple_choice",
       "section": "solutions",
@@ -1826,6 +1469,34 @@
       "explanation": "The six are HCl, HBr, HI, HClO_4, HNO_3 and H_2SO_4. Any acid that is not a strong acid is a weak acid."
     },
     {
+      "id": "sg-058",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "Soluble ionic compounds (including hydroxides such as NaOH and KOH) are classified as:",
+      "choices": [
+        "Nonelectrolytes",
+        "Strong electrolytes",
+        "Weak electrolytes",
+        "Weak acids"
+      ],
+      "answerIndex": 1,
+      "explanation": "Soluble ionic compounds, including hydroxides such as NaOH and KOH, dissociate to a large extent into ions, so they are strong electrolytes."
+    },
+    {
+      "id": "sg-059",
+      "type": "multiple_choice",
+      "section": "solutions",
+      "prompt": "Ethyl alcohol (C_2H_5OH) dissolved in water is a:",
+      "choices": [
+        "Strong electrolyte",
+        "Weak electrolyte",
+        "Strong acid",
+        "Nonelectrolyte"
+      ],
+      "answerIndex": 3,
+      "explanation": "Most compounds of carbon (organic compounds) are nonelectrolytes; water itself is also treated as a nonelectrolyte."
+    },
+    {
       "id": "sg-060",
       "type": "multiple_choice",
       "section": "solutions",
@@ -1838,174 +1509,6 @@
       ],
       "answerIndex": 1,
       "explanation": "Strong acids and strong bases dissociate to a large extent, so they are strong electrolytes. Weak acids and weak bases dissociate only a little, so they are weak electrolytes."
-    },
-    {
-      "id": "pt-01",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Which of the following compounds is not an Arrhenius acid?",
-      "choices": [
-        "HClO_3",
-        "H_2SO_4",
-        "C_2H_4O_2",
-        "CH_3CH_2NH_2"
-      ],
-      "answerIndex": 3,
-      "explanation": "An Arrhenius acid releases H^+ in water. HClO_3 and H_2SO_4 are acids, and C_2H_4O_2 is acetic acid. CH_3CH_2NH_2 (ethylamine) is an amine, which accepts H^+ and acts as a base."
-    },
-    {
-      "id": "pt-02",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "When Na_2CrO_4(aq) and AgNO_3(aq) are mixed, a red colored precipitate forms which is:",
-      "choices": [
-        "Ag",
-        "Ag_2CrO_4",
-        "AgNO_2",
-        "NaNO_3"
-      ],
-      "answerIndex": 1,
-      "explanation": "Ag^+ and CrO_4^{2-} combine to form insoluble silver chromate, Ag_2CrO_4. NaNO_3 is soluble, and no redox occurs that could produce Ag or AgNO_2."
-    },
-    {
-      "id": "pt-03",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Predict the products of a reaction between sodium phosphate (Na_3PO_4) and aluminum fluoride (AlF_3).",
-      "choices": [
-        "Al(s), NaFO_3(aq), and Na_2PO_3(aq)",
-        "AlPO_4(s) and NaF(aq)",
-        "Al_2PO_3(s) and NaF(aq)",
-        "Al(PO_4)_3(s) and NaF(aq)"
-      ],
-      "answerIndex": 1,
-      "explanation": "In a double replacement the ions swap partners. Al^{3+} pairs with PO_4^{3-} (charges +3 and −3 give AlPO_4, an insoluble phosphate), and Na^+ pairs with F^- to give soluble NaF."
-    },
-    {
-      "id": "pt-04",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "What reagent would distinguish between Ba^{2+} and Hg^{2+}?",
-      "choices": [
-        "NaCl",
-        "NaNO_3",
-        "Na_2SO_4",
-        "Na_2S_2O_3"
-      ],
-      "answerIndex": 2,
-      "explanation": "Sulfate precipitates Ba^{2+} as BaSO_4, while mercury(II) sulfate stays in solution, so only one ion gives a precipitate. Chloride precipitates Hg_2^{2+} but not Hg^{2+}, and nitrate salts are all soluble, so neither distinguishes the two."
-    },
-    {
-      "id": "pt-09",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Write a balanced net ionic equation for the reaction of Pb(NO_3)_2(aq) with NaI(aq).",
-      "choices": [
-        "Pb(NO_3)_2(aq) + 2 NaI(aq) → PbI_2(s) + 2 NaNO_3(aq)",
-        "Pb^{2+}(aq) + 2 NO_3^-(aq) + 2 Na^+(aq) + 2 I^-(aq) → Pb^{2+}(aq) + 2 I^-(aq) + 2 Na^+(aq) + 2 NO_3^-(aq)",
-        "Pb^{2+}(aq) + 2 NO_3^-(aq) + 2 Na^+(aq) + 2 I^-(aq) → PbI_2(s) + 2 Na^+(aq) + 2 NO_3^-(aq)",
-        "Pb^{2+}(aq) + 2 I^-(aq) → PbI_2(s)"
-      ],
-      "answerIndex": 3,
-      "explanation": "PbI_2 is insoluble and precipitates, while Na^+ and NO_3^- are spectator ions and are dropped. The equation written with full formulas is the molecular equation, the one that keeps the spectators is the complete ionic equation, and the one with identical sides shows no reaction."
-    },
-    {
-      "id": "pt-10",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Write a balanced net ionic equation for the reaction of Na_2CO_3(s) and HCl(aq).",
-      "choices": [
-        "Na_2CO_3(s) + 2 HCl(aq) → 2 NaCl(aq) + H_2O(l) + CO_2(g)",
-        "2Na^+(aq) + CO_3^{2-}(aq) + 2H^+(aq) + 2Cl^-(aq) → 2Na^+(aq) + 2Cl^-(aq) + H_2O(l) + CO_2(g)",
-        "Na_2CO_3(s) + 2 H^+(aq) → 2 Na^+(aq) + H_2O(l) + CO_2(g)",
-        "CO_3^{2-}(aq) + 2 H^+(aq) → H_2O(l) + CO_2(g)"
-      ],
-      "answerIndex": 2,
-      "explanation": "Na_2CO_3 is given as a solid (s), so it stays intact instead of being split into ions; only Cl^- is a spectator. H^+ reacts with the carbonate to form H_2O and CO_2 gas. Starting from free CO_3^{2-}(aq) would be correct only if sodium carbonate were aqueous."
-    },
-    {
-      "id": "pt-11",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Write a balanced net ionic equation for the reaction of CdCl_2(aq) with Na_2S(aq).",
-      "choices": [
-        "CdCl_2(aq) + Na_2S(aq) → CdS(aq) + 2 NaCl(aq)",
-        "Cd^{2+}(aq) + 2 Cl^-(aq) + 2 Na^+(aq) + S^{2-}(aq) → CdS(s) + 2 NaCl(aq)",
-        "Cd^{2+}(aq) + S^{2-}(aq) → CdS(s)",
-        "Cd^{2+}(aq) + 2 Cl^-(aq) + 2 Na^+(aq) + S^{2-}(aq) → CdS(s) + 2 Na^+(aq)"
-      ],
-      "answerIndex": 2,
-      "explanation": "CdS is insoluble and precipitates, while Na^+ and Cl^- are spectator ions and are dropped. The other choices either show CdS as aqueous or still contain spectators (one also writes NaCl un-ionized)."
-    },
-    {
-      "id": "pt-13",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Which pair of compounds is insoluble in water?",
-      "choices": [
-        "AgNO_3 and KNO_3",
-        "Na_2S and CuS",
-        "(NH_4)_2SO_4 and AgI",
-        "PbSO_4 and Pb_3(PO_4)_2"
-      ],
-      "answerIndex": 3,
-      "explanation": "Lead(II) sulfate is an exception to the \"sulfates are soluble\" rule, and phosphates are insoluble except with Group 1 metals or ammonium. Every other pair includes a soluble compound (nitrates, Na_2S and ammonium salts are all soluble)."
-    },
-    {
-      "id": "pt-14",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Which pair of compounds is soluble in water?",
-      "choices": [
-        "AgBr and AgI",
-        "CdS and (NH_4)_2S",
-        "KI and Ba(NO_3)_2",
-        "NaNO_3 and CuCO_3"
-      ],
-      "answerIndex": 2,
-      "explanation": "Group 1 compounds such as KI and all nitrates such as Ba(NO_3)_2 are soluble. AgBr and AgI (silver halides), CdS (a sulfide) and CuCO_3 (a carbonate) are insoluble."
-    },
-    {
-      "id": "pt-15",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "Phthalic acid is a diprotic acid having the formula HO_2CC_6H_4CO_2H that can be converted to a salt by reaction with base. Which of the following is expected to be most soluble in water?",
-      "choices": [
-        "HO_2CC_6H_4CO_2H",
-        "HO_2CC_6H_4CO_2Na",
-        "HO_2CC_6H_4CO_2K",
-        "NaO_2CC_6H_4CO_2K"
-      ],
-      "answerIndex": 3,
-      "explanation": "Converting both –CO_2H groups into ionic –CO_2^- groups (with Na^+ and K^+) makes the most ionic form, which dissolves best in water. The neutral acid is least soluble, and the monosalts fall in between."
-    },
-    {
-      "id": "pt-16",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "What reagent could be used to separate Br^- from NO_3^- when added to an aqueous solution containing both?",
-      "choices": [
-        "AgNO_3(aq)",
-        "Ba(OH)_2(aq)",
-        "CuSO_4(aq)",
-        "NaI(aq)"
-      ],
-      "answerIndex": 0,
-      "explanation": "Ag^+ precipitates Br^- as insoluble AgBr, while nitrate stays dissolved because all nitrates are soluble. Filtering then separates the two. None of the other reagents precipitates bromide."
-    },
-    {
-      "id": "pt-17",
-      "type": "multiple_choice",
-      "section": "reactions",
-      "prompt": "The reaction HNO_3(aq) + KOH(aq) → KNO_3(aq) + H_2O(l) is best classified as a(n):",
-      "choices": [
-        "Acid-base neutralization reaction",
-        "Oxidation-reduction reaction",
-        "Precipitation reaction",
-        "Single replacement reaction"
-      ],
-      "answerIndex": 0,
-      "explanation": "An acid (HNO_3) reacts with a base (KOH) to form a salt (KNO_3) and water, which is the definition of neutralization. No oxidation numbers change, and nothing precipitates."
     },
     {
       "id": "sg-061",
@@ -2048,6 +1551,20 @@
       ],
       "answerIndex": 3,
       "explanation": "Electrons are transferred between reaction partners."
+    },
+    {
+      "id": "sg-064",
+      "type": "multiple_choice",
+      "section": "reactions",
+      "prompt": "What is an acid–base neutralization reaction?",
+      "choices": [
+        "A reaction that forms a precipitate and a gas",
+        "A process in which an acid reacts with a base to yield water plus an ionic compound called a salt",
+        "A reaction in which a metal replaces hydrogen",
+        "A reaction in which a base loses electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Example: HCl(aq) + NaOH(aq) → H_2O(l) + NaCl(aq)."
     },
     {
       "id": "sg-065",
@@ -2104,6 +1621,20 @@
       ],
       "answerIndex": 1,
       "explanation": "K^+ and NO_3^- undergo no change and appear on both sides of the arrow. Pb^{2+} and I^- combine to form the PbI_2 precipitate."
+    },
+    {
+      "id": "sg-069",
+      "type": "multiple_choice",
+      "section": "reactions",
+      "prompt": "What is the net ionic equation for Pb(NO_3)_2(aq) + 2KI(aq) → 2KNO_3(aq) + PbI_2(s)?",
+      "choices": [
+        "Pb^{2+}(aq) + 2I^-(aq) → PbI_2(s)",
+        "2K^+(aq) + 2NO_3^-(aq) → 2KNO_3(aq)",
+        "Pb(NO_3)_2(aq) + 2KI(aq) → 2KNO_3(aq) + PbI_2(s)",
+        "Pb^{2+}(aq) + 2NO_3^-(aq) → Pb(NO_3)_2(s)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Only the ions undergoing change are shown."
     },
     {
       "id": "sg-070",
@@ -2442,76 +1973,6 @@
       "explanation": "A weak acid dissociates only to a small degree, so it is written as the intact molecule, like any weak electrolyte."
     },
     {
-      "id": "pt-30",
-      "type": "multiple_choice",
-      "section": "solution-stoich",
-      "prompt": "According to 5 H_2C_2O_4(aq) + 2 MnO_4^-(aq) + 6 H^+(aq) → 10 CO_2(g) + 2 Mn^{2+}(aq) + 8 H_2O(l), 0.3500 g of oxalic acid, H_2C_2O_4, will react with how many moles of permanganate, MnO_4^-?",
-      "choices": [
-        "0.001554 mol",
-        "0.003887 mol",
-        "0.007774 mol",
-        "0.009718 mol"
-      ],
-      "answerIndex": 0,
-      "explanation": "H_2C_2O_4 = 90.04 g/mol, so 0.3500 g ÷ 90.04 = 0.003887 mol. The ratio is 2 MnO_4^- : 5 H_2C_2O_4, so 0.003887 × 2/5 = 0.001555 ≈ 0.001554 mol. 0.003887 mol is the oxalic acid, not the permanganate."
-    },
-    {
-      "id": "pt-38",
-      "type": "multiple_choice",
-      "section": "solution-stoich",
-      "prompt": "How many milliliters of 0.260 M Na_2S are needed to react with 25.00 mL of 0.315 M AgNO_3? Na_2S(aq) + 2 AgNO_3(aq) → 2 NaNO_3(aq) + Ag_2S(s)",
-      "choices": [
-        "15.1 mL",
-        "30.3 mL",
-        "41.3 mL",
-        "60.6 mL"
-      ],
-      "answerIndex": 0,
-      "explanation": "AgNO_3 = 0.02500 L × 0.315 M = 0.007875 mol. The ratio is 1 Na_2S : 2 AgNO_3, so Na_2S = 0.003938 mol, and 0.003938 ÷ 0.260 M = 0.0151 L = 15.1 mL."
-    },
-    {
-      "id": "pt-39",
-      "type": "multiple_choice",
-      "section": "solution-stoich",
-      "prompt": "How many grams of CaCl_2 are formed when 35.00 mL of 0.00237 M Ca(OH)_2 reacts with excess Cl_2 gas? 2 Ca(OH)_2(aq) + 2 Cl_2(g) → Ca(OCl)_2(aq) + CaCl_2(s) + 2 H_2O(l)",
-      "choices": [
-        "0.00460 g",
-        "0.00921 g",
-        "0.0184 g",
-        "0.0217 g"
-      ],
-      "answerIndex": 0,
-      "explanation": "Ca(OH)_2 = 0.03500 L × 0.00237 M = 8.30 × 10^{-5} mol. The ratio is 2 Ca(OH)_2 : 1 CaCl_2, so CaCl_2 = 4.15 × 10^{-5} mol × 110.98 g/mol = 0.00460 g."
-    },
-    {
-      "id": "pt-40",
-      "type": "multiple_choice",
-      "section": "solution-stoich",
-      "prompt": "How many milliliters of 0.550 M hydriodic acid are needed to react with 25.00 mL of 0.217 M CsOH? HI(aq) + CsOH(aq) → CsI(aq) + H_2O(l)",
-      "choices": [
-        "0.0158 mL",
-        "0.101 mL",
-        "9.86 mL",
-        "63.4 mL"
-      ],
-      "answerIndex": 2,
-      "explanation": "CsOH = 0.02500 L × 0.217 M = 0.005425 mol. The ratio is 1:1, so HI = 0.005425 mol, and 0.005425 ÷ 0.550 M = 0.00986 L = 9.86 mL."
-    },
-    {
-      "id": "pt-41",
-      "type": "multiple_choice",
-      "section": "solution-stoich",
-      "prompt": "In an acid-base neutralization reaction, 23.74 mL of 0.500 M potassium hydroxide reacts with 50.00 mL of sulfuric acid solution. What is the concentration of the H_2SO_4 solution?",
-      "choices": [
-        "0.119 M",
-        "0.237 M",
-        "0.475 M",
-        "2.11 M"
-      ],
-      "answerIndex": 0,
-      "explanation": "KOH = 0.02374 L × 0.500 M = 0.01187 mol. H_2SO_4 is diprotic (H_2SO_4 + 2 KOH), so H_2SO_4 = 0.005935 mol, and 0.005935 ÷ 0.05000 L = 0.119 M. 0.237 M ignores the 1:2 ratio."
-    },
-    {
       "id": "sg-094",
       "type": "multiple_choice",
       "section": "solution-stoich",
@@ -2582,6 +2043,20 @@
       "explanation": "Permanganate is dark purple but forms nearly colorless Mn^{2+} while oxalic acid remains."
     },
     {
+      "id": "sg-124",
+      "type": "multiple_choice",
+      "section": "solution-stoich",
+      "prompt": "In 5H_2C_2O_4 + 2MnO_4^- + 6H^+ → 10CO_2 + 2Mn^{2+} + 8H_2O, what is the mole ratio of KMnO_4 to H_2C_2O_4?",
+      "choices": [
+        "1 : 1",
+        "5 : 2",
+        "2 : 5",
+        "1 : 5"
+      ],
+      "answerIndex": 2,
+      "explanation": "The balanced equation has 2 MnO_4^- for every 5 H_2C_2O_4, so KMnO_4 : H_2C_2O_4 = 2 : 5."
+    },
+    {
       "id": "sg-125",
       "type": "multiple_choice",
       "section": "solution-stoich",
@@ -2594,146 +2069,6 @@
       ],
       "answerIndex": 0,
       "explanation": "0.002871 mol H_2C_2O_4 × (2/5) = 0.001148 mol KMnO_4 ÷ 0.02235 L = 0.05136 M."
-    },
-    {
-      "id": "pt-12",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "Write a balanced net ionic equation for the reaction of AgNO_3(aq) with Cu(s).",
-      "choices": [
-        "AgNO_3(aq) + Cu(s) → Ag(s) + CuNO_3(aq)",
-        "Ag^+(aq) + Cu(s) → Ag(s) + Cu^+(aq)",
-        "2 AgNO_3(aq) + Cu(s) → 2 Ag(s) + CuNO_3(aq)",
-        "2Ag^+(aq) + Cu(s) → 2 Ag(s) + Cu^{2+}(aq)"
-      ],
-      "answerIndex": 3,
-      "explanation": "Cu is more active than Ag, so it is oxidized to Cu^{2+}, giving up 2 electrons. Each Ag^+ takes 1 electron, so 2 Ag^+ are needed to balance charge; NO_3^- is a spectator and is dropped."
-    },
-    {
-      "id": "pt-18",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "The reaction Cu(s) + 2 AgNO_3(aq) → Cu(NO_3)_2(aq) + 2 Ag(s) is best classified as a(n):",
-      "choices": [
-        "Acid-base neutralization reaction",
-        "Double replacement reaction",
-        "Oxidation-reduction reaction",
-        "Precipitation reaction"
-      ],
-      "answerIndex": 2,
-      "explanation": "Cu goes from 0 to +2 (oxidized) and Ag goes from +1 to 0 (reduced), so electrons are transferred. It is a single replacement, not a double replacement, with no precipitate or acid-base step."
-    },
-    {
-      "id": "pt-19",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "The combustion reaction CH_4(g) + 2 O_2(g) → CO_2(g) + 2 H_2O(l) can be classified as a(n):",
-      "choices": [
-        "Acid-base neutralization reaction",
-        "Double replacement reaction",
-        "Oxidation-reduction reaction",
-        "Precipitation reaction"
-      ],
-      "answerIndex": 2,
-      "explanation": "C goes from −4 in CH_4 to +4 in CO_2 (oxidized), and O goes from 0 in O_2 to −2 (reduced). Combustion reactions are always redox reactions."
-    },
-    {
-      "id": "pt-20a",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "What is the oxidation number change for the manganese atom in the unbalanced reduction half-reaction MnO_4^-(aq) + H^+(aq) → Mn^{2+}(aq) + H_2O(l)?",
-      "choices": [
-        "−7",
-        "−5",
-        "+5",
-        "+7"
-      ],
-      "answerIndex": 1,
-      "explanation": "In MnO_4^-, Mn is +7, since x + 4(−2) = −1. In Mn^{2+} it is +2. Change = final − initial = +2 − (+7) = −5, a gain of 5 electrons (reduction)."
-    },
-    {
-      "id": "pt-20b",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "In which compound is the oxidation state of hydrogen not +1?",
-      "choices": [
-        "H_2O",
-        "H_2O_2",
-        "NaH",
-        "Na_2HSO_4"
-      ],
-      "answerIndex": 2,
-      "explanation": "In a metal hydride such as NaH, hydrogen is bonded to a metal and takes the −1 state (Na is +1). In the other compounds H is bonded to nonmetals and is +1."
-    },
-    {
-      "id": "pt-21",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "In which compound is the oxidation state of oxygen not −2?",
-      "choices": [
-        "MgO",
-        "Li_2O",
-        "Na_2O_2",
-        "Al_2O_3"
-      ],
-      "answerIndex": 2,
-      "explanation": "Na_2O_2 is a peroxide (O_2^{2-}). With each Na at +1, each O must be −1. In the other three oxides, oxygen is −2."
-    },
-    {
-      "id": "pt-22",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "What is the oxidation number change for the iron atom in 2 Fe_2O_3(s) + 3 C(s) → 4 Fe(s) + 3 CO_2(g)?",
-      "choices": [
-        "−6",
-        "−3",
-        "+3",
-        "+6"
-      ],
-      "answerIndex": 1,
-      "explanation": "In Fe_2O_3, Fe is +3, since 2x + 3(−2) = 0. In Fe(s) it is 0. Change = 0 − (+3) = −3 for each iron atom."
-    },
-    {
-      "id": "pt-23",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "Which species functions as the oxidizing agent in Zn(s) + Cu^{2+}(aq) → Cu(s) + Zn^{2+}(aq)?",
-      "choices": [
-        "Cu(s)",
-        "Cu^{2+}(aq)",
-        "Zn(s)",
-        "Zn^{2+}(aq)"
-      ],
-      "answerIndex": 1,
-      "explanation": "Cu^{2+} gains 2 electrons to become Cu(s), so it is reduced, which makes it the oxidizing agent. Zn(s) is oxidized and is the reducing agent."
-    },
-    {
-      "id": "pt-24",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "Which species functions as the oxidizing agent in 5 Fe^{2+}(aq) + MnO_4^-(aq) + 8 H^+(aq) → Mn^{2+}(aq) + 5 Fe^{3+}(aq) + 4 H_2O(l)?",
-      "choices": [
-        "Fe^{2+}(aq)",
-        "H^+(aq)",
-        "Mn^{2+}(aq)",
-        "MnO_4^-(aq)"
-      ],
-      "answerIndex": 3,
-      "explanation": "Mn goes from +7 in MnO_4^- to +2 in Mn^{2+}, so MnO_4^- is reduced and is the oxidizing agent. Fe^{2+} is oxidized to Fe^{3+} (the reducing agent), and H^+ does not change."
-    },
-    {
-      "id": "pt-25",
-      "type": "multiple_choice",
-      "section": "redox",
-      "prompt": "What is the oxidation number of the chromium atom in K_2Cr_2O_7?",
-      "choices": [
-        "−2",
-        "+2",
-        "+6",
-        "+7"
-      ],
-      "answerIndex": 2,
-      "explanation": "For potassium dichromate, K_2Cr_2O_7: 2(+1) + 2x + 7(−2) = 0, so x = +6."
     },
     {
       "id": "sg-098",
@@ -2848,6 +2183,34 @@
       "explanation": "A monatomic ion’s oxidation number equals its charge."
     },
     {
+      "id": "sg-106",
+      "type": "multiple_choice",
+      "section": "redox",
+      "prompt": "What is the oxidation number of hydrogen in CaH_2?",
+      "choices": [
+        "+1",
+        "0",
+        "+2",
+        "−1"
+      ],
+      "answerIndex": 3,
+      "explanation": "H bonded to a metal is −1; H bonded to a nonmetal is +1."
+    },
+    {
+      "id": "sg-107",
+      "type": "multiple_choice",
+      "section": "redox",
+      "prompt": "What is the oxidation number of oxygen in hydrogen peroxide, H_2O_2?",
+      "choices": [
+        "−2",
+        "−1",
+        "0",
+        "+1"
+      ],
+      "answerIndex": 1,
+      "explanation": "In peroxides (O_2^{2-}), oxygen is −1."
+    },
+    {
       "id": "sg-108",
       "type": "multiple_choice",
       "section": "redox",
@@ -2888,6 +2251,20 @@
       ],
       "answerIndex": 0,
       "explanation": "2(+1) + S + 4(−2) = 0, so S = +6."
+    },
+    {
+      "id": "sg-111",
+      "type": "multiple_choice",
+      "section": "redox",
+      "prompt": "What is the oxidation number of chromium in Cr_2O_7^{2-}?",
+      "choices": [
+        "+12",
+        "+6",
+        "+7",
+        "+3"
+      ],
+      "answerIndex": 1,
+      "explanation": "2(Cr) + 7(−2) = −2, so Cr = +6."
     },
     {
       "id": "sg-112",
@@ -3042,62 +2419,6 @@
       ],
       "answerIndex": 3,
       "explanation": "Li, K, Ba, Ca and Na are at the top of the series (strongly reducing)."
-    },
-    {
-      "id": "pt-26",
-      "type": "multiple_choice",
-      "section": "half-reactions",
-      "prompt": "What is the oxidation half-reaction in Zn(s) + 2 H^+(aq) → Zn^{2+}(aq) + H_2(g)?",
-      "choices": [
-        "Zn(s) → Zn^{2+}(aq) + 2e^-",
-        "Zn^{2+}(aq) + 2e^- → Zn(s)",
-        "2 H^+(aq) + 2e^- → H_2(g)",
-        "H_2(g) → 2 H^+(aq) + 2e^-"
-      ],
-      "answerIndex": 0,
-      "explanation": "Oxidation is loss of electrons. Zn goes from 0 to +2 and gives up 2 electrons, which appear on the product side. 2 H^+ + 2e^- → H_2 is the reduction half, and the other two choices are half-reactions written in reverse."
-    },
-    {
-      "id": "pt-27",
-      "type": "multiple_choice",
-      "section": "half-reactions",
-      "prompt": "What is the oxidation half-reaction in Cr_2O_7^{2-}(aq) + 6 Cl^-(aq) + 14 H^+(aq) → 2 Cr^{3+}(aq) + 3 Cl_2(aq) + 7 H_2O(l)?",
-      "choices": [
-        "Cr_2O_7^{2-}(aq) + 14 H^+(aq) + 6e^- → 2 Cr^{3+}(aq) + 7 H_2O(l)",
-        "Cr_2O_7^{2-}(aq) + 14 H^+(aq) → 2 Cr^{3+}(aq) + 7 H_2O(l) + 6e^-",
-        "2 Cl^-(aq) → Cl_2(aq) + 2e^-",
-        "Cl_2(aq) + 2e^- → 2 Cl^-(aq)"
-      ],
-      "answerIndex": 2,
-      "explanation": "Cl goes from −1 in Cl^- to 0 in Cl_2, losing electrons, so the chloride half is the oxidation: 2 Cl^- → Cl_2 + 2e^-. The dichromate half with electrons on the left is the reduction (Cr +6 to +3), the dichromate half with electrons on the right has them on the wrong side, and Cl_2 + 2e^- → 2 Cl^- is a reduction."
-    },
-    {
-      "id": "pt-28",
-      "type": "multiple_choice",
-      "section": "half-reactions",
-      "prompt": "What is the reduction half-reaction for Mn^{2+}(aq) + 2 ClO_3^-(aq) + OH^-(aq) → MnO_2(s) + 2 ClO_2(aq) + H_2O(l) in a basic solution?",
-      "choices": [
-        "Mn^{2+}(aq) + 4 OH^-(aq) → MnO_2(s) + 2 H_2O(l) + 2e^-",
-        "Mn^{2+}(aq) + 2 H_2O(l) → MnO_2(s) + 4 H^+(aq) + 2e^-",
-        "ClO_3^-(aq) + H_2O(l) + e^- → ClO_2(aq) + 2 OH^-(aq)",
-        "ClO_3^-(aq) + 2 H^+(aq) + e^- → ClO_2(aq) + H_2O(l)"
-      ],
-      "answerIndex": 2,
-      "explanation": "Cl goes from +5 in ClO_3^- to +4 in ClO_2, gaining 1 electron (reduction). In basic solution, O and H are balanced with H_2O and OH^-, giving ClO_3^- + H_2O + e^- → ClO_2 + 2 OH^-. The ClO_3^- version with H^+ is the acidic-solution form, and the two Mn half-reactions are the oxidation."
-    },
-    {
-      "id": "pt-29",
-      "type": "multiple_choice",
-      "section": "half-reactions",
-      "prompt": "What is the reduction half-reaction for ClO^-(aq) + Cr(OH)_4^-(aq) → CrO_4^{2-}(aq) + Cl^-(aq) in a basic solution?",
-      "choices": [
-        "ClO^-(aq) + 2 H^+(aq) + 2e^- → Cl^-(aq) + H_2O(l)",
-        "ClO^-(aq) + H_2O(l) + 2e^- → Cl^-(aq) + 2 OH^-(aq)",
-        "Cr(OH)_4^-(aq) + 4 OH^-(aq) → CrO_4^{2-}(aq) + 4 H_2O(l) + 3e^-",
-        "Cr(OH)_4^-(aq) → CrO_4^{2-}(aq) + 4 H^+(aq) + 3e^-"
-      ],
-      "answerIndex": 1,
-      "explanation": "Cl goes from +1 in ClO^- to −1 in Cl^-, gaining 2 electrons (reduction). In basic solution this balances as ClO^- + H_2O + 2e^- → Cl^- + 2 OH^-. The ClO^- version with H^+ is the acidic-solution form, and the two Cr half-reactions are oxidations (+3 to +6)."
     },
     {
       "id": "sg-126",
@@ -3322,6 +2643,20 @@
       ],
       "answerIndex": 1,
       "explanation": "In an electrolytic cell an electric current drives a nonspontaneous reaction."
+    },
+    {
+      "id": "sg-142",
+      "type": "multiple_choice",
+      "section": "half-reactions",
+      "prompt": "For Zn(s) + Cu^{2+}(aq) → Zn^{2+}(aq) + Cu(s), what is the oxidation half-reaction?",
+      "choices": [
+        "Cu^{2+}(aq) + 2e^- → Cu(s)",
+        "Zn^{2+}(aq) + 2e^- → Zn(s)",
+        "Cu(s) → Cu^{2+}(aq) + 2e^-",
+        "Zn(s) → Zn^{2+}(aq) + 2e^-"
+      ],
+      "answerIndex": 3,
+      "explanation": "Zn goes from 0 to +2 by losing 2 electrons, so it is oxidized. In an oxidation half-reaction the electrons appear on the product side."
     },
     {
       "id": "sg-143",
