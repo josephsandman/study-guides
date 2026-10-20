@@ -57,7 +57,7 @@ changes are needed.
   "superTitle": "header",
   "title": "subheader",
   "description": "...",
-  "images": [                   // optional; images shared by several questions
+  "images": [                   // optional; every image questions can show
     {
       "id": "periodic-table",
       "file": "assets/periodic-table.png",  // relative to the guide folder; .svg or .png
@@ -104,23 +104,15 @@ cover it.
 
 ### Images
 
-Any question or flashcard can show one or more images. `image` takes three forms:
+Images live in the top-level `images` list. A question or flashcard shows them
+by id — one id, or a list of ids:
 
 ```jsonc
-// 1. An id from the top-level "images" list — for a diagram several questions share
 "image": "orbital-diagrams"
-
-// 2. An inline image — for a diagram only this question uses
-"image": { "file": "assets/25_SOCl2_lewis_structure.svg", "alt": "Lewis structure of SOCl2" }
-
-// 3. A list of either; an { "id" } object reuses a shared image and overrides its fields
-"image": [
-  "orbital-diagrams",
-  { "id": "periodic-table", "show": "answer" }
-]
+"image": ["orbital-diagrams", "periodic-table"]
 ```
 
-`show` decides when an image appears:
+Each image's `show` decides when it appears, for every question that uses it:
 
 - `"prompt"` (the default) — with the question, before it is answered. Use this
   for diagrams the question asks about.

@@ -1,20 +1,15 @@
 import { el } from './dom.js';
 
-// Images attached to a question. `question.image` is an id from the set's `images`
-// list, an inline image object, or an array of either. An object with an `id` and no
-// `file` reuses that library entry and overrides the fields it sets (e.g. `show`).
-// `show` is "prompt" (default: visible while answering) or "answer" (revealed after).
+// Images attached to a question. `question.image` is an id, or a list of ids, from the
+// set's `images` list. Each image's `show` is "prompt" (default: visible while
+// answering) or "answer" (revealed after).
 export function imagesFor(set, question) {
-  const refs = [question.image ?? []].flat();
-  return refs
-    .map((ref) => {
-      const id = typeof ref === 'string' ? ref : ref.file ? null : ref.id;
-      const base = id ? set.images?.find((image) => image.id === id) : null;
-      if (id && !base) {
-        console.warn(`Question ${question.id}: no image with id "${id}"`);
-        return null;
-      }
-      return { show: 'prompt', ...base, ...(typeof ref === 'string' ? {} : ref) };
+  return [question.image ?? []]
+    .flat()
+    .map((id) => {
+      const image = set.images?.find((entry) => entry.id === id);
+      if (!image) console.warn(`Question ${question.id}: no image with id "${id}"`);
+      return image && { show: 'prompt', ...image };
     })
     .filter(Boolean);
 }
