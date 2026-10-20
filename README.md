@@ -141,6 +141,24 @@ Use it for formulas and for charges attached to a symbol. Charges in running
 prose ("a 2+ charge") are left plain — there is no symbol to attach them to.
 Screen readers are given the text with the markers stripped out.
 
+### Italic and bold
+
+Wrap text in `*single*` asterisks for italic and `**double**` for bold. Both
+can hold other markup, including subscripts, superscripts, and italic inside
+bold:
+
+| Written in the JSON | Renders as |
+| --- | --- |
+| `*m_l*` | *m*<sub>*l*</sub> |
+| `5*s*^1 4*d*^5` | 5*s*<sup>1</sup> 4*d*<sup>5</sup> |
+| `which is **not** allowed` | which is **not** allowed |
+| `**[Kr] 5*s*^1**` | **[Kr] 5*s*<sup>1</sup>** |
+
+Use italic for variables and orbital letters (*n*, *l*, *h*, *s*, *p*, *d*,
+*f*) and bold for words the question stresses. The correct choice needs no
+bold; the app marks it. A literal asterisk can't be written, so use × for
+multiplication.
+
 ## Adding a guide
 
 1. Copy `class/exam#/` to a new folder, for example `biology/exam2/`.
