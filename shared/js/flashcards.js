@@ -1,6 +1,6 @@
 import { add, clear, el, toolbar } from './dom.js';
 import { count, inSection } from './util.js';
-import { plateFor } from './plate.js';
+import { platesFor } from './plate.js';
 import { chem, plain } from './chem.js';
 import { onSwipe } from './swipe.js';
 
@@ -74,6 +74,7 @@ export function flashcards(ctx) {
     add(
       body,
       cardButton,
+      platesFor(set, card, 'prompt'),
       isMarked ? el('p', { className: 'marked' }, 'Marked for review') : null,
       flipped
         ? el(
@@ -83,7 +84,7 @@ export function flashcards(ctx) {
             el('button', { type: 'button', onclick: () => mark(true) }, 'Review again'),
           )
         : el('button', { type: 'button', className: 'primary', onclick: toggle }, 'Show answer'),
-      flipped ? plateFor(set, card) : null,
+      flipped ? platesFor(set, card, 'answer') : null,
       el(
         'div',
         { className: 'row' },

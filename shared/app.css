@@ -352,7 +352,16 @@ select {
   background: var(--surface);
   border: 1px solid var(--rule);
 }
-.plate img { width: 100%; background: #fff; cursor: zoom-in; border: 1px solid var(--rule); }
+.plate img {
+  justify-self: center;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 70vh;
+  background: #fff;
+  cursor: zoom-in;
+  border: 1px solid var(--rule);
+}
 .plate .ghost { padding-inline: 0; }
 .plate figcaption { font-size: 0.85rem; color: var(--muted); }
 .plate .legend {
@@ -389,7 +398,7 @@ select {
   padding: 0.5rem;
   touch-action: pinch-zoom pan-x pan-y;
 }
-.lightbox img { width: 100%; background: #fff; cursor: zoom-in; }
+.lightbox img { display: block; width: 100%; height: auto; background: #fff; cursor: zoom-in; }
 .lightbox.is-zoomed img { width: 320%; max-width: none; cursor: zoom-out; }
 
 /* --- guide index --- */

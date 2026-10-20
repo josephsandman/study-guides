@@ -1,6 +1,6 @@
 import { add, clear, el, toolbar } from './dom.js';
 import { inSection, shuffle } from './util.js';
-import { plateFor } from './plate.js';
+import { platesFor } from './plate.js';
 import { chem, plain } from './chem.js';
 import { onSwipe } from './swipe.js';
 
@@ -101,8 +101,8 @@ export function practice(ctx) {
         el('p', { className: 'ask' }, chem(question.prompt)),
         el('span', { className: 'sect' }, set.sections.find((s) => s.id === question.section)?.name ?? ''),
       ),
-      list,
     );
+    add(body, platesFor(set, question, 'prompt'), list);
 
     if (item.answered !== null) {
       const correct = item.choices[item.answered].correct;
@@ -114,7 +114,7 @@ export function practice(ctx) {
           el('p', { className: 'head' }, correct ? '✓ Correct' : '✕ Not quite'),
           el('p', {}, chem(question.explanation)),
         ),
-        plateFor(set, question),
+        platesFor(set, question, 'answer'),
         el(
           'button',
           { type: 'button', className: 'primary', onclick: advance },
@@ -195,7 +195,7 @@ export function practice(ctx) {
           el('p', { className: 'line' }, el('b', {}, 'You answered: '), chem(answer.given)),
           el('p', { className: 'line' }, el('b', {}, 'Correct answer: '), chem(question.choices[question.answerIndex])),
           el('p', { className: 'line muted' }, chem(question.explanation)),
-          plateFor(set, question),
+          platesFor(set, question),
         ),
       );
     }

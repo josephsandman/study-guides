@@ -57,13 +57,16 @@ changes are needed.
   "superTitle": "header",
   "title": "subheader",
   "description": "...",
-  "image": {                    // optional; one annotated image per guide
-    "id": "...",
-    "file": "assets/image.png",   // relative to the guide folder
-    "alt": "...",
-    "caption": "...",
-    "legend": [{ "marking": "...", "means": "..." }]
-  },
+  "images": [                    // optional; every image questions can show
+    {
+      "id": "...",
+      "file": "assets/image.png",   // relative to the guide folder; .svg or .png
+      "alt": "...",
+      "caption": "...",             // optional
+      "legend": [{ "marking": "...", "means": "..." }],   // optional
+      "show" : "answer"             // optional; "prompt" (default) or "answer"
+    }
+  ],
   "sections": [{ "id": "definitions", "name": "Core definitions" }],
   "questions": [
     {
@@ -77,7 +80,7 @@ changes are needed.
       "id": "ex-01",
       "type": "multiple_choice",
       "section": "sectionId",
-      "image": "imageId", // optional; matches image.id, shown with the answer only
+      "image": "imageId", // optional; see "Images" below
       "prompt": "...",
       "choices": ["A", "B", "C", "D"],
       "answerIndex": 3,          // zero-based
@@ -98,6 +101,28 @@ flashcard term should have at least one question that tests it, and every
 question should have a flashcard that teaches what it asks for. A section with
 cards but no questions — or the reverse — leaves one of the modes unable to
 cover it.
+
+### Images
+
+Images live in the top-level `images` list. A question or flashcard shows them
+by id - one id, or a list of ids:
+
+```jsonc
+"image": "orbital-diagrams"
+"image": ["orbital diagrams", "periodic-table"]
+```
+
+Each image's `show` decides when it appears, for every question that uses it:
+
+- `"prompt"` (the default) - with the question, before it is answered. Use this
+for diagrams the question asks about.
+- `"answer"` - only after answering (practice test) or flipping (flashcards).
+Use this for answer keys/answer explanations.
+
+The results screen shows every image for each missed question. Images are drawn
+at their own size, scaled down to fit the screen, and open full screen with a
+tap. SVG is preferred - it stays sharp when zoomed - but PNG works the same way.
+Put the files in the guide's `assets/` folder.
 
 ### Subscripts and superscripts
 

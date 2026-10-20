@@ -2,42 +2,45 @@
   "superTitle" : "Chem 1401 — Exam 1",
   "title": "Atoms, Molecules, and Ions",
   "description": "Practice set for chemistry 1401 exam one.",
-  "image": {
-    "id": "periodic-table",
-    "file": "assets/periodic-table.png",
-    "alt": "Hand-annotated blank periodic table. Purple diagonal slashes mark the non-metals in the upper right (plus hydrogen). Blue diagonal slashes mark the metals across the left and center and the two detached bottom rows. Pink diagonal slashes mark the semimetals along the staircase between them. Solid fills: pink group 1A, orange group 2A, yellow group 7A, green group 8A.",
-    "caption": "Annotated periodic table from the original flashcard set. Colors and slash patterns are the answer key for the group and metal-classification cards.",
-    "legend": [
-      {
-        "marking": "Purple slashes",
-        "means": "Non-metals (upper right, plus H)"
-      },
-      {
-        "marking": "Blue slashes",
-        "means": "Metals"
-      },
-      {
-        "marking": "Pink slashes",
-        "means": "Semimetals / metalloids, along the staircase"
-      },
-      {
-        "marking": "Solid pink",
-        "means": "Group 1A — alkali metals"
-      },
-      {
-        "marking": "Solid orange",
-        "means": "Group 2A — alkaline earth metals"
-      },
-      {
-        "marking": "Solid yellow",
-        "means": "Group 7A — halogens"
-      },
-      {
-        "marking": "Solid green",
-        "means": "Group 8A — noble gases"
-      }
-    ]
-  },
+  "images": [
+    {
+      "id": "periodic-table",
+      "show": "answer",
+      "file": "assets/periodic-table.png",
+      "alt": "Hand-annotated blank periodic table. Purple diagonal slashes mark the non-metals in the upper right (plus hydrogen). Blue diagonal slashes mark the metals across the left and center and the two detached bottom rows. Pink diagonal slashes mark the semimetals along the staircase between them. Solid fills: pink group 1A, orange group 2A, yellow group 7A, green group 8A.",
+      "caption": "Annotated periodic table from the original flashcard set. Colors and slash patterns are the answer key for the group and metal-classification cards.",
+      "legend": [
+        {
+          "marking": "Purple slashes",
+          "means": "Non-metals (upper right, plus H)"
+        },
+        {
+          "marking": "Blue slashes",
+          "means": "Metals"
+        },
+        {
+          "marking": "Pink slashes",
+          "means": "Semimetals / metalloids, along the staircase"
+        },
+        {
+          "marking": "Solid pink",
+          "means": "Group 1A — alkali metals"
+        },
+        {
+          "marking": "Solid orange",
+          "means": "Group 2A — alkaline earth metals"
+        },
+        {
+          "marking": "Solid yellow",
+          "means": "Group 7A — halogens"
+        },
+        {
+          "marking": "Solid green",
+          "means": "Group 8A — noble gases"
+        }
+      ]
+    }
+  ],
   "sections": [
     {
       "id": "definitions",

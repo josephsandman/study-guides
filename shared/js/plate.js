@@ -1,11 +1,28 @@
 import { el } from './dom.js';
 
-// Annotated image shown alongside an answer. `question.image` names an entry in the set.
-export function plateFor(set, question) {
-  const image = set.image;
-  if (!question.image || !image || image.id !== question.image) return null;
+// Images attached to a question. `question.iamge` is an id, or a list of ids, from the
+// set's `images` list. Each image's `show` is "prompt" (default: visible while
+// answering) or "answer" (revealed after).
+export function imagesFor(set, question) {
+  return [question.image ?? []]
+    .flat()
+    .map((id) => {
+      const image = set.images?.find((entry) => entry.id === id);
+      if (!image) console.warn(`Question ${question.id}: no image with id "${id}"`);
+      return image && { show: 'prompt', ...image };
+    })
+    .filter(Boolean);
+}
+// Figures for the images shown at `show` ("prompt" or "answer"), or all of them
+export function platesFor(set, question, show) {
+  const plates = imagesFor(set, question)
+    .filter((image) => !show || image.show === show)
+    .map(plate);
+  return plates.length ? plates : null;
+}
 
-  const img = el('img', { src: image.file, alt: image.alt, loading: 'lazy' });
+function plate(image) {
+  const img = el('img', { src: image.file, alt: image.alt ?? '', loading: 'lazy' });
   img.addEventListener('click', () => openPlate(image));
 
   const legend = el('dl', { className: 'legend' });
@@ -29,7 +46,7 @@ export function plateFor(set, question) {
 
 function openPlate(image) {
   const dialog = el('dialog', { className: 'lightbox', 'aria-label': image.caption ?? 'Image' });
-  const zoomed = el('img', { src: image.file, alt: image.alt });
+  const zoomed = el('img', { src: image.file, alt: image.alt ?? '' });
 
   const toggle = el('button', { type: 'button' }, 'Zoom in');
   const setZoom = (on) => {
