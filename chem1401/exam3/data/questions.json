@@ -1,0 +1,1185 @@
+{
+  "superTitle": "Chem 1401 — Exam 3",
+  "title": "Practice Exam",
+  "description": "Questions for Exam III pulled from the official review document.",
+  "images": [
+    {
+      "id": "orbital-diagrams",
+      "file": "assets/orbital-diagrams.svg",
+      "alt": "Four numbered orbital-filling diagrams, each with lines for 1s, 2s and the three 2p orbitals. 1. Carbon: 1s ↑↓, 2s ↑↓, 2p ↑↓ in the first orbital and the other two empty. 2. Oxygen: 1s ↑↓, 2s ↑↓, 2p ↑↓, ↑, ↑. 3. Carbon: 1s ↑↓, 2s ↑↓, 2p ↑, ↑, and one empty. 4. Oxygen: 1s ↑↓, 2s ↑↓, 2p ↑↑, ↑, ↑."
+    },
+    {
+      "id": "socl2-lewis",
+      "file": "assets/socl2-lewis-structure.svg",
+      "alt": "Lewis structure of SOCl2. S sits in the center with one lone pair and single bonds to O above it and to a Cl on each side. The O has three lone pairs, and each Cl has three lone pairs."
+    },
+    {
+      "id": "orbital-diagram-periodic-table",
+      "file": "assets/orbital-diagram-periodic-table.svg",
+      "alt": "Orbital-filling diagram: a [Xe] core, then 6s holding a pair ↑↓, five empty 5d orbitals, and seven 4f orbitals with one ↑ in each of the first four. Below it, a blank periodic table with four lettered boxes: A is the first box of period 4 after group 2A, B is the third box of period 4 after group 2A, C is the third box of the right-hand block in period 4, and D is the third box of the upper detached row at the bottom of the table."
+    },
+    {
+      "id": "periodic-table-regions",
+      "file": "assets/periodic-table-regions.svg",
+      "alt": "Blank periodic table with four lettered regions. A labels the two shaded columns on the far left plus the shaded helium box. B labels the ten-column block in the middle that starts in period 4. C labels the six-column block on the right. D labels the two detached rows below the table."
+    },
+    {
+      "id": "electronegativity-table",
+      "file": "assets/electronegativity-table.svg",
+      "alt": "Table of electronegativities: Br 2.8, P 2.1, Mg 1.2, La 1.0, Cs 0.7."
+    },
+    {
+      "id": "skeleton-structure",
+      "file": "assets/skeleton-structure.svg",
+      "alt": "Skeleton structure drawn with single lines only: H–O–C–C–O–H in a row, with one more O attached above each of the two C atoms."
+    }
+  ],
+  "sections": [
+    {
+      "id": "light",
+      "name": "Light, photons, and matter waves"
+    },
+    {
+      "id": "quantum",
+      "name": "Quantum numbers and orbitals"
+    },
+    {
+      "id": "configurations",
+      "name": "Electron configurations and orbital diagrams"
+    },
+    {
+      "id": "periodic",
+      "name": "The periodic table and periodic trends"
+    },
+    {
+      "id": "bonds",
+      "name": "Electronegativity, polarity, and bond strength"
+    },
+    {
+      "id": "lewis",
+      "name": "Lewis structures and formal charge"
+    }
+  ],
+  "questions": [
+    {
+      "id": "fc-01",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Photon",
+      "answer": "A quantum of light: a discrete packet of electromagnetic energy, *E* = *h*ν, where *h* = 6.626 × 10^{-34} J·s."
+    },
+    {
+      "id": "fc-02",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Energy, frequency, and wavelength of a photon",
+      "answer": "*E* = *h*ν = *hc*/λ. More energy means a higher frequency and a shorter wavelength. Intensity and amplitude change how many photons there are, not the energy of each one."
+    },
+    {
+      "id": "fc-03",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Electromagnetic spectrum by frequency",
+      "answer": "Increasing frequency (and energy): radio < microwave < infrared < visible < ultraviolet < X-ray < gamma ray. Wavelength runs the opposite way."
+    },
+    {
+      "id": "fc-04",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Energy per mole of photons",
+      "answer": "*E* = *h*ν gives J per photon; multiply by 6.022 × 10^{23} mol^{-1} for J/mol, then divide by 1000 for kJ/mol. 2.32 × 10^{12} Hz → 1.54 × 10^{-21} J → 0.926 kJ/mol."
+    },
+    {
+      "id": "fc-05",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "de Broglie wavelength",
+      "answer": "λ = *h*/*mv*, with mass in kg and velocity in m/s. A 250 g (0.250 kg) object at 60 m/s: 6.626 × 10^{-34} ÷ (0.250 × 60) = 4.4 × 10^{-35} m."
+    },
+    {
+      "id": "fc-06",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "de Broglie wavelength and mass",
+      "answer": "The wavelength shrinks as mass and velocity grow. An everyday object's wavelength is far too small to detect, so only tiny particles such as electrons show measurable wave behavior."
+    },
+    {
+      "id": "fc-07",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Heisenberg uncertainty principle",
+      "answer": "Position and momentum can each be measured precisely, but not both at the same time: Δ*x* · Δ*p* ≥ *h*/4π. The more precisely one is known, the less precisely the other can be."
+    },
+    {
+      "id": "fc-08",
+      "type": "flashcard",
+      "section": "light",
+      "prompt": "Balmer–Rydberg equation",
+      "answer": "1/λ = *R*(1/*m*^2 − 1/*n*^2), with *n* > *m*. An electron **emits** light when it drops from a higher level to a lower one and absorbs light when it moves up. The bigger the energy gap, the shorter the wavelength."
+    },
+    {
+      "id": "fc-09",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Principal quantum number, *n*",
+      "answer": "The shell number, *n* = 1, 2, 3, … A larger *n* means a larger orbital, a greater average distance from the nucleus, and a higher orbital energy."
+    },
+    {
+      "id": "fc-10",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Angular momentum quantum number, *l*",
+      "answer": "Sets the subshell and orbital shape. *l* = 0 up to *n* − 1: *l* = 0 is *s*, 1 is *p*, 2 is *d*, 3 is *f*, 4 is *g*. For *n* = 5, *l* = 0, 1, 2, 3, 4."
+    },
+    {
+      "id": "fc-11",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Orbital shapes",
+      "answer": "*s* (*l* = 0): a sphere. *p* (*l* = 1): a dumbbell with two lobes on opposite sides of the nucleus. *d* (*l* = 2): mostly cloverleaf shapes with four lobes. The shape gives *l*; it does not give *n*."
+    },
+    {
+      "id": "fc-12",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Magnetic quantum number, *m_l*",
+      "answer": "The orbital's orientation, any whole number from −*l* to +*l*. Each value is one orbital, so a subshell has 2*l* + 1 orbitals: *p* (*l* = 1) has *m_l* = −1, 0, +1, or 3 orbitals."
+    },
+    {
+      "id": "fc-13",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Reading a subshell label such as 5*d*",
+      "answer": "The number is *n* (exactly 5, not a range), and the letter gives *l* (*d* = 2). So 5*d* means *n* = 5, *l* = 2, and *m_l* = −2, −1, 0, +1, +2."
+    },
+    {
+      "id": "fc-14",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Spin quantum number, *m_s*",
+      "answer": "+½ or −½. One orbital holds at most **2** electrons, and they must have opposite spins."
+    },
+    {
+      "id": "fc-15",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Rules for a valid set of quantum numbers",
+      "answer": "*n* ≥ 1; *l* = 0 to *n* − 1; *m_l* = −*l* to +*l*; *m_s* = +½ or −½. *n* = 3, *l* = 2, *m_l* = 3 is impossible because *m_l* can't exceed *l*."
+    },
+    {
+      "id": "fc-16",
+      "type": "flashcard",
+      "section": "quantum",
+      "prompt": "Orbitals in a shell",
+      "answer": "A shell has *n*^2 orbitals (and holds 2*n*^2 electrons). *n* = 5: 1 *s* + 3 *p* + 5 *d* + 7 *f* + 9 *g* = 25 orbitals."
+    },
+    {
+      "id": "fc-17",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Filling order (aufbau)",
+      "answer": "1*s* 2*s* 2*p* 3*s* 3*p* 4*s* 3*d* 4*p* 5*s* 4*d* 5*p* 6*s* 4*f* 5*d* 6*p*. Te (52 electrons): [Kr] 4*d*^{10} 5*s*^2 5*p*^4 — a group 6A element ends in *p*^4, like O and S."
+    },
+    {
+      "id": "fc-18",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Subshell capacities",
+      "answer": "*s* holds 2, *p* holds 6, *d* holds 10, *f* holds 14. A configuration with more than that, such as 4*d*^{12}, is not allowed."
+    },
+    {
+      "id": "fc-19",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Ground state vs. excited state",
+      "answer": "The ground state fills the lowest-energy orbitals first. An excited state has an electron promoted to a higher orbital; it is still allowed. [Ne] 3*s*^1 3*p*^5 is an excited sulfur atom."
+    },
+    {
+      "id": "fc-20",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Anomalous configurations (Cr and Mo)",
+      "answer": "One *s* electron moves into the *d* subshell to make a half-filled, extra-stable *d*^5 set. Mo: expected [Kr] 5*s*^2 4*d*^4, actual [Kr] 5*s*^1 4*d*^5."
+    },
+    {
+      "id": "fc-21",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Identifying an element from its configuration",
+      "answer": "Add the noble-gas core to the electrons shown; for a neutral atom the total is the atomic number. [Xe] 6*s*^2 5*d*^1 4*f*^7 = 54 + 10 = 64, gadolinium (Gd)."
+    },
+    {
+      "id": "fc-22",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Cation configurations",
+      "answer": "Remove electrons from the highest *n* first, so *ns* empties before (*n* − 1)*d*. Hg [Xe] 4*f*^{14} 5*d*^{10} 6*s*^2 → Hg^{2+} [Xe] 4*f*^{14} 5*d*^{10}."
+    },
+    {
+      "id": "fc-23",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Anion configurations",
+      "answer": "Add one electron per unit of negative charge. Se (34) + 2 = 36 electrons, so Se^{2-} is [Ar] 3*d*^{10} 4*s*^2 4*p*^6, the same as krypton."
+    },
+    {
+      "id": "fc-24",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Outermost shell of an ion",
+      "answer": "After removing electrons, find the highest *n* that still holds electrons and count everything in it. In^{3+} loses 5*p*^1 and 5*s*^2, so its outer shell is *n* = 4: 4*s*^2 4*p*^6 4*d*^{10} = 18 electrons."
+    },
+    {
+      "id": "fc-25",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Pauli exclusion principle",
+      "answer": "No two electrons in an atom can have the same four quantum numbers, so two electrons in one orbital must have opposite spins (↑↓). An orbital drawn as ↑↑ violates it."
+    },
+    {
+      "id": "fc-26",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Hund's rule",
+      "answer": "Electrons fill orbitals of equal energy one at a time with parallel spins before any of them pair up. Carbon's two 2*p* electrons go one each into two orbitals (↑, ↑, one empty), not paired in one (↑↓ with two empty)."
+    },
+    {
+      "id": "fc-27",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Counting unpaired electrons",
+      "answer": "Spread the last subshell's electrons across its orbitals with Hund's rule. Co [Ar] 4*s*^2 3*d*^7: five 3*d* electrons go in singly, two pair up, leaving 3 unpaired."
+    },
+    {
+      "id": "fc-28",
+      "type": "flashcard",
+      "section": "configurations",
+      "prompt": "Valence electrons",
+      "answer": "The electrons in the outermost (highest *n*) shell. Carbon, 1*s*^2 2*s*^2 2*p*^2, has 4 (matching group 4A). Mn, [Ar] 4*s*^2 3*d*^5, has 2 in its outermost shell, *n* = 4."
+    },
+    {
+      "id": "fc-29",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Period and group from a valence configuration",
+      "answer": "The highest *n* is the period, and for main-group elements the number of *s* + *p* valence electrons is the A-group number. 3*s*^2 3*p*^3 → period 3, group 5A (phosphorus)."
+    },
+    {
+      "id": "fc-30",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Valence electrons in the same shell",
+      "answer": "Elements in the same period (row) have their valence electrons in the same shell. K, As and Br are all period 4, so all use *n* = 4."
+    },
+    {
+      "id": "fc-31",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Blocks of the periodic table",
+      "answer": "*s*-block: groups 1A–2A (plus He). *p*-block: groups 3A–8A on the right. *d*-block: the transition metals, groups 3–12 in the middle, starting in period 4. *f*-block: the lanthanides and actinides, the two detached rows at the bottom."
+    },
+    {
+      "id": "fc-32",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Atomic radius trend",
+      "answer": "Decreases left to right across a period (more nuclear charge pulls harder) and increases down a group (more shells). Farther down = larger; farther left = larger. P is smaller than Mg; Te and Sr are larger than both."
+    },
+    {
+      "id": "fc-33",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Radius of ions with the same charge",
+      "answer": "Ions with the same charge follow the group trend: more shells, larger ion. Among the halides, F^- < Cl^- < Br^- < I^-."
+    },
+    {
+      "id": "fc-34",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "First ionization energy trend",
+      "answer": "Increases left to right across a period and bottom to top in a group, the opposite of atomic radius. He is the highest of all (2372 kJ/mol); Cl 1251 > Ca 590 > Na 496 > Rb 403."
+    },
+    {
+      "id": "fc-35",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "First ionization",
+      "answer": "Removing one electron from a neutral gas atom: X(*g*) → X^+(*g*) + e^-. Mg: [Ne] 3*s*^2 → [Ne] 3*s*^1 + e^-."
+    },
+    {
+      "id": "fc-36",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Successive ionization energies",
+      "answer": "IE_1 < IE_2 < IE_3 < … Each later electron is pulled from an ion that is already positive and holds its electrons more tightly, so P(*g*) → P^+(*g*) + e^- takes the least energy."
+    },
+    {
+      "id": "fc-37",
+      "type": "flashcard",
+      "section": "periodic",
+      "prompt": "Electron affinity",
+      "answer": "The energy change when a gas atom gains an electron. Nonmetals (except noble gases) have the most negative, most favorable values: O ≈ −141 kJ/mol. Noble gases and group 2A, with full subshells, are unfavorable; Na is only slightly negative."
+    },
+    {
+      "id": "fc-38",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Electronegativity",
+      "answer": "An atom's ability to attract the shared electrons in a bond. It increases toward the upper right of the periodic table, not counting the noble gases: F 4.0, N 3.0, Si 1.8, Cd 1.7, Ga 1.6."
+    },
+    {
+      "id": "fc-39",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Bond type from electronegativity difference (Δχ)",
+      "answer": "Δχ < 0.5: nonpolar covalent. 0.5 to 2.0: polar covalent. Above 2.0: ionic. Two identical atoms, as in N_2, have Δχ = 0."
+    },
+    {
+      "id": "fc-40",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Partial charges (δ+ and δ−)",
+      "answer": "In a polar covalent bond the more electronegative atom carries δ− and the other δ+. In PCl_5 (P 2.1, Cl 3.0), P is δ+; in CCl_4 (C 2.5), each Cl is δ−. These are partial charges, not full ionic charges."
+    },
+    {
+      "id": "fc-41",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Polar bonds in a nonpolar molecule",
+      "answer": "A molecule can have polar bonds and still be nonpolar overall when its shape is symmetrical, as in CCl_4. Each C–Cl bond is still polar covalent."
+    },
+    {
+      "id": "fc-42",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Ionic character",
+      "answer": "Rises with the electronegativity difference between the two atoms. With Br 2.8: PBr_3 (0.7) < MgBr_2 (1.6) < LaBr_3 (1.8) < CsBr (2.1)."
+    },
+    {
+      "id": "fc-43",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Bond length and bond order",
+      "answer": "Between the same two atoms, single > double > triple in length: N–N ≈ 145 pm, N=N ≈ 125 pm, N≡N ≈ 110 pm. Bonds to H are short (N–H ≈ 101 pm) because H is small."
+    },
+    {
+      "id": "fc-44",
+      "type": "flashcard",
+      "section": "bonds",
+      "prompt": "Bond length and bond strength",
+      "answer": "Longer bonds are weaker. Down the halogens the atoms get larger, so C–F < C–Cl < C–Br < C–I in length, and CI_4 has the weakest bonds."
+    },
+    {
+      "id": "fc-45",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Drawing a Lewis structure",
+      "answer": "Count the valence electrons (add one per negative charge, subtract one per positive), connect the atoms with single bonds, complete the octets of the outer atoms, put any leftover electrons on the central atom, and turn lone pairs into multiple bonds if an atom is still short of an octet."
+    },
+    {
+      "id": "fc-46",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Lewis structure of N_2H_2",
+      "answer": "2 × 5 + 2 × 1 = 12 valence electrons. H–N=N–H with one lone pair on each N uses exactly 12 and gives each N an octet."
+    },
+    {
+      "id": "fc-47",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Electron-dot notation for bonds",
+      "answer": "Each pair of dots between two atoms is one shared pair, or one bond. A:A is a single bond, A::A a double bond, A:::A a triple bond."
+    },
+    {
+      "id": "fc-48",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Formal charge",
+      "answer": "FC = valence electrons − (bonding electrons ÷ 2) − nonbonding electrons. In O=C=O, carbon is 4 − 8/2 − 0 = 0. The best Lewis structure keeps formal charges as close to zero as possible."
+    },
+    {
+      "id": "fc-49",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Formal charges in SOCl_2 (all single bonds)",
+      "answer": "Cl (1 bond, 3 lone pairs): 7 − 1 − 6 = 0. S (3 bonds, 1 lone pair): 6 − 3 − 2 = +1. O (1 bond, 3 lone pairs): 6 − 1 − 6 = −1."
+    },
+    {
+      "id": "fc-50",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Expanded octet",
+      "answer": "A central atom from period 3 or below can hold more than 8 electrons. BrI_2^-: 22 valence electrons; two bonds and the I lone pairs use 16, so the remaining 6 sit on Br as 3 lone pairs (10 electrons around Br)."
+    },
+    {
+      "id": "fc-51",
+      "type": "flashcard",
+      "section": "lewis",
+      "prompt": "Placing double bonds from a skeleton",
+      "answer": "Draw single bonds along the given connections and fill in lone pairs. An atom still short of an octet borrows a lone pair from a neighbor to make a double bond. Oxalic acid, HO–C(O)–C(O)–OH, has 34 electrons and two C=O double bonds."
+    },
+    {
+      "id": "pt-01",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "Photochemists use electromagnetic radiation to initiate chemical reactions, often by providing the energy required to break bonds within a molecule. Lowering which of the following will result in electromagnetic radiation having more energy per photon?",
+      "choices": [
+        "Intensity",
+        "Wavelength",
+        "Amplitude",
+        "Frequency"
+      ],
+      "answerIndex": 1,
+      "explanation": "Photon energy is *E* = *hc*/λ, so energy and wavelength are inversely related: a shorter wavelength means more energy per photon. Intensity and amplitude change how many photons there are, not the energy of each one, and lowering the frequency would lower the energy."
+    },
+    {
+      "id": "pt-02",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "Arrange the following spectral regions in order of increasing frequency: infrared, microwave, ultraviolet, visible.",
+      "choices": [
+        "microwave < infrared < visible < ultraviolet",
+        "microwave < visible < infrared < ultraviolet",
+        "ultraviolet < visible < infrared < microwave",
+        "ultraviolet < infrared < visible < microwave"
+      ],
+      "answerIndex": 0,
+      "explanation": "In order of increasing frequency the spectrum runs radio < microwave < infrared < visible < ultraviolet. Frequency goes up as wavelength gets shorter, and UV has the shortest wavelength of these four."
+    },
+    {
+      "id": "pt-03",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "What is a quantum of light called?",
+      "choices": [
+        "The frequency",
+        "The amplitude",
+        "A photon",
+        "The wavelength"
+      ],
+      "answerIndex": 2,
+      "explanation": "Light comes in discrete packets (quanta) of energy *E* = *h*ν, and each packet is called a photon."
+    },
+    {
+      "id": "pt-04",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "What is the de Broglie wavelength of an electron (*m* = 4.56 × 10^{-31} kg) moving at a velocity of 6.0 × 10^7 m/s?",
+      "choices": [
+        "3.3 × 10^{-8} m",
+        "2.4 × 10^{-11} m",
+        "Less than 3.9 × 10^{-12} m",
+        "Greater than 1.1 × 10^{-4} m"
+      ],
+      "answerIndex": 1,
+      "explanation": "λ = *h*/*mv* = (6.626 × 10^{-34} J·s) ÷ [(4.56 × 10^{-31} kg)(6.0 × 10^7 m/s)] = 2.4 × 10^{-11} m. Use the mass the question gives; the actual electron mass is 9.11 × 10^{-31} kg."
+    },
+    {
+      "id": "pt-05",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "What is the de Broglie wavelength of a 250-g object moving at a velocity of 60 m/s (about 134 mph)?",
+      "choices": [
+        "4.4 × 10^{-38} m",
+        "4.4 × 10^{-35} m",
+        "2.0 × 10^{-35} m",
+        "2.3 × 10^{34} m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Convert grams to kilograms first: 250 g = 0.250 kg. λ = *h*/*mv* = (6.626 × 10^{-34}) ÷ (0.250 × 60) = 4.4 × 10^{-35} m. Leaving the mass in grams gives 4.4 × 10^{-38} m. A wavelength this small can't be detected, which is why everyday objects don't show wave behavior."
+    },
+    {
+      "id": "pt-06",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "According to the Heisenberg uncertainty principle,",
+      "choices": [
+        "The position and momentum of a particle can be measured precisely, but not at the same time.",
+        "Neither the position nor the momentum of a particle can be measured precisely.",
+        "The momentum of a particle cannot be measured precisely.",
+        "The position of a particle cannot be measured precisely."
+      ],
+      "answerIndex": 0,
+      "explanation": "Either position or momentum can be measured precisely on its own, but not both at the same time. The more precisely one is known, the less precisely the other can be (Δ*x* · Δ*p* ≥ *h*/4π)."
+    },
+    {
+      "id": "pt-10",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "The absorption of light of frequency 2.32 × 10^{12} Hz is required for CO molecules to go from the lowest rotational energy level to the next highest rotational energy level. Determine the energy for this transition in kJ/mol. *h* = 6.626 × 10^{-34} J·s",
+      "choices": [
+        "0.926 kJ/mol",
+        "2.63 kJ/mol",
+        "4.69 × 10^{-23} kJ/mol",
+        "949 kJ/mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "*E* = *h*ν = (6.626 × 10^{-34} J·s)(2.32 × 10^{12} s^{-1}) = 1.54 × 10^{-21} J per molecule. Multiply by Avogadro's number (6.022 × 10^{23} mol^{-1}) to get 926 J/mol, then divide by 1000 to get 0.926 kJ/mol."
+    },
+    {
+      "id": "pt-40",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "The greater the energy of a photon, the",
+      "choices": [
+        "Longer the wavelength and the higher the frequency",
+        "Shorter the wavelength and the lower the frequency",
+        "Shorter the wavelength and the higher the frequency",
+        "Longer the wavelength and the lower the frequency"
+      ],
+      "answerIndex": 2,
+      "explanation": "*E* = *h*ν = *hc*/λ. Higher energy means higher frequency, and because wavelength is inversely related to frequency, it also means a shorter wavelength."
+    },
+    {
+      "id": "pt-41",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "Of the following, which has the shortest de Broglie wavelength?",
+      "choices": [
+        "An airplane moving at a velocity of 300 mph",
+        "A nitrogen molecule moving at a velocity of 5000 mph",
+        "A nitrogen molecule moving at a velocity of 1000 mph",
+        "A helium nucleus moving at a velocity of 1000 mph"
+      ],
+      "answerIndex": 0,
+      "explanation": "λ = *h*/*mv*, so wavelength shrinks as mass and speed grow. An airplane's mass (thousands of kg) is enormously larger than a molecule's or a nucleus's, so it has by far the shortest wavelength even at a lower speed."
+    },
+    {
+      "id": "pt-45",
+      "type": "multiple_choice",
+      "section": "light",
+      "prompt": "According to the Balmer–Rydberg equation, electromagnetic radiation with the shortest wavelength will be **emitted** when an electron undergoes which of the following transitions?",
+      "choices": [
+        "*m* = 2 → *n* = 5",
+        "*m* = 2 → *n* = 3",
+        "*n* = 2 → *m* = 1",
+        "*m* = 1 → *n* = 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Emission happens when an electron drops from a higher level to a lower one, and *n* = 2 → *m* = 1 is the only drop listed; the others move upward, which is absorption. It is also the biggest energy gap listed (1/1^2 − 1/2^2 = 0.75), and a bigger gap means a shorter wavelength."
+    },
+    {
+      "id": "pt-07",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "For an electron in a given atom, the larger *n*, the",
+      "choices": [
+        "Smaller the average distance from the nucleus and the higher the orbital energy.",
+        "Larger the average distance from the nucleus and the higher the orbital energy.",
+        "Larger the average distance from the nucleus and the lower the orbital energy.",
+        "Smaller the average distance from the nucleus and the lower the orbital energy."
+      ],
+      "answerIndex": 1,
+      "explanation": "*n* is the shell number. A larger *n* means a bigger orbital whose electron sits farther from the nucleus on average, is held less tightly, and so has higher energy."
+    },
+    {
+      "id": "pt-08",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "The number of orbitals in a given subshell, such as the 5*p* subshell, is determined by the number of possible values of",
+      "choices": [
+        "*m_l*",
+        "*m_s*",
+        "*n*",
+        "*l*"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each allowed value of *m_l* is one orbital orientation. For a *p* subshell (*l* = 1), *m_l* = −1, 0, +1, which gives 3 orbitals. *l* sets which subshell it is, not how many orbitals it has."
+    },
+    {
+      "id": "pt-09",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "What are the possible values of *n* and *m_l* for an electron in a 5*d* orbital?",
+      "choices": [
+        "*n* = 5 and *m_l* = −2, −1, 0, +1, +2",
+        "*n* = 1, 2, 3, 4, or 5 and *m_l* = −2, −1, 0, +1, or +2",
+        "*n* = 5 and *m_l* = 2",
+        "*n* = 1, 2, 3, 4, or 5 and *m_l* = 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "The \"5\" in 5*d* fixes *n* = 5; there is no range. \"*d*\" means *l* = 2, and *m_l* runs from −*l* to +*l*: −2, −1, 0, +1, +2."
+    },
+    {
+      "id": "pt-16",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "A fourth-shell orbital has a dumbbell shape, with two lobes on opposite sides of the nucleus. What are its principal quantum number, *n*, and angular momentum quantum number, *l*?",
+      "choices": [
+        "*n* = 4 and *l* = 2",
+        "*n* = 4 and *l* = 3",
+        "*n* = 4 and *l* = 1",
+        "*n* = 4 and *l* = 0"
+      ],
+      "answerIndex": 2,
+      "explanation": "The orbital's shape gives *l*: a dumbbell is a *p* orbital, so *l* = 1 (sphere = *s*, *l* = 0; cloverleaf = *d*, *l* = 2). The shape alone can't give *n*; it comes from \"fourth shell,\" so *n* = 4."
+    },
+    {
+      "id": "pt-38",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "How many electrons can a single orbital hold?",
+      "choices": [
+        "2*n*",
+        "8",
+        "2",
+        "2*l* + 1"
+      ],
+      "answerIndex": 2,
+      "explanation": "One orbital holds at most 2 electrons, and they must have opposite spins (*m_s* = +½ and −½), per the Pauli exclusion principle. 2*l* + 1 is the number of orbitals in a subshell, not electrons per orbital."
+    },
+    {
+      "id": "pt-39",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "What are the possible values of *l* if *n* = 5?",
+      "choices": [
+        "*l* = 1, 2, 3, 4, 5",
+        "*l* = 0, 1, 2, 3, 4",
+        "*l* = 0, 1, 2, 3, 4, 5",
+        "*l* = −4, −3, −2, −1, 0, +1, +2, +3, +4"
+      ],
+      "answerIndex": 1,
+      "explanation": "*l* can be any whole number from 0 up to *n* − 1. For *n* = 5 that is 0, 1, 2, 3, 4 (the *s*, *p*, *d*, *f* and *g* subshells). Negative values belong to *m_l*, not *l*."
+    },
+    {
+      "id": "pt-42",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "Which of the following is not a valid set of quantum numbers?",
+      "choices": [
+        "*n* = 3, *l* = 2, *m_l* = 3, and *m_s* = +½",
+        "*n* = 2, *l* = 1, *m_l* = 0, and *m_s* = −½",
+        "*n* = 2, *l* = 1, *m_l* = −1, and *m_s* = −½",
+        "*n* = 3, *l* = 0, *m_l* = 0, and *m_s* = +½"
+      ],
+      "answerIndex": 0,
+      "explanation": "*m_l* has to fall between −*l* and +*l*. With *l* = 2 the only allowed values are −2 to +2, so *m_l* = 3 is impossible. The other three sets follow every rule."
+    },
+    {
+      "id": "pt-43",
+      "type": "multiple_choice",
+      "section": "quantum",
+      "prompt": "How many orbitals are there in the fifth shell?",
+      "choices": [
+        "49",
+        "6",
+        "15",
+        "25"
+      ],
+      "answerIndex": 3,
+      "explanation": "A shell has *n*^2 orbitals. For *n* = 5 that is 25 (1 *s* + 3 *p* + 5 *d* + 7 *f* + 9 *g*)."
+    },
+    {
+      "id": "pt-11",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "Which of the following represent electron configurations that are allowed but do **not** represent ground-state configurations? (A) [Ne] 3*s*^1 3*p*^5 (B) [Kr] 4*d*^{12} 5*s*^2 5*p*^3 (C) [Ar] 3*d*^{10} 4*s*^2 4*p*^2",
+      "choices": [
+        "Only (A)",
+        "Only (B)",
+        "(B) and (C)",
+        "(A) and (B)"
+      ],
+      "answerIndex": 0,
+      "explanation": "(A) has 6 valence electrons, so it is sulfur with one 3*s* electron promoted to 3*p*: an allowed excited state. (B) puts 12 electrons in a *d* subshell, which holds a maximum of 10, so it is not allowed. (C) is the normal ground state of germanium."
+    },
+    {
+      "id": "pt-12",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "Molybdenum has an anomalous electron configuration. Write the electron configuration of Mo using shorthand notation.",
+      "choices": [
+        "[Kr] 5*s*^0 4*d*^6",
+        "[Kr] 5*s*^2 4*d*^4",
+        "[Kr] 5*s*^0 4*d*^0 5*p*^6",
+        "[Kr] 5*s*^1 4*d*^5"
+      ],
+      "answerIndex": 3,
+      "explanation": "Like chromium, molybdenum moves one *s* electron into the *d* subshell to make a half-filled *d*^5 set, which is extra stable. The expected 5*s*^2 4*d*^4 becomes 5*s*^1 4*d*^5."
+    },
+    {
+      "id": "pt-13",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "Which element has the ground-state electron configuration [Xe] 6*s*^2 5*d*^1 4*f*^7?",
+      "choices": [
+        "Tb",
+        "Gd",
+        "Eu",
+        "Pt"
+      ],
+      "answerIndex": 1,
+      "explanation": "Count the electrons: [Xe] = 54, plus 2 + 1 + 7 = 10, for a total of 64. Atomic number 64 is gadolinium (Gd)."
+    },
+    {
+      "id": "pt-17",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "image": "orbital-diagrams",
+      "prompt": "Which orbital-filling diagram violates the Pauli exclusion principle?",
+      "choices": [
+        "Diagram 1",
+        "Diagram 2",
+        "Diagram 3",
+        "Diagram 4"
+      ],
+      "answerIndex": 3,
+      "explanation": "Two electrons in the same orbital must have opposite spins (↑↓). Diagram 4 puts two same-spin electrons (↑↑) in one 2*p* orbital, giving them the same four quantum numbers. Diagram 1 breaks Hund's rule instead, and diagrams 2 and 3 are correct."
+    },
+    {
+      "id": "pt-18",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "What is the ground-state electron configuration of tellurium?",
+      "choices": [
+        "[Kr] 5*s*^2 5*p*^6 5*d*^8",
+        "[Kr] 4*d*^{10} 5*s*^2 5*p*^4",
+        "[Kr] 5*s*^2 5*p*^4",
+        "[Kr] 4*f*^{14} 4*d*^{10} 5*s*^2 5*p*^4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Te has 52 electrons, so 52 − 36 ([Kr]) = 16 more. Fill in order: 5*s*^2, then 4*d*^{10}, then 5*p*^4. Te is in group 6A, so it ends in *p*^4 like O and S."
+    },
+    {
+      "id": "pt-19",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "What is the ground-state electron configuration of the ion Hg^{2+}?",
+      "choices": [
+        "[Xe] 4*f*^{14} 5*d*^{10}",
+        "[Xe] 4*f*^{14} 5*d*^{10} 6*s*^2",
+        "[Xe] 4*f*^{14} 5*d*^{10} 6*s*^2 6*p*^2",
+        "[Xe] 4*f*^{14} 5*d*^8 6*s*^2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hg is [Xe] 4*f*^{14} 5*d*^{10} 6*s*^2. A cation loses electrons from the highest *n* first, here 6*s*, not 5*d*. Removing those two leaves [Xe] 4*f*^{14} 5*d*^{10}."
+    },
+    {
+      "id": "pt-29",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "What is the ground-state electron configuration of Se^{2-}?",
+      "choices": [
+        "[Ar] 3*d*^{10} 4*s*^2 4*p*^2",
+        "[Ar] 3*d*^{10} 4*s*^2 4*p*^6",
+        "[Ar] 3*d*^{12} 4*s*^2 4*p*^4",
+        "[Ar] 3*d*^{10} 4*s*^2 4*p*^4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Se has 34 electrons, and the 2− charge adds 2 more for 36. That matches krypton: [Ar] 3*d*^{10} 4*s*^2 4*p*^6. [Ar] 3*d*^{10} 4*s*^2 4*p*^4 is neutral Se."
+    },
+    {
+      "id": "pt-30",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "How many electrons are in the outermost shell of the In^{3+} ion in its ground state?",
+      "choices": [
+        "6",
+        "2",
+        "3",
+        "18"
+      ],
+      "answerIndex": 3,
+      "explanation": "In is [Kr] 5*s*^2 4*d*^{10} 5*p*^1. Losing three electrons removes 5*p*^1 and 5*s*^2, which empties shell 5. The outermost shell becomes *n* = 4: 4*s*^2 + 4*p*^6 + 4*d*^{10} = 18 electrons."
+    },
+    {
+      "id": "pt-33",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "How many valence-shell electrons does an atom of carbon have?",
+      "choices": [
+        "2",
+        "4",
+        "3",
+        "13"
+      ],
+      "answerIndex": 1,
+      "explanation": "Carbon is 1*s*^2 2*s*^2 2*p*^2. Its outer shell (*n* = 2) holds 2 + 2 = 4 electrons, which matches group 4A."
+    },
+    {
+      "id": "pt-34",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "image": "orbital-diagrams",
+      "prompt": "Which orbital-filling diagram violates Hund's rule?",
+      "choices": [
+        "Diagram 1",
+        "Diagram 2",
+        "Diagram 3",
+        "Diagram 4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hund's rule: electrons fill orbitals of the same energy one at a time, with parallel spins, before any of them pair up. Diagram 1 pairs carbon's two 2*p* electrons in one orbital while the other two 2*p* orbitals are empty; diagram 3 shows carbon filled correctly. Diagram 4 breaks the Pauli principle instead."
+    },
+    {
+      "id": "pt-35",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "image": "orbital-diagram-periodic-table",
+      "prompt": "Atoms of which element, indicated by letter on the periodic table, have the orbital-filling diagram shown?",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerIndex": 3,
+      "explanation": "Count the electrons: [Xe] = 54, plus 6*s*^2 and 4*f*^4, for 60 in all, which is neodymium (Nd). The last subshell filled is 4*f*, so the element is in the *f*-block: the detached lanthanide row, at D. A, B and C are all in period 4, so none of them has a [Xe] core."
+    },
+    {
+      "id": "pt-37",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "How many unpaired electrons are in an atom of Co in its ground state?",
+      "choices": [
+        "1",
+        "2",
+        "7",
+        "3"
+      ],
+      "answerIndex": 3,
+      "explanation": "Co is [Ar] 4*s*^2 3*d*^7. Spread 7 electrons across five 3*d* orbitals using Hund's rule: 5 go in singly, then 2 pair up. That leaves 2 paired orbitals and 3 unpaired electrons."
+    },
+    {
+      "id": "pt-44",
+      "type": "multiple_choice",
+      "section": "configurations",
+      "prompt": "The element Mn has how many valence electrons?",
+      "choices": [
+        "7",
+        "25",
+        "2",
+        "5"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mn is [Ar] 4*s*^2 3*d*^5. Counting valence electrons as those in the outermost (highest *n*) shell, only the two 4*s* electrons are in *n* = 4. Mn can still use its 3*d* electrons in reactions, reaching oxidation states as high as +7."
+    },
+    {
+      "id": "pt-14",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Which of the following have their valence electrons in the same shell?",
+      "choices": [
+        "B, Si, As",
+        "N, As, Bi",
+        "K, As, Br",
+        "He, Ne, F"
+      ],
+      "answerIndex": 2,
+      "explanation": "K, As and Br are all in period 4, so their valence electrons are all in the *n* = 4 shell. Every other option mixes elements from different periods; N, As and Bi share a group, not a period."
+    },
+    {
+      "id": "pt-15",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Of the following, which atom has the **smallest** atomic radius?",
+      "choices": [
+        "Te",
+        "Mg",
+        "P",
+        "Sr"
+      ],
+      "answerIndex": 2,
+      "explanation": "Atomic radius gets smaller going left to right across a period (more nuclear charge pulls harder) and larger going down a group (more shells). P and Mg are both in period 3, and P is farther right, so P is smaller. Te and Sr are in period 5, so they are much larger."
+    },
+    {
+      "id": "pt-21",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Which ion has the **smallest** ionic radius?",
+      "choices": [
+        "Br^-",
+        "I^-",
+        "Cl^-",
+        "F^-"
+      ],
+      "answerIndex": 3,
+      "explanation": "All four are halide ions with the same −1 charge, so they follow the group trend. F^- has the fewest electron shells, so it is the smallest."
+    },
+    {
+      "id": "pt-22",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Of the following, which element has the highest first ionization energy?",
+      "choices": [
+        "Magnesium",
+        "Aluminum",
+        "Sodium",
+        "Sulfur"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ionization energy increases left to right across a period. All four are in period 3, and S is farthest right (S ≈ 1000 kJ/mol vs. Mg 738, Al 578, Na 496)."
+    },
+    {
+      "id": "pt-23",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Which ionization process requires the least energy?",
+      "choices": [
+        "P(*g*) → P^+(*g*) + e^-",
+        "P^+(*g*) → P^{2+}(*g*) + e^-",
+        "P^{3+}(*g*) → P^{4+}(*g*) + e^-",
+        "P^{2+}(*g*) → P^{3+}(*g*) + e^-"
+      ],
+      "answerIndex": 0,
+      "explanation": "Removing the first electron from a neutral atom always takes the least energy. Each later electron is pulled from an ion that is already positive and holds its electrons more tightly (IE_1 < IE_2 < IE_3 < …)."
+    },
+    {
+      "id": "pt-24",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Which element has the most favorable (most negative) electron affinity?",
+      "choices": [
+        "Mg",
+        "Ne",
+        "O",
+        "Na"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nonmetals gain electrons easily, so they have negative (favorable) electron affinities. Oxygen is the only nonmetal here that isn't a noble gas, at about −141 kJ/mol. Ne has a full shell and Mg a full 3*s*, so adding an electron to either is unfavorable. Na's affinity is only slightly negative."
+    },
+    {
+      "id": "pt-27",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "An element that has the valence electron configuration 3*s*^2 3*p*^3 belongs to which period and group?",
+      "choices": [
+        "Period 3; group 3A",
+        "Period 4; group 5A",
+        "Period 3; group 5A",
+        "Period 4; group 3A"
+      ],
+      "answerIndex": 2,
+      "explanation": "The highest *n* (3) gives the period: period 3. The valence electron count (2 + 3 = 5) gives the group: group 5A (15). This element is phosphorus."
+    },
+    {
+      "id": "pt-31",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "List the elements Na, Ca, Rb, Cl, He in order of decreasing first ionization energy.",
+      "choices": [
+        "Rb > Ca > Cl > Na > He",
+        "He > Na > Cl > Ca > Rb",
+        "He > Cl > Ca > Na > Rb",
+        "He > Na > Ca > Cl > Rb"
+      ],
+      "answerIndex": 2,
+      "explanation": "He is the highest of all elements (2372 kJ/mol). Cl is a nonmetal far right in period 3 (1251). Ca (590) is next, then Na (496), and Rb, the lowest-left alkali metal, is the lowest (403). Ca is above Na because it is farther right, even though it is one period lower."
+    },
+    {
+      "id": "pt-32",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "prompt": "Which of the following represents the change in electronic configuration that is associated with the first ionization energy of magnesium?",
+      "choices": [
+        "[Ne] 3*s*^2 + e^- → [Ne] 3*s*^2 3*p*^1",
+        "[Ne] 3*s*^2 → [Ne] 3*s*^1 + e^-",
+        "[Ne] 3*s*^1 3*p*^1 → [Ne] 3*s*^1 + e^-",
+        "[Ne] 3*s*^2 → [Ne] 3*s*^1 3*p*^1"
+      ],
+      "answerIndex": 1,
+      "explanation": "First ionization takes one electron away from a neutral gas atom: X(*g*) → X^+(*g*) + e^-. Mg is [Ne] 3*s*^2, so it loses one 3*s* electron to become [Ne] 3*s*^1. The other options add an electron, start from an excited state, or just move an electron to a higher orbital."
+    },
+    {
+      "id": "pt-36",
+      "type": "multiple_choice",
+      "section": "periodic",
+      "image": "periodic-table-regions",
+      "prompt": "Which grouping of elements, indicated by letter on the periodic table, represents the *d*-block elements?",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerIndex": 1,
+      "explanation": "The *d*-block is the transition metals: groups 3–12 (3B–2B) in the middle of the table, starting in period 4, marked B. A marks the *s*-block (groups 1A–2A plus He), C the *p*-block, and D the *f*-block."
+    },
+    {
+      "id": "pt-28",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "The phosphorus atom in PCl_5 would be expected to have a",
+      "choices": [
+        "Partial negative (δ−) charge.",
+        "3− charge.",
+        "3+ charge.",
+        "Partial positive (δ+) charge."
+      ],
+      "answerIndex": 3,
+      "explanation": "Cl (3.0) is more electronegative than P (2.1), so each P–Cl bond pulls electron density toward Cl. That leaves Cl δ− and P δ+. The bonds are polar covalent, not ionic, so P doesn't get a full charge."
+    },
+    {
+      "id": "pt-46",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "Which is the longest bond?",
+      "choices": [
+        "N≡N",
+        "N–N",
+        "N–H",
+        "N=N"
+      ],
+      "answerIndex": 1,
+      "explanation": "Between the same two atoms, a single bond is longer than a double bond, which is longer than a triple bond (N–N ≈ 145 pm, N=N ≈ 125 pm, N≡N ≈ 110 pm). N–H is short (≈ 101 pm) because hydrogen is so small."
+    },
+    {
+      "id": "pt-47",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "The compound CCl_4 contains",
+      "choices": [
+        "Polar covalent bonds, with partial negative charges on the Cl atoms",
+        "Polar covalent bonds, with partial negative charges on the C atoms",
+        "Ionic bonds",
+        "Nonpolar covalent bonds"
+      ],
+      "answerIndex": 0,
+      "explanation": "C (2.5) and Cl (3.0) are both nonmetals with an electronegativity difference of 0.5, so the bonds are polar covalent. Cl is more electronegative, so it carries the partial negative charge. The molecule as a whole is nonpolar because its shape is symmetrical, but each bond is still polar."
+    },
+    {
+      "id": "pt-48",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "image": "electronegativity-table",
+      "prompt": "Based on the indicated electronegativities, arrange the following in order of increasing ionic character: CsBr, LaBr_3, PBr_3, MgBr_2.",
+      "choices": [
+        "PBr_3, MgBr_2, LaBr_3, CsBr",
+        "CsBr, LaBr_3, MgBr_2, PBr_3",
+        "PBr_3, LaBr_3, MgBr_2, CsBr",
+        "CsBr, MgBr_2, PBr_3, LaBr_3"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ionic character rises as the electronegativity difference (Δχ) grows. Subtracting each element from Br (2.8): PBr_3 0.7 < MgBr_2 1.6 < LaBr_3 1.8 < CsBr 2.1."
+    },
+    {
+      "id": "pt-52",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "A nitrogen atom in N_2 should have a",
+      "choices": [
+        "Charge of 0",
+        "Partial positive (δ+) charge",
+        "Charge of 1−",
+        "Partial negative (δ−) charge"
+      ],
+      "answerIndex": 0,
+      "explanation": "N_2 is two identical atoms, so Δχ = 0. There are no partial charges, and the bond is nonpolar. The formal charge in :N≡N: is 5 − 3 − 2 = 0 for each N."
+    },
+    {
+      "id": "pt-53",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "Of the following elements, which has the highest electronegativity?",
+      "choices": [
+        "Si",
+        "Cd",
+        "N",
+        "Ga"
+      ],
+      "answerIndex": 2,
+      "explanation": "Electronegativity increases toward the upper right of the periodic table (not counting the noble gases). N (3.0) is upper right compared with Si (1.8), Ga (1.6) and Cd (1.7)."
+    },
+    {
+      "id": "pt-54",
+      "type": "multiple_choice",
+      "section": "bonds",
+      "prompt": "Which molecule has the weakest bonds?",
+      "choices": [
+        "CBr_4",
+        "CCl_4",
+        "CF_4",
+        "CI_4"
+      ],
+      "answerIndex": 3,
+      "explanation": "All four molecules have carbon–halogen bonds, and longer bonds are weaker. Iodine has the largest atomic radius, so the C–I bond is the longest and CI_4 has the weakest bonds."
+    },
+    {
+      "id": "pt-20",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "prompt": "Which is the most acceptable electron dot structure for N_2H_2?",
+      "choices": [
+        "H–N–N–H (N–N single bond; two lone pairs on each N)",
+        "H–N=N–H (N=N double bond; one lone pair on each N)",
+        "H–N≡N–H (N≡N triple bond; one lone pair on each N)",
+        "H–N≡N–H (N≡N triple bond; no lone pairs)"
+      ],
+      "answerIndex": 1,
+      "explanation": "Count valence electrons: 2 N × 5 + 2 H × 1 = 12. With single bonds only, the nitrogens can't both have octets. One N=N double bond plus one lone pair on each N uses exactly 12 electrons and gives each N an octet. The other structures use 14 or 10 electrons."
+    },
+    {
+      "id": "pt-25",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "image": "socl2-lewis",
+      "prompt": "Assign formal charges to each atom in the resonance form for SOCl_2 shown.",
+      "choices": [
+        "0 for Cl, +1 for S, and −1 for O",
+        "−1 for Cl, −2 for S, and −2 for O",
+        "0 for Cl, 0 for S, and 0 for O",
+        "−1 for Cl, +4 for S, and −2 for O"
+      ],
+      "answerIndex": 0,
+      "explanation": "Formal charge = valence electrons − (bonding electrons ÷ 2) − nonbonding electrons. Cl (1 bond, 3 lone pairs): 7 − 1 − 6 = 0. S (3 bonds, 1 lone pair): 6 − 3 − 2 = +1. O (1 bond, 3 lone pairs): 6 − 1 − 6 = −1."
+    },
+    {
+      "id": "pt-26",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "prompt": "In the best Lewis structure for CO_2, what is the formal charge on the C atom?",
+      "choices": [
+        "0",
+        "−1",
+        "+1",
+        "+2"
+      ],
+      "answerIndex": 0,
+      "explanation": "CO_2 is O=C=O. Carbon has 4 valence electrons, 8 bonding electrons, and no lone pairs: FC = 4 − 8/2 − 0 = 0."
+    },
+    {
+      "id": "pt-49",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "image": "skeleton-structure",
+      "prompt": "Consider a molecule with the connections shown. When a valid electron dot structure is written, how many double bonds will the molecule contain?",
+      "choices": [
+        "0",
+        "2",
+        "1",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Valence electrons: 2 C × 4 + 4 O × 6 + 2 H × 1 = 34. The seven single bonds use 14, and completing the octets of the four O atoms uses the other 20. Each C then has only 6 electrons, so each upper O shares one lone pair to form a C=O double bond: 2 double bonds."
+    },
+    {
+      "id": "pt-50",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "prompt": "How many lone pairs are on the Br atom in BrI_2^-?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answerIndex": 3,
+      "explanation": "Valence electrons: 3 × 7 + 1 (for the − charge) = 22. Two Br–I bonds use 4, and each I needs 3 lone pairs (12 more), leaving 6 electrons. Those 6 go on the central Br as 3 lone pairs, giving it an expanded octet of 10 electrons."
+    },
+    {
+      "id": "pt-51",
+      "type": "multiple_choice",
+      "section": "lewis",
+      "prompt": "A::A represents",
+      "choices": [
+        "Two lone pairs of electrons",
+        "A double bond",
+        "One lone pair of electrons",
+        "A quadruple bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "In dot notation each pair of dots between two atoms is one shared electron pair, which is one bond. \"::\" is two shared pairs, which makes a double bond."
+    }
+  ]
+}
